@@ -23,7 +23,7 @@
         </mj-column>
       </mj-section>
 
-    <mj-section padding="0px" background-color="#fff">
+    <mj-section padding="0px" background-color="#fff" >
       <mj-column padding="0px" width="100%">
 
         <mj-spacer height="30px" /> 
@@ -101,13 +101,17 @@
         <mj-spacer height="30px" />
 
       </mj-column>
+    </mj-section>
     
-      <mj-section background-color="#fff" padding="0px">
+
+
+    <mj-section background-color="#fff" padding="0px">
         <mj-column>
             <mj-image width="300px" align="center" src="https://media.solidwastemag.com/uploads/2021/04/messe_newcom.png" href="">
         </mj-column>
       </mj-section>
 
-    </mj-section>
+  
+  
   </mj-body>
 </mjml>
