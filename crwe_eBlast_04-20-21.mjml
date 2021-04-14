@@ -1,0 +1,113 @@
+<mjml>
+  <mj-head>
+    <mj-title>No longer an industry secret</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style>
+      main css goes here if needed @media only screen and (max-width:480px) {
+        additional mobile css goes here
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      inline css goes here
+    </mj-style>
+
+  </mj-head>
+
+  <mj-body background-color="#fff" width="640px">
+      
+      <mj-section background-color="#fff" padding="0px">
+        <mj-column width="100%">
+          <mj-image align="center" src="https://media.solidwastemag.com/uploads/2021/04/cwre-registrationheader.jpg" width="640px" href="">
+        </mj-column>
+      </mj-section>
+
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column padding="0px" width="100%">
+
+        <mj-spacer height="30px" /> 
+        <mj-text font-size="26px" font-weight="700" color="#659C40" padding-bottom="0px" align="center">
+            Don’t forget to register for free!</mj-text>
+
+        <mj-spacer height="50px" />
+
+        <mj-text font-size="22px" font-weight="600" color="#000" padding-bottom="0px" align="center">
+            NEW DATES / NEW LOCATION </mj-text>
+
+        <mj-spacer height="20px" />
+
+        <mj-text font-size="18px" font-weight="600" color="#5B9BD5" padding-bottom="0px" align="center">
+            Tuesday, September 14 & Wednesday, September 15, 2021</mj-text>
+
+        <mj-spacer height="10px" />
+
+        <mj-text font-size="18px" font-weight="600" color="#659C40" padding-bottom="0px" align="center">
+            Hall 5 - International Centre, Mississauga, ON</mj-text>
+        
+        <mj-spacer height="20px" />
+
+        <mj-text font-size="18px" font-weight="600" color="#000" padding-bottom="0px" align="center">
+            As a past CWRE registered attendee,<br>
+            we are pleased to offer you a FREE REGISTRATION<br>
+            at CWRE 2021 </mj-text>
+
+        <mj-spacer height="20px" />
+
+        <mj-text font-size="16px" font-weight="400" color="#000" padding-bottom="0px" align="left">
+        It’s fast. <b>EASY</b> and <b>FREE!</b> Regular entrance fee: $65 per person.</mj-text>
+
+        <mj-spacer height="10px" />
+
+        <mj-text font-size="16px" font-weight="400" color="#000" padding-bottom="0px" align="left">
+        All you have to do is to click on the link below to register.</mj-text>
+
+        <mj-text font-size="16px" font-weight="400" color="#000" padding-bottom="0px" align="left">
+        <b>Section A: Registration Fees</b> <br>           
+        In the field (Discount code / VIP code) enter the code: CWRE19 (If not already entered)</mj-text>
+                
+        <mj-spacer height="10px" />
+               
+        <mj-text font-size="16px" font-weight="400" color="#000" padding-bottom="0px" align="left">
+        <b>Section B: Registrant Details</b> <br>           
+        Enter your contact information in this section including, your job title, address, phone number…</mj-text>
+
+        <mj-spacer height="10px" />
+
+        <mj-text font-size="16px" font-weight="400" color="#000" padding-bottom="0px" align="left">
+        <b>Section C: Registration Profile</b> <br>           
+        You must complete this section (it does not take more than one minute) to get your free registration at CWRE 2021.</mj-text>
+
+        <mj-spacer height="10px" />
+
+        <mj-text font-size="16px" font-weight="400" color="#000" padding-bottom="0px" align="left">
+        To complete your registration, click on the button “Continue” and on the Registration
+        Summary page, you can either confirm your registration and receive a confirmation
+        email or add other visitors.</mj-text>
+
+        <mj-spacer height="30px" />
+
+        <mj-text font-size="26px" font-weight="600" color="#000" padding-bottom="0px" align="center">
+            Save $65 per person <br>
+            Register for free!
+        </mj-text>
+
+        <mj-spacer height="30px" />
+
+        <mj-text font-size="14px" font-weight="400" color="#000" padding-bottom="0px" align="left">
+            <b>•	Covid 19- Update:</b> Your health and safety are our top priority - <a href="https://www.wasterecyclingmag.ca/cwre-health-safety/">click here</a> for more information
+        </mj-text>
+
+        <mj-spacer height="30px" />
+
+      </mj-column>
+    
+      <mj-section background-color="#fff" padding="0px">
+        <mj-column>
+            <mj-image width="300px" align="center" src="https://media.solidwastemag.com/uploads/2021/04/messe_newcom.png" href="">
+        </mj-column>
+      </mj-section>
+
+    </mj-section>
+  </mj-body>
+</mjml>
