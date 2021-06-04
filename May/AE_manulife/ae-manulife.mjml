@@ -1,0 +1,77 @@
+<mjml>
+  <mj-head>
+    <mj-title>Manulife Investment Management</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Verdana"></mj-all>
+    </mj-attributes>
+    <mj-style>
+      @media only screen and (max-width:480px){
+
+      additional mobile css goes here
+
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      inline css goes here
+    </mj-style>
+
+  </mj-head>
+
+  <mj-body width="640px">
+    <mj-section>
+      <mj-column>
+
+        <mj-button background-color="#0c4da2" border-radius="0" font-size="18px" align="left" font-weight="600">Industry Insight</mj-button>
+
+        <mj-text color="#00ac5c" font-size="26px" font-weight="600" align="center">Putting ESG at the centre of investing</mj-text>
+
+        <mj-image src="https://www.advisor.ca/wp-content/uploads/sites/5/2021/05/windmills.jpg" href="https://www.advisor.ca/microsite/industry-insights/putting-esg-at-the-centre-of-investing/"></mj-image>
+
+        <mj-text line-height="1.25em" color="#0c4da2" font-size="24px" font-weight="500" align="left">Sustainable investing and <br> smart investing can go hand in hand</mj-text>
+        <mj-text line-height="1.25em" font-size="20px" font-weight="300">Environment, social and governance performance is about risk management and resiliency. To Manulife Investment Management, the right focus can improve the risk-return profile, with better financial performance over time.</mj-text>
+
+      </mj-column>
+    </mj-section>
+      
+      
+    <mj-section padding-top="0px" padding-bottom="0px">
+      <mj-column>
+      	<mj-image width="200px" src="https://www.advisor.ca/wp-content/uploads/sites/5/2021/05/patrick.jpg"></mj-image>
+      	
+      </mj-column>
+      <mj-column vertical-align="middle">
+      	<mj-text font-weight="300" line-height="1.25em" font-size="14px"padding-left="0px">
+        	<b><span style="color:#00ac5c">Patrick Blais</span></b><br>
+          Head of Fundamental Equity Team,<br>
+          Manulife Investment Management<br>
+        </mj-text>
+      	
+      </mj-column>
+      <mj-column>
+      	<mj-image width="200px" src="https://www.advisor.ca/wp-content/uploads/sites/5/2021/05/margaret.jpg"></mj-image>
+      
+      </mj-column>
+      <mj-column vertical-align="middle">
+      	<mj-text font-weight="300" line-height="1.25em" font-size="14px"padding-left="0px">
+        	<b><span style="color:#00ac5c">Margaret Childe</span></b><br>
+          Head of ESG, Canada,<br>
+          Manulife Investment Management<br>
+        </mj-text>
+      	
+      </mj-column>
+    </mj-section>
+          
+    <mj-section>
+          <mj-column>
+      			 <mj-button background-color="#0c4da2" border-radius="0" font-size="18px" align="center" font-weight="600" href="https://www.advisor.ca/microsite/industry-insights/putting-esg-at-the-centre-of-investing/">Click here to learn more</mj-button>
+            
+            <mj-divider padding-top="25px" padding-bottom="25px" border-color="#00ac5c"></mj-divider>
+            
+            <mj-image width="440px" src="https://www.advisor.ca/wp-content/uploads/sites/5/2021/05/logo.jpg"></mj-image>
+            
+      		</mj-column>
+    </mj-section>
+      
+      
+  </mj-body>
+</mjml>

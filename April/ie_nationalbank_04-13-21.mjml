@@ -1,0 +1,108 @@
+<mjml>
+  <mj-head>
+    <mj-title>No longer an industry secret</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style>
+      main css goes here if needed @media only screen and (max-width:480px) {
+        additional mobile css goes here
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      inline css goes here
+    </mj-style>
+
+  </mj-head>
+
+  <mj-body background-color="#fff" width="640px">
+      
+      <mj-section background-color="#fff" padding="0px">
+        <mj-column width="100%">
+          <mj-image align="center" src="https://uat-phoenix.investmentexecutive.com/wp-content/uploads/sites/3/2021/04/Quote-scaled.jpg" width="640px" href="">
+        </mj-column>
+      </mj-section>
+
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column padding="0px" width="100%">
+
+        <mj-text font-size="17px" font-weight="400" color="#000" padding-bottom="0px" align="left">
+          National Bank Financial – Wealth Management was founded in 1902 and has grown to become one of the largest brokerage and wealth management firms in Canada. It is a key business line outside of Quebec for National Bank of Canada, a leading Bank and integrated financial group.</mj-text>
+        <mj-spacer height="10px" />
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column padding="0px" width="100%">
+        <mj-text font-size="17px" font-weight="600" color="#000" padding-bottom="0px" align="left">
+          We do things differently</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px" background-color="#fff">
+
+      <mj-column padding="0px" width="100%">
+
+        <mj-text font-size="17px" font-weight="400" color="#000" padding-bottom="0px" align="left">
+          With 800 investment advisors managing over $120 billion in assets from coast-to-coast, we offer the best of both worlds with the entrepreneurial culture of a boutique firm and the strength of a chartered bank. </mj-text>
+        <mj-text font-size="17px" font-weight="400" color="#000" padding-bottom="0px" align="left"> 
+          We consider our investment advisors like partners and support them with comprehensive resources and industry-leading investment solutions while giving them the freedom to excel as entrepreneurs. Our executive and regional management teams are open-minded, creative and accessible.</mj-text>
+      </mj-column>
+      
+    </mj-section>
+
+
+    <mj-section background-color="#fff">
+        <mj-column>
+          <mj-image padding-bottom="0px" width="200px" align="left" src="https://uat-phoenix.investmentexecutive.com/wp-content/uploads/sites/3/2021/04/simon_updated.jpg">
+          
+        </mj-column>
+        
+    </mj-section>
+
+
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column padding="0px" width="100%">
+
+        <mj-text font-size="17px" font-weight="400" color="#000" padding-top="0px" align="left">
+          Simon Lemay, Senior Vice-President and National Sales Manager</mj-text>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column padding="0px" width="100%">
+
+        <mj-text font-size="17px" font-style="italic" font-weight="400" color="#000" padding-bottom="0px" align="left">
+          “Choosing the right brokerage firm to better serve your clients and finding a partner that will help you grow isn’t easy. Many investment advisors choose NBFWM for our entrepreneurial culture. We offer a unique combination of independence and passion for the industry.”
+        </mj-text>
+        <mj-spacer height="10px" />
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column padding="0px" width="100%">
+
+        <mj-text font-size="17px" font-weight="400" color="#000" align="left">
+          To find out why so many investment advisors moved their practice to NBFWM, click here.</mj-text>
+
+      </mj-column>
+    </mj-section>
+
+  
+    https://www.nbfwm.ca/grow-your-career.html
+
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column padding="0px" width="100%">
+
+        <mj-text font-size="16px" font-weight="400" color="#808080" align="left">
+          National Bank Financial - Wealth Management (NBFWM) is a division of National Bank Financial Inc. (NBF), as well as a trademark owned by National Bank of Canada (NBC) that is used under license by NBF. NBF is a member of the Investment Industry Regulatory Organization of Canada (IIROC) and the Canadian Investor Protection Fund (CIPF), and is a wholly-owned subsidiary of NBC, a public company listed on the Toronto Stock Exchange (TSX: NA)
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>

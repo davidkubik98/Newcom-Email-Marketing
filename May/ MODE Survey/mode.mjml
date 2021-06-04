@@ -1,0 +1,72 @@
+<mjml>
+  <mj-head>
+    <mj-title>We would like your opinion on the 2021 MODE Show</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style>
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; } @media only screen and (max-width:480px) { .noMob { display: none !important; mso-hide: all !important; } .yesMob { display: inline-block !important; text-align: center !important; align: center !important;
+      } .yesMob2 { padding:0px !important;display: inline-block !important; width:100% !important; } .mobPad { padding-top: 10px !important; ; text-align: center !important; align: center !important; } .centerMe { text-align: center !important; align: center !important; } .socImg{
+      width:33% !important; display:inline-block !important; padding:0px !important;}
+    }
+    </mj-style>
+    <mj-style inline="inline">
+      .yesMob { display: none !important; mso-hide: all !important; } .yesMob2 { display: none !important; mso-hide: all !important; } .underline1 { text-decoration: underline solid #da45bd; } .underline2 { text-decoration: underline solid #33cc99; } .underline3
+      { text-decoration: underline solid #8061a8; }
+    </mj-style>
+	<mj-preview>Please take a few minutes to complete our survey, we would like to hear from our MODE community</mj-preview>
+  </mj-head>
+
+  <mj-body width="640px">
+    <mj-section>
+      <mj-column>
+
+					<mj-image href="https://www.surveymonkey.com/r/exhMODE21
+" src="https://market.modeshow.ca/wp-content/uploads/2021/05/header.jpg" padding="0px" padding-top="20px"></mj-image>
+        
+        	<mj-text padding-top="30px" padding-bottom="30px" line-height="1.5em" font-size="18px" font-weight="500">Hello <first_name>,<br></br>
+Hope this email finds you well.<br></br>
+Delivering a safe and successful MODE Show continues to be our top priority.<br><br>
+We are carefully monitoring the vaccination rollout and government regulations to ensure the 2021 event will be a safe place to bring exhibitors and buyers together to do business.<br><br>
+We’ve been working extensively with our suppliers to determine the best course of action for MODE 2021 and exploring the option of moving our August 2021 MODE show to the Fall of 2021.<br><br>
+As you are part of the MODE community, we would like your opinion for the 2021 MODE Show.
+</mj-text>
+           
+            <mj-button border="solid 8px" font-size="26px" border-radius="0px" href="https://www.surveymonkey.com/r/exhMODE21" background-color="white" color="#3c8f9f"><b>Begin Survey</b></mj-button>
+            
+            <mj-text font-size="18px" font-weight="500" align="center">Please respond by June 2nd, the survey will only take a few minutes.</mj-text>
+
+            <mj-text padding-top="20px" line-height="1.5em" font-size="18px" font-weight="500">Thank you for taking the time to complete the survey. We will be in touch as more information becomes available.<br><br>
+Sincerely,<br>
+The MODE team</mj-text>   
+              
+            <mj-text padding-top="20px" align="center" font-size="18px"><a href="" style="color:#3c8f9f;text-decoration:none;font-weight:600;">modeshow.ca</a></mj-text>
+
+      </mj-column>
+    </mj-section>
+              
+        <mj-section padding-top="10px" padding-bottom="0px"background-color="#fff">
+      <mj-column width="100%">
+<mj-divider border-width="1px" width="80%"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+          <mj-section padding-top="30px" background-color="#fff">
+      <mj-column  width="16%">
+				<mj-image src="https://market.modeshow.ca/wp-content/uploads/2021/05/ig.jpg" width="45px" href="https://www.instagram.com/modeshowcanada/"></mj-image>
+      </mj-column>
+              <mj-column  width="16%">
+		<mj-image src="https://market.modeshow.ca/wp-content/uploads/2021/05/twitter.jpg" width="45px"href="https://twitter.com/modeshowcanada"></mj-image>
+      </mj-column>  <mj-column width="16%">
+		<mj-image src="https://market.modeshow.ca/wp-content/uploads/2021/05/fb.jpg" width="45px"href="https://www.facebook.com/modeshowcanada"></mj-image>
+      </mj-column>
+    </mj-section>
+     <mj-section padding-top="0px" background-color="#fff">
+      <mj-column width="100%">
+ <mj-text color="#000" font-weight="700" font-size="20px" align="center">@modeshowcanada </mj-text>
+      </mj-column>
+    </mj-section>         
+              
+  </mj-body>
+</mjml>

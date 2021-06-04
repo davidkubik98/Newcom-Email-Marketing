@@ -1,0 +1,120 @@
+<mjml>
+  <mj-head>
+    <mj-title>CE Corner</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style>
+      main css goes here if needed @media only screen and (max-width:480px) {
+      additional mobile css goes here
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      inline css goes here
+    </mj-style>
+
+  </mj-head>
+
+  <mj-body background-color="#fff" width="640px">
+
+    <mj-wrapper border="1px solid #000000">
+
+      <mj-section background-color="#000000">
+        <mj-column>
+          <mj-text line-height="40px"align="left" font-size="35px" font-weight="550" color="#FFFFFF" padding-top="0px" padding-bottom="0px" align="center">GIVE<br>YOURSELF<br>CREDIT.</mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0px" background-color="#fff">
+
+        <mj-column padding="0px" width="100%">
+
+          <mj-spacer height="20px" />
+
+          <mj-text font-size="17px" font-weight="600" color="#000" padding-bottom="0px" align="left">
+            Long time no see [first_name]</mj-text>
+
+          <mj-spacer height="10px" />
+
+          <mj-text font-size="17px" font-weight="400" color="#000" align="left">
+            Thank you for being an active user of CE Corner — where you get the credits you need to remain in good standing
+            and excel at your job. Today we are announcing the launch of CE Corner’s <b>membership</b> program. We want to upgrade
+            you from a user to a member to better serve you with more access to the credits, content, and tools you need.
+          </mj-text>
+
+          <mj-spacer height="0px" />
+
+
+          <mj-text font-size="16px" font-weight="600" color="#000" padding-bottom="0px" align="left">
+            Membership benefits include:
+          </mj-text>
+
+          <mj-text font-size="17px" font-weight="400" color="#000" align="left">
+            <br>
+            • Unlimited access to hundreds of courses accredited by IIROC, FP Canada, the Institute for Advanced Financial Education and more.
+            <br>
+            <br>
+            • My Report Card: A certificate management tool to house ALL of your certificates whether you earned them on CE Corner or somewhere else.
+            <br>
+            <br>
+            • My Plan: An organization tool designed to keep you on track. We’ll remind you how many credits you have left and when your certificates are due.
+            <br>
+            <br>
+            • IIROC Cycle 8 (expires Dec. 31, 2021): All 30 required credits, in all subject areas, will be launching soon (currently 25/30 online).
+            Access to the exclusive members-only newsletter.
+          </mj-text>
+
+          <mj-text font-size="17px" font-weight="600" color="#000" padding-bottom="0px" align="left">
+            Get the most out of CE Corner this year by becoming a member!</mj-text>
+
+          <mj-spacer height="20px" />
+
+        </mj-column>
+
+      </mj-section>
+
+      <mj-section background-color="#E11C23">
+        <mj-column>
+          <mj-text line-height="25px" font-size="17px" font-weight="400" color="#FFFFFF" padding-top="0px" padding-bottom="0px" align="center">
+            <b>50% OFF</b> 
+            <br> <br>
+            <b>USE CODE: LOYALMEMBER</b> 
+            <br>
+
+            Loyalty offer ends May 7th, 2021. <br>
+
+            <b>BECOME A MEMBER TODAY!</b> <br>
+
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0px" background-color="#fff">
+        <mj-column padding="0px" width="100%">
+          <mj-text font-size="17px" font-weight="400" color="#000" align="left">
+            For a limited time, become an annual member for $99.50 (regular price: $199) - that’s
+            less than $10 a month. Don’t miss out!
+            <br>
+            <br>
+            <br>
+          </mj-text>
+
+          <mj-text font-size="13px" font-weight="400" color="#000" align="left">
+            Many of the CE Corner features you currently enjoy will be available only to members.
+            Act now to get the tools and support you need to succeed at this special rate.
+            Visit the FAQ page <a href="https://www.cecorner.ca/faq?utm_source=AdminMessage1&utm_medium=email&utm_campaign=conversion_campaign&utm_source=MV_CE+Corner+%2f+Espace+FC&utm_medium=email&utm_content=HTMLLinkID%3a+2&utm_campaign=Big+news!">here</a>!
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#fff">
+        <mj-column width="100%">
+          <mj-image padding="0px" align="center" src="https://www.advisor.ca/wp-content/uploads/sites/5/2021/04/AdminMessage_footer_CEcorner-e1617909195625.png" width="640px" href="https://www.canadianunderwriter.ca">
+        </mj-column>
+      </mj-section>
+
+
+
+    </mj-wrapper>
+  </mj-body>
+</mjml>

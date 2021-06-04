@@ -1,0 +1,38 @@
+<mjml>
+  <mj-head>
+    <mj-title>Tokuyama Dental</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Verdana"></mj-all>
+    </mj-attributes>
+    <mj-style>
+      @media only screen and (max-width:480px){
+      .attendCTA{
+      align:center;
+      }
+      additional mobile css goes here
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      inline css goes here
+    </mj-style>
+
+  </mj-head>
+
+  <mj-body width="640px">
+    <mj-section>
+      <mj-column>
+
+        <mj-image src="https://media.oralhealthgroup.com/uploads/2021/05/embed.png" href="https://youtu.be/Zo3-EY6bDfc"></mj-image>
+        
+        <mj-text line-height="1.5em" font-size="16px"><b>An Economic Way to Complete Costly Orthodontic Treatments with Composite Veneers</b><br></br>
+
+In today’s world, societal pressures and expectations have compelled an increasing amount of people to become more conscious about their dental hygiene and the look of their smile. Having a beautiful smile has continuously increased in popularity and is believed to boost self-esteem and confidence.<br></br>
+
+According to the Dental Industry Association of Canada (DIAC)’s Twelfth Annual Future of Dentistry Survey in 2020, 26% of dentists surveyed said they will be completing more veneer cases in the next two years while 47% expected their volume will remain the same. Veneers are becoming a more common way to improving one’s appearance. Many patients consider them a long-term investment; yet striking a balance between affordability and quality remains a challenge for many.</mj-text>
+        
+        <mj-button font-size="16px" background-color="#7340BA" href="https://www.oralhealthgroup.com/oral-health/an-economic-way-to-complete-costly-orthodontic-treatments-with-composite-veneers-1003959139/" font-weight="600">Learn More</mj-button>
+
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
