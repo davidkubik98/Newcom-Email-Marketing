@@ -1,0 +1,121 @@
+<mjml>
+  <mj-body>
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-image href="https://www.expocam.ca/" padding="0px" src="https://www.expocam.ca/wp-content/uploads/2021/07/expocam.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column background-color="#005aab">
+        <mj-text background-color="#005aab" color="white" font-weight="500" align="left" padding-left="50px">Visitor Newsletter &#8226; July 2021</mj-text>
+      </mj-column>
+      <mj-column background-color="#005aab">
+        <mj-text background-color="#005aab" font-weight="500" align="right" padding-right="50px"><a href="" style="color:white;text-decoration:none;">Français</a></mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section>
+    	<mj-column>
+      	<mj-text color="#005aab" font-size="18px" font-weight="500">This year at ExpoCam, you will have the opportunity to:</mj-text>
+      	<mj-text padding-top="0px" padding-bottom="0px" font-size="14px" font-weight="300" line-height="20px">
+        	<ul>
+          	<li>Discover a unique show layout in a new venue for ExpoCam</li>
+            <li>Meet and connect with <span style="color:#005aab;font-weight:600;">200+</span> industry top suppliers </li>
+            <li>Contact <span style="color:#005aab;font-weight:600;">30+</span> potential employers</li>
+            <li>Check out new equipment, parts &#38; accessories, technology, services available for the Canadian market</li>
+          </ul>
+        </mj-text>
+        <mj-text padding-top="0px" font-size="14px" font-weight="300" line-height="20px" align="center"><strong>If you are not already registered</strong> or if you want to invite a colleague or business partner
+          to ExpoCam. It’s easy, <a href="https://myconexsys.com/EventRegistration/Website?regId=765&eCode=EXPC0421E&lang=2&discountcode=EX21" style="color:#f36f21;font-weight:600;text-decoration:none;">CLICK-HERE</a> to register online. <strong>Use VIP Code:</strong><a href="https://myconexsys.com/EventRegistration/Website?regId=765&eCode=EXPC0421E&lang=2&discountcode=EX21" style="color:#f36f21;font-weight:600;text-decoration:none;"> EX21</a></mj-text>
+        <mj-divider border-width="1px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section padding-top="0px">
+    	<mj-column padding-left="0px" width="60%">
+      	<mj-image src="https://www.expocam.ca/wp-content/uploads/2021/07/floorplan.jpg"></mj-image>
+      </mj-column>
+      <mj-column padding-left="0px" width="40%">
+      	<mj-text align="center" font-size="18px" color="#005aab" font-weight="600" line-height="24px">Check out the 2021<br>
+List of Exhibitors</mj-text>
+<mj-text padding-top="0px" align="center" font-size="14px" font-weight="300" line-height="20px">Use our interactive floor plan<br>
+and online exhibitor list</mj-text>
+<mj-text align="center" font-size="14px" font-weight="600" color="#f36f21">4 INDOOR PAVILIONS<br>
+1 OUTDOOR AREA</mj-text>
+         <mj-button href="https://homebase.map-dynamics.com/expocam2021/floorplan" border-radius="0px" background-color="#f36f21" font-weight="600">CLICK-HERE</mj-button>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section padding-top="0px">
+      <mj-column>
+           <mj-divider border-width="1px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section padding-top="0px">
+    	<mj-column>
+        	<mj-image width="150px" src="https://www.expocam.ca/wp-content/uploads/2021/07/recruter.jpg">
+        	</mj-image>
+        	<mj-text font-size="14px" font-weight="300" line-height="20px" align="center"><span style="font-size:18px; color:#005aab; font-weight:600;line-height:24px;">List of Recruiters</span><br>Meet your future employer at ExpoCam 2021!</mj-text>
+
+          <mj-button href="https://www.expocam.ca/2021-list-of-recruiters/" border-radius="0px" background-color="#f36f21" font-weight="600">CLICK-HERE</mj-button>
+          <mj-text align="center" font-size="14px" font-weight="300" line-height="20px" >To see the List of Recruiters
+          </mj-text>
+      </mj-column>
+    	<mj-column>
+                	<mj-image width="150px" src="https://www.expocam.ca/wp-content/uploads/2021/07/attendees.jpg">
+        	</mj-image>
+        <mj-text align="center" font-size="18px" color="#005aab" font-weight="600" line-height="22px">Invite a Colleague or<br>
+          Business Partner<br></br></mj-text>
+
+          <mj-button href="mailto:?subject=&body=Hello,%0D%0A%0D%0AHere is the link to the PDF Brochure.%0D%0A%0D%0ATo view the brochure please click the following link: http://www.uyslist.com/yachts/brochure.pdf" border-radius="0px" background-color="#f36f21" font-weight="600">CLICK-HERE</mj-button>
+          <mj-text align="center" font-size="14px" font-weight="300" line-height="20px">To Register at No Charge
+          </mj-text>
+      </mj-column>
+    </mj-section>
+        
+    <mj-section padding-top="0px">
+      <mj-column>
+           <mj-divider border-width="1px"></mj-divider>
+      </mj-column>
+    </mj-section>
+        
+     <mj-section padding-top="0px">
+    	<mj-column direction="ltr">
+        	<mj-image href="https://www.expocam.ca/#video" width="250px" src="https://www.expocam.ca/wp-content/uploads/2021/07/video.jpg">
+        	</mj-image>
+        	<mj-text padding-top="0px" align="center" font-size="14px" font-weight="300" line-height="20px">Video of the 2019 edition</mj-text>
+
+        	<mj-text>
+            <table align="center">
+            	<tr align="center">
+                <td width="75px"><a href="https://twitter.com/expocam2021"><img style="width:30px;"src="https://www.expocam.ca/wp-content/uploads/2021/07/twitter.jpg"></img></a></td>
+              	<td width="75px"><a href="https://www.instagram.com/expocammtl/"><img style="width:30px;" src="https://www.expocam.ca/wp-content/uploads/2021/07/ig.jpg"></img></a></td>
+                <td width="75px"><a href="https://www.facebook.com/ExpoCam"><img style="width:30px;" src="https://www.expocam.ca/wp-content/uploads/2021/07/fb.jpg"></img></a></td>
+                <td width="75px"><a href="https://www.linkedin.com/in/newcom-media-quebec-expocam-0508b1126/"><img style="width:30px;" src="https://www.expocam.ca/wp-content/uploads/2021/07/linkedin.jpg"></img></a></td>
+              </tr>
+            </table>     
+        	</mj-text>
+      </mj-column>
+    	<mj-column>
+                	<mj-image width="300px" src="https://www.expocam.ca/wp-content/uploads/2021/07/map.jpg">
+        	</mj-image>
+        <mj-text align="center" font-size="18px" color="#005aab" font-weight="600" line-height="20px">Espace Saint-Hyacinthe<br>
+          <span style="font-weight:300;font-size:14px">Montréal (Saint-Hyacinthe), QC</span></mj-text>
+      </mj-column>
+    </mj-section>
+              
+    <mj-section>
+       	<mj-column>
+          <mj-text padding-top="0px" font-size="26px" align="center" font-weight="300">An essential trucking event not to be missed!</mj-text>
+        </mj-column>      
+    </mj-section>          
+   
+    <mj-section padding="0px">
+       	<mj-column>
+          <mj-image src="https://www.expocam.ca/wp-content/uploads/2021/07/footer.jpg"></mj-image>
+        </mj-column>      
+    </mj-section>          
+    
+  </mj-body>
+</mjml>

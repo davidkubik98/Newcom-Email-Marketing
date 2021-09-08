@@ -1,0 +1,113 @@
+<mjml>
+  <mj-head>
+    <mj-title>First Trust | NASDAQ</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Arial, Helvetica, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-style>
+      @media only screen and (max-width:480px){
+      .attendCTA{
+      align:center;
+      }
+      additional mobile css goes here
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      inline css goes here
+    </mj-style>
+
+  </mj-head>
+
+  <mj-body width="640px">
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px" align="center" font-weight="600" font-size="18px">LIVE WEBINAR</mj-text>
+        <mj-text padding-bottom="0px" align="center" font-weight="600" font-size="18px">Greener, Cleaner, Renewable Energy Opportunities</mj-text>
+        <mj-text padding-bottom="0px" align="center" font-size="14px">Tuesday, June 22, 2021 from 1:00 pm to 2:00 pm ET</mj-text>
+        <mj-text padding-bottom="0px" color="#002a4e" align="center" font-size="16px" font-weight="600"><a href="" style="color:#002a4e;">Register Now and get CE Credits</a></mj-text>
+        <mj-text color="#002a4e" padding-top="10px" align="center" font-size="10px">(IIROC)</mj-text>
+
+        <mj-image padding="0px" src="https://www.advisor.ca/wp-content/uploads/sites/5/2021/06/EN_Nasdaq-FirstTrust_Hero_640x428.jpg"></mj-image>
+
+        <mj-text padding-top="40px" padding-left="40px" padding-right="60px" font-size="14px" line-height="24px">Ron Pernick will discuss the Nasdaq Clean Edge Green Energy Index (CELS), including historical development, industry trends, and where the clean-energy market might be headed. Karl Cheong from First Trust will discuss the tracking fund, the First Trust Nasdaq Clean Edge Green Energy Index Fund (QCLN), putting it in the context of the thematic backdrop that renders such forward-looking investment solutions relevant to investors and Advisors seeking to incorporate themes powered by technological innovations as well as the ultimate imperative necessity of protecting our planet.<br></br>
+
+          <span style="font-size:12px;font-style:italic;">This webinar is available in both English and French.</span>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0px">
+      <mj-column padding-right="0px" vertical-align="middle" width="40%">
+
+        <mj-image align="right" width="200px" src="https://www.advisor.ca/wp-content/uploads/sites/5/2021/06/FirstTrust_Nasdaq_KARL.png"></mj-image>
+
+
+      </mj-column>
+
+      <mj-column padding-left="0px" vertical-align="middle" width="60%">
+
+        <mj-text vertical-align="middle" color="#000" line-height="22px"><span style="font-size:16px;">
+            <span style="color:#002a4e;font-weight:600;font-size:22px">Karl Cheong</span><br>
+            Head of Sales and Distribution<br>
+            <span style="font-weight:600;">First Trust Portfolios Canada</span>
+          </mj-text>
+
+      </mj-column>
+    </mj-section>
+          
+    <mj-section padding-top="0px">
+      <mj-column padding-right="0px" vertical-align="middle" width="40%">
+
+        <mj-image align="right" width="200px" src="https://www.advisor.ca/wp-content/uploads/sites/5/2021/06/FirstTrust_Nasdaq_RON.png"></mj-image>
+
+
+      </mj-column>
+
+      <mj-column padding-left="0px" vertical-align="middle" width="60%">
+
+        <mj-text vertical-align="middle" color="#000" line-height="22px"><span style="font-size:16px;">
+            <span style="color:#002a4e;font-weight:600;font-size:22px">Ron Pernick</span><br>
+            Founder and Managing Director<br>
+            <span style="font-weight:600;">Clean Edge, Inc</span>
+          </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding-left="10%" padding-right="10%">
+      <mj-column border="1px solid black">
+
+        <mj-text padding-top="20px" font-size="20px" font-weight="600" align="center">LIVE June 22, 2021 | 1:00 pm ET</mj-text>
+        <mj-button padding-bottom="20px" href="www.google.ca" font-size="20px" width="400px" background-color="#be1d5c" font-weight="600">Register Now and get CE Credits<br><span style="font-size:10px">(IIROC)</span></mj-button>
+
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-bottom="40px">
+      <mj-column>
+        <mj-text padding-bottom="20px" align="center">Brought to you by</mj-text>
+ 
+        <mj-image padding-bottom="40px" width="400px" src="https://www.advisor.ca/wp-content/uploads/sites/5/2021/06/Sponsors_425x55.png"></mj-image>
+        
+        <mj-text padding-bottom="20px" align="center">CE accreditation powered by</mj-text>
+        <mj-image width="180px" src="https://uat-phoenix.investmentexecutive.com/wp-content/uploads/sites/3/2021/05/ce.png"></mj-image>
+
+      </mj-column>
+    </mj-section>
+      
+    <mj-section padding="0" background-color="#000">
+      <mj-column>
+ 
+        <mj-image padding="5px" width="100px" src="https://www.advisor.ca/wp-content/uploads/sites/5/2021/06/Newcom_90x25.png"></mj-image>
+
+
+      </mj-column>
+    </mj-section>
+
+
+
+
+  </mj-body>
+</mjml>

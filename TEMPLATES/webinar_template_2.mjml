@@ -1,0 +1,77 @@
+<mjml>
+  <mj-head>
+    <mj-title>CE Corner</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Verdana"></mj-all>
+    </mj-attributes>
+    <mj-style>
+      @media only screen and (max-width:480px){
+      .attendCTA{
+      align:center;
+      }
+      additional mobile css goes here
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      inline css goes here
+    </mj-style>
+
+  </mj-head>
+
+  <mj-body width="640px">
+    <mj-section>
+      <mj-column >
+        <mj-text padding-bottom="0px" align="center" font-weight="500" font-size="18px">LIVE WEBINAR | COMPANY NAME</mj-text>
+        <mj-text padding-bottom="0px" align="center" font-weight="500" font-size="18px">WEBINAR TITLE </mj-text>
+        <mj-text padding-bottom="0px" align="center" font-size="12px">WEBINAR DATE AND TIME</mj-text>
+        <mj-text align="center" font-size="14px">WEBINAR CTA (REGISTER NOW)</mj-text>
+        
+        <mj-image align="center" src=""></mj-image>
+        
+        <mj-text color="#be1d5c" align="center" font-weight="500" font-size="16px" line-height="1.5em">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at ante malesuada, blandit nisi at, vehicula eros. Duis in nunc id lectus mattis elementum. Morbi sollicitudin mollis turpis, sed sodales felis bibendum sed. In vel justo pretium, aliquam urna sed, rhoncus nibh. </mj-text>
+        <mj-text line-height="1.5em">In imperdiet rhoncus dictum. Sed vel massa non ipsum euismod congue. Duis elementum erat id posuere pellentesque. Nulla nibh felis, posuere ac varius et, accumsan id mauris. Cras at convallis lorem. Nulla a justo sit amet dui porta volutpat. Duis pellentesque ultricies venenatis. Nunc vel mauris hendrerit lectus ultrices tristique. Praesent feugiat sollicitudin ex, quis lobortis nulla vestibulum non. Integer nec placerat dolor.<br></br>
+
+Vivamus a libero eros. Fusce vel enim at neque bibendum feugiat. Sed tristique sodales accumsan. Donec ac massa suscipit, rutrum enim vitae, commodo leo. In et sollicitudin elit. Cras bibendum massa id lacus iaculis hendrerit vel vulputate turpis. Nam lacinia lacus congue purus feugiat dictum. Mauris mattis vitae massa et condimentum. Sed quis scelerisque nunc, eget posuere felis. Cras commodo eget nibh vel ullamcorper. Sed lorem mauris, malesuada eu elit ac, volutpat commodo ante. Morbi sodales bibendum dictum. Maecenas sed dictum justo, a interdum mauris. Aenean in neque a felis vehicula mollis non auctor nisl. Cras at dolor nisi.</mj-text>
+
+        <mj-table>
+          <tr >
+            <td style="width: 100px;">
+              <img src="" />
+            </td>
+            <td >
+              <span style="color:#be1d5c;font-weight:600;">NAME</span><br>
+              JOB POSITION<br>
+              <span style="font-weight:600;">COMPANY NAME</span>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 100px;">
+              <img src="" />
+            </td>
+            <td>
+              <span style="color:#be1d5c;font-weight:600;">NAME</span><br>
+              JOB POSITION<br>
+              <span style="font-weight:600;">COMPANY NAME</span>
+            </td>
+          </tr>
+        </mj-table>
+  
+        <mj-divider width="100%" border-width="1px"></mj-divider>
+            
+        <mj-text align="center">WEBINAR DATE</mj-text>
+        <mj-button background-color="#be1d5c" font-weight="600">WEBINAR CALL TO ACTION</mj-button>
+            
+        <mj-divider width="100%" border-width="1px"></mj-divider>
+            
+        <mj-text align="center">Brought to you by</mj-text>
+        <mj-image src=""></mj-image>
+        <mj-image src=""></mj-image>
+            
+      </mj-column>
+    </mj-section>
+    
+    
+    
+    
+  </mj-body>
+</mjml>

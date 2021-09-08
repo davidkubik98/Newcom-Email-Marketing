@@ -1,0 +1,81 @@
+<mjml>
+  <mj-head>
+    <mj-title>CU Specialty Markets</mj-title>
+    <mj-attributes>
+      <mj-all></mj-all>
+    </mj-attributes>
+    <mj-style>
+      @media only screen and (max-width:480px){
+
+      additional mobile css goes here
+      
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      inline css goes here
+    </mj-style>
+
+  </mj-head>
+
+  <mj-body width="640px">
+    <mj-section padding-bottom="10px" >
+      <mj-column>
+
+        <mj-image padding-left="0px" padding-right="0px" padding-bottom="0px" src="https://media.canadianunderwriter.ca/uploads/2021/06/header.jpg" alt="Canadian Underwriter Specialty Markets Booking Deadline is July 23rd, 2021"></mj-image>
+        
+      </mj-column>
+    </mj-section>
+    
+    <mj-section padding-top="0px">
+      <mj-column padding-right="0px" width="66%">
+				<mj-text line-height="20px">
+            <span style="font-weight:600;font-size:16px;">With more coverage and categories than any directory of its kind, Canadian Underwriter’s annual Specialty Markets guide is the broker’s bible of niche and specialty insurance products in Canada.</span><br></br>
+          
+          <span style="font-weight:600;font-size:16px;">Available in print and through our online portal insurancemarketer.ca, your ad and/or listing will be seen year-round.</span><br></br>
+          
+        <span style="font-weight:600;font-size:14px;color:#e11c23;">IN ADDITION, EVERY MONTH,</span> thousands of insurance professionals search the Insurance Marketer’s interactive online database to find the carriers and MGAs who can meet their customers’ coverage needs.<br></br>
+          <span style="font-weight:600;font-size:14px;color:#e11c23;padding-bottom:0px">AD OPPORTUNITIES:</span>
+        <ul style="padding-top:0px;">
+          <li>A listing, which includes your company profile, unlimited coverages and logo placement in one featured section of your choice is just $1,495</li>
+        <li>Digital banner ad in insurancemarketer.ca portal for 12 month period for $1,999 per month. Guaranteed 25% SOV of ad impressions within portal.</li>
+          </ul>
+       <span style="font-weight:500"> 
+       <span style="font-weight:600;font-size:16px;color:#e11c23;">Canadian Underwriter is Canada's #1 Insurance Publication*</span>  <br></br>
+          
+       <span style="font-weight:600;font-size:16px"><span style="color:#e11c23;">#1</span> in Reach</span> - largest and most qualified circulation of almost 18,000 insurance professionals<br></br>
+          
+       <span style="font-weight:600;font-size:16px"><span style="color:#e11c23;">#1</span> Online</span> - largest web audience with over 300,000 average pageviews per month and social following with over 30,000 followers and reach of over 22,000 brokers across print and digital emails<br></br>
+          
+       <span style="font-weight:600;font-size:16px"><span style="color:#e11c23;">#1</span> in Quality</span> – 100% request subscribers, 100% individually addressed copies.<br></br>
+       </span>
+          
+          <span style="color:grey;font-size:10px;line-height:12px">*Source: Alliance for Audited Media, Publisher’s Statement for six-month period ending Dec 31, 2020 <br>
+          **Google Analytics Jan-Dec 2020</span>
+          
+        </mj-text>
+
+      </mj-column>
+      <mj-column padding-left="0px" width="33%">
+      
+      <mj-image padding="0px" src="https://media.canadianunderwriter.ca/uploads/2021/06/right_column_top.jpg" alt="Canadian Underwriter Print Edition"></mj-image>
+      <mj-text line-height="18px">
+        Your listing will also appear on our searchable online portal: <a href="https://www.canadianunderwriter.ca/insurance-product-directory/" style="text-decoration:none;color:#e11c23;font-weight:600;">insurancemarketer.com</a> for a full year with unlimited updates.
+        
+      </mj-text>
+      
+     <mj-image padding="0px" src="https://media.canadianunderwriter.ca/uploads/2021/06/right_column_bottom.jpg"></mj-image>
+      
+      </mj-column>
+    </mj-section>
+    
+        <mj-section padding-top="0px">
+      <mj-column padding-top="0px">
+        
+                <mj-image padding-top="0px" src="https://media.canadianunderwriter.ca/uploads/2021/06/footer.jpg" alt="Key Dates include a Sales Close and Listing Submission Due Date of July 16th, Advertising Material Due Date of August 2nd and an Impact Date of August 24th. For new inquiries, contact sales@canadianunderwriter.ca or, contact your sales consultant today."></mj-image>
+
+      </mj-column>
+    </mj-section>
+    
+    
+  </mj-body>
+</mjml>

@@ -1,0 +1,387 @@
+<html><head>
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Today's Trucking Digital Edition
+  
+    </title>
+    <style>
+        /* -------------------------------------
+      GLOBAL RESETS
+  ------------------------------------- */
+  
+        body {
+            background-color: #ffffff;
+            font-family: Arial, Helvetica, sans-serif;
+            -webkit-font-smoothing: antialiased;
+            font-size: 14px;
+            line-height: 1.4;
+            margin: 0;
+            padding: 0;
+            -ms-text-size-adjust: 100%;
+            -webkit-text-size-adjust: 100%;
+        }
+  
+        table {
+            border-collapse: separate;
+            mso-table-lspace: 0pt;
+            mso-table-rspace: 0pt;
+            width: 630px;
+        }
+  
+        table td {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 14px;
+            vertical-align: top;
+            max-width: 300px;
+        }
+  
+        /* -------------------------------------
+      BODY & CONTAINER
+  ------------------------------------- */
+  
+        .body {
+            background-color: #ffffff;
+            width: 630px;
+            align: center;
+        }
+  
+        /* Set a max-width, and make it display as block so it will automatically stretch to that width, but will also shrink down on a phone or something */
+  
+        .container {
+            display: block;
+            Margin: 0 auto !important;
+            /* makes it centered */
+            max-width: 630px;
+            padding: 10px;
+            width: 630px;
+        }
+  
+        /* This should also be a block element, so that it will fill 100% of the .container */
+  
+        .content {
+            box-sizing: border-box;
+            display: block;
+            Margin: 0 auto;
+            max-width: 630px;
+            padding: 10px;
+        }
+  
+        /* -------------------------------------
+      HEADER, FOOTER, MAIN
+  ------------------------------------- */
+  
+        .main {
+            background: #ffffff;
+            border-radius: 3px;
+            width: 630px;
+        }
+  
+        .wrapper {
+            box-sizing: border-box;
+            padding: 20px;
+        }
+  
+        .content-block {
+            padding-bottom: 10px;
+            padding-top: 10px;
+        }
+  
+  
+        /* -------------------------------------
+      TYPOGRAPHY
+  ------------------------------------- */
+  
+        h1,
+        h2,
+        h3,
+        h4 {
+            color: #000000;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 400;
+            line-height: 1.4;
+            margin: 0;
+            Margin-bottom: 30px;
+        }
+  
+        h1 {
+            font-size: 35px;
+            font-weight: 300;
+            text-align: center;
+            text-transform: capitalize;
+        }
+  
+        p,
+        ul,
+        ol {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 14px;
+            font-weight: normal;
+            margin: 0;
+            Margin-bottom: 15px;
+        }
+  
+        p li,
+        ul li,
+        ol li {
+            list-style-position: inside;
+            margin-left: 5px;
+        }
+  
+        a {
+            color: #3498db;
+            text-decoration: underline;
+        }
+  
+        /* -------------------------------------
+      BUTTONS
+  ------------------------------------- */
+  
+        .btn {
+            box-sizing: border-box;
+            width: 100%;
+        }
+  
+        .btn>tbody>tr>td {
+            padding-bottom: 15px;
+        }
+  
+        .btn table {
+            width: auto;
+        }
+  
+        .btn table td {
+            background-color: #ffffff;
+            border-radius: 5px;
+            text-align: center;
+        }
+  
+        .btn a {
+            background-color: #ffffff;
+            border: solid 1px #3498db;
+            border-radius: 5px;
+            box-sizing: border-box;
+            color: #3498db;
+            cursor: pointer;
+            display: inline-block;
+            font-size: 14px;
+            font-weight: bold;
+            margin: 0;
+            padding: 12px 25px;
+            text-decoration: none;
+            text-transform: capitalize;
+        }
+  
+        .btn-primary table td {
+            background-color: #3498db;
+        }
+  
+        .btn-primary a {
+            background-color: #3498db;
+            border-color: #3498db;
+            color: #ffffff;
+        }
+  
+        #month {
+            padding-top: 20px;
+            padding-left: 50px;
+        }
+  
+        /* -------------------------------------
+      RESPONSIVE AND MOBILE FRIENDLY STYLES
+  ------------------------------------- */
+  
+        @media only screen and (max-width: 620px) {
+            .body2 h1 {
+                font-size: 28px !important;
+                margin-bottom: 10px !important;
+            }
+            .body2 p,
+            .body2 ul,
+            .body2 ol,
+            .body2 td,
+            .body2 span,
+            .body2 a {
+                font-size: 25px !important;
+            }
+            .wrapper2 {
+                padding: 10px !important;
+            }
+            .content2 {
+                padding: 0 !important;
+            }
+            .container2 {
+                padding: 0 !important;
+                width: 100% !important;
+            }
+            .main2 {
+                border-left-width: 0 !important;
+                border-radius: 0 !important;
+                border-right-width: 0 !important;
+            }
+  
+            .link {
+                width: 100% !important;
+            }
+            table td {
+                max-width: 100% !important;;
+                display: inline-block !important;;
+                text-align: center;
+                font-size: 30px;
+  
+            }
+            #ttLogo {
+                max-width: 400px !important;
+                width:400px !important;
+                display: inline-block;
+            }
+            #month {
+                padding-top: 0px;
+                padding-left: 0px;
+                padding-bottom: 20px;
+            }
+            #monthSpan{
+                
+            }
+        }
+  
+        /* -------------------------------------
+      PRESERVE THESE STYLES IN THE HEAD
+  ------------------------------------- */
+  
+        @media all {
+            table[class=body2] {
+                width: 100%;
+            }
+        }
+    </style>
+  </head>
+  
+  <body width="100%" height="100%" style="">
+    <div style="width: 0px; height: 0px; line-height: 0; overflow: hidden; font-size: 0px; display: none; text-size-adjust: none;">Wait no longer. The June edition of Today’s Trucking is now live, and editor James Menzies shows how you can shed 4,500 lb. from a tractor-trailer – and where such lightweighting makes sense. Editorial director John G. Smith shines a light on the “weirdest” parts shortage affecting Canadian fleets, as well as the selection and care of urban tires. Jack Roberts takes you on a test run in Peterbilt’s new medium-duty truck lineup, and associate editor Leo Barros discusses how seat choices and posture can affect driver health. All this and much more is just a click away.</div>
+    <table border="0" cellpadding="0" align="center" cellspacing="0" class="body2" style="max-width:630px">
+        <tbody><tr>
+            <td>&nbsp;</td>
+            <td class="container2" align="center">
+                <div class="content2">
+                    <table class="main2" border="0" cellpadding="0" cellspacing="0" align="center" width="640" style="max-width:640px;">
+                        <tbody><tr>
+                            <td class="wrapper2">
+                                <table border="0" cellpadding="0" cellspacing="0" align="center" width="640" style="max-width:640px">
+                                    <tbody><tr>
+                                        <td>
+                                            <table border="0" cellpadding="0" cellspacing="0" align="center" width="640" style="max-width:640px">
+                                                <tbody><tr><td>
+                                                    <table id="logoTable" border="0" cellpadding="0" cellspacing="0" align="left" width="300" style="width:300px;max-width:300px">
+                                                        <tbody><tr>
+                                                            <td id="logo">
+  
+                                                                <a href="http://www.trucknews.com/">
+                                                                    <img src="https://www.trucknews.com/wp-content/uploads/2020/03/TT-logo-blue_web_rev.jpg" alt="Today's Trucking Logo" id="ttLogo" width="300" max-width="300" style="max-width:300px">
+                                                                </a>
+                                                            </td>
+  
+                                                        </tr>
+                                                    </tbody></table>
+                                                </td>
+                                                <td>
+                                                    <table id="month" border="0" cellpadding="0" cellspacing="0" align="right" width="350" style="width: 350px; max-width: 350px;">
+                                                        <tbody><tr>
+                                                            <td id="month"><span class="monthSpan"><span style="font-size: 13px;"><b>July 2021</b> DIGITAL ISSUE</span>
+                                                                </span>
+                                                            </td>
+  
+                                                        </tr>
+                                                    </tbody></table>
+                                                </td>
+                                            </tr></tbody></table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                                    <td>
+                                                        <a href="https://www.trucknews.com/digital-archive/todays-trucking-july-2021" target="_blank" style="text-decoration:none">
+                                                            <img src="https://www.trucknews.com/wp-content/uploads/2021/06/TT-DE-July-August-2021-Banner.jpg" width="640" max-width="640" style="display: block;width:640px;max-width:640px" alt="">
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                    <tr>
+                                        <td>
+                                            <table border="0" cellpadding="0" cellspacing="0" align="center" width="640" style="max-width:640px">
+                                                <tbody><tr>
+                                                    <td><br>
+  
+                                                            <p style="margin-bottom:8.0pt;line-height:106%">It’s summertime and accessing the July/August edition of Today’s Trucking is easy. The digital edition is just a click away. Editor James Menzies asks <b>how vulnerable North America’s fuel network has become</b> in the face of labor shortages, cyberattacks and pipeline drama. Associate editor Leo Barros says it may be time to <b>welcome Big Brother in an era of ADAS.</b> All this plus <b>flatdeck trailer innovations, collision repair considerations,</b> and more are ready for your summer reading.
+
+                                                            </p>
+  
+                                                               
+  
+                                                            <p>To read this issue,
+                                                                <a href="https://www.trucknews.com/digital-archive/todays-trucking-july-2021"
+                                                                >CLICK HERE</a>
+                                                            </p>
+                                                            Have a letter to the editor? Email
+                                                            <a href="mailto:johng@newcom.ca" target="new">johng@newcom.ca</a>.
+                                                            <br>
+                                                            <br>
+                                                        
+                                                    </td>
+                                                </tr>
+                                                <!-- /////////	FOOTER  ///////// -->
+                                                <tr>
+                                                    <td align="center" valign="top">
+  
+                                                        <table border="0" cellpadding="0" cellspacing="0" width="640">
+                                                            <tbody><tr>
+                                                                <td align="center" valign="top" id="footerWidgetBlockCell">
+                                                                    <table border="0" cellpadding="0" cellspacing="0" width="640">
+                                                                        <tbody><tr>
+                                                                            <td align="left" valign="top" class="footerWidgetContent">
+                                                                                <a href="http://www.newcom.ca" target="_blank" style="color:#aaaaaa; text-decoration: none;outline: none;">
+                                                                                    <img src="https://www.trucknews.com/wp-content/uploads/2020/11/img-tnd-newcom-logo.png" alt="Newcom" style="display: inline; vertical-align: middle; outline: none; text-decoration: none;-ms-interpolation-mode: bicubic; border: none;">
+                                                                                    <small> © 2021</small>
+                                                                                </a>
+                                                                            </td>
+                                                                            <td align="right" valign="middle" class="footerWidgetContent">
+                                                                                <table border="0" cellpadding="0" cellspacing="0" width="300" style="max-width:300px">
+                                                                                    <tbody><tr>
+                                                                                        <td align="right" valign="middle" class="footerWidgetContent">
+                                                                                            <a href="https://twitter.com/todaystrucking" target="_blank" style="color: #aaaaaa;text-decoration: none;outline: none;">
+                                                                                                <img src="https://www.trucknews.com/wp-content/uploads/2016/05/img-tnd-twitter_icon.png" alt="Truck News Twitter" style="display:inline;vertical-align:middle; outline: none;text-decoration:none; -ms-interpolation-mode:bicubic; border:none;">
+                                                                                            </a>&nbsp;
+                                                                                            <a href="https://www.facebook.com/TodaysTrucking" target="_blank" style="color: #aaaaaa;text-decoration: none;outline: none;">
+                                                                                                <img src="https://www.trucknews.com/wp-content/uploads/2016/05/img-tnd-facebook_icon.png" alt="Truck News  Facebook" style="display:inline; vertical-align:middle; outline: none; text-decoration:none; -ms-interpolation-mode:bicubic; border:none;">
+                                                                                            </a>&nbsp;
+                                                                                            <a href="https://www.linkedin.com/company/today%27s-trucking/" target="_blank" style="color: #aaaaaa;text-decoration: none;outline: none;">
+                                                                                                <img src="https://www.trucknews.com/wp-content/uploads/2016/05/img-tnd-linkedin_icon.png" alt="Truck News  LinkedIn" style="display:inline; vertical-align:middle; outline:none; text-decoration: none; -ms-interpolation-mode:bicubic; border:none;">
+                                                                                            </a>&nbsp;
+                                                                                            <br><br>
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                </tbody></table>
+  
+                                                                            </td>
+                                                                        </tr>
+                                                                    </tbody></table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody></table>
+                                                    </td>
+                                                </tr>
+                                                <!--///////////////////////////////////////////-->
+  
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+  
+  
+                                </tbody></table>
+                            </td>
+                        </tr>
+  
+                    </tbody></table>
+  
+                </div>
+            </td>
+        </tr>
+    </tbody></table>
+  </body></html>

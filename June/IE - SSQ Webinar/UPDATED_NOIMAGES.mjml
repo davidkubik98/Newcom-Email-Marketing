@@ -1,0 +1,127 @@
+<mjml>
+  <mj-head>
+    <mj-title>Webinar Template</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Verdana"></mj-all>
+    </mj-attributes>
+    <mj-style>
+      @media only screen and (max-width:480px){
+      .attendCTA{
+      align:center;
+      }
+      additional mobile css goes here
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      inline css goes here
+    </mj-style>
+
+  </mj-head>
+
+  <mj-body background-color="#006349" width="640px">
+
+    <mj-section  padding-top="50px" padding-bottom="0px">
+      <mj-column background-color="#eeeeee">
+        <mj-image padding-top="30px" align="center" src="https://uat-phoenix.investmentexecutive.com/wp-content/uploads/sites/3/2021/05/SSQ_120x60.png" width="120px"></mj-image>
+
+
+
+        <mj-text font-weight="300" font-size="20px" align="center">
+
+          <img valign="middle" src="https://uat-phoenix.investmentexecutive.com/wp-content/uploads/sites/3/2021/06/IE_webinar_icon_70x70.png" style="padding-bottom:5px;padding-right:10px;width:30px;"/>LIVE WEBINAR
+
+        </mj-text>
+        <mj-text font-size="30px" align="center">Leveraging behavioural science in today's economy</mj-text>
+        <mj-divider width="150px" border-width="1px"></mj-divider>
+        <mj-text align="center" line-height="1.5em">Would you like to demystify behavioural science<br>and its impact on financial decision making?</mj-text>
+        <mj-button href="https://register.gotowebinar.com/register/6462120522131687691" font-size="16px" background-color="#009d3c" font-weight="600" color="#fff">REGISTER NOW & GET CE CREDITS</mj-button>
+        <mj-text font-size="10px" padding-top="0px" padding-bottom="40px" align="center">Accreditation pending for ICM, ICS, IIROC, and The Institute</mj-text>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#eeeeee" padding-top="0px" padding-bottom="0px" padding-left="40px" padding-right="40px">
+
+      <mj-column padding-left="20px" background-color="#eeeeee" border="1px solid #629c8d" border-right="none">
+        <mj-text vertical-align="middle">
+          <img valign="middle" src="https://uat-phoenix.investmentexecutive.com/wp-content/uploads/sites/3/2021/05/Calendar-icon_45x45.png" />
+          DATE: June 16<sup>th</sup>, 2021
+
+
+        </mj-text>
+
+      </mj-column>
+
+      <mj-column background-color="eeeeee" border="1px solid #629c8d" border-left="none">
+        <mj-text>
+          <img valign="middle" src="https://uat-phoenix.investmentexecutive.com/wp-content/uploads/sites/3/2021/05/Clock-icon_45x45.png"></img>
+          TIME: 2PM ET
+
+        </mj-text>
+      </mj-column>
+
+
+
+    </mj-section>
+
+    <mj-section background-color="#eeeeee" padding-top="0px" padding-bottom="0px">
+      <mj-column padding-top="20px" padding-bottom="20px" background-color="#eeeeee">
+
+        <mj-text align="left" line-height="2em" padding-left="10%" padding-right="10%">
+          Behavioural science can help us understand why emotions influence risky financial decisions. Join Michael Finke for a captivating insight into why emotions influence risky financial decisions.<br></br>
+          Michael will help you understand how people make risk assessments based on their personal experiences. He will also demonstrate how to use behavioural techniques and product strategies to meet long-term financial goals.
+        </mj-text>
+
+        <mj-divider width="80%" border-width="1px"></mj-divider>
+
+        <mj-text font-size="28px" align="center">WILL YOU ATTEND?</mj-text>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#eeeeee" padding-top="0px">
+      <mj-column background-color="#eeeeee" css-class="attendCTA" padding-bottom="20px">
+
+        <mj-button href="https://register.gotowebinar.com/register/6462120522131687691" align="right" width="200px" height="50px" border-radius="10px" font-size="16px" background-color="#009d3c" font-weight="600">YES</mj-button>
+      </mj-column>
+      <mj-column background-color="#eeeeee" css-class="attendCTA" padding-bottom="20px">
+        <mj-button href="https://register.gotowebinar.com/register/6462120522131687691" width="200px" height="50px" align="left"  border-radius="10px"width="150px" font-size="16px" background-color="#c0c0c0" font-weight="600">No</mj-button>
+
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" color="#fff" font-size="18px" font-weight="600">Moderator</mj-text>
+        <mj-image width="170px" align="center" src="https://uat-phoenix.investmentexecutive.com/wp-content/uploads/sites/3/2021/05/Jeny_170x170.png"></mj-image>
+        <mj-text align="center" color="#fff" line-height="1.25em"><b>Jeny Yeung, CFP, EPC</b><br>Senior Director, Business Development<br>Individual Insurance<br>SSQ Insurance</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text align="center" color="#fff" font-size="18px" font-weight="600">Speaker</mj-text>
+        <mj-image width="170px" align="center" src="https://uat-phoenix.investmentexecutive.com/wp-content/uploads/sites/3/2021/05/Michael_170x170.png"></mj-image>
+        <mj-text align="center" color="#fff" line-height="1.25em"><b>Michael Finke, Ph.D., CFP&reg;</b><br>Professor of wealth management and<br>Frank M. Engle Distinguished Chair in Economic Security<br>The American College of Financial Services</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="50px">
+      <mj-column padding-top="20px" padding-bottom="20px" background-color="#eeeeee">
+        <mj-text font-weight="500" align="center">Brought to you by</mj-text>
+        <mj-image padding-bottom="30px" width="200px" align="center" src="https://uat-phoenix.investmentexecutive.com/wp-content/uploads/sites/3/2021/05/SSQ_120x60.png"></mj-image>
+
+        <mj-text font-weight="500" align="center">CE accreditation powered by</mj-text>
+        <mj-image width="250px" align="center" src="https://uat-phoenix.investmentexecutive.com/wp-content/uploads/sites/3/2021/05/CE_logo_120x60.png"></mj-image>
+      </mj-column>
+    </mj-section>
+          
+          
+          
+   <mj-section padding-bottom="50px">
+      <mj-column padding-top="20px" padding-bottom="20px" background-color="#eeeeee">
+        <mj-text font-weight="500" align="center">FOOTER</mj-text>
+
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>

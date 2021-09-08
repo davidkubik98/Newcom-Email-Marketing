@@ -1,0 +1,89 @@
+<mjml>
+  <mj-body>
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-image href="https://www.expocam.ca/" padding="0px" src="https://www.expocam.ca/wp-content/uploads/2021/07/header_fr.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column background-color="#005aab">
+        <mj-text background-color="#005aab" color="white" font-weight="500" align="left" padding-left="50px">&nbsp;&nbsp;&nbsp;&nbsp;</mj-text>
+      </mj-column>
+      <mj-column background-color="#005aab">
+        <mj-text background-color="#005aab" font-weight="500" align="right" padding-right="50px"><a href="https://www.cfmediaview.com/ViewMessage.aspx?org=Newcom&msg=28727" style="color:white;text-decoration:none;">English</a></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" color="#005aab" font-size="32px" font-weight="700" padding-bottom="0px">PLUS DE 90% VENDUS À L’INTÉRIEUR</mj-text>
+        <mj-text align="center" font-size="18px" line-height="26px" font-weight="300" padding-bottom="20px">Le temps presse, Réservez votre espace dès aujourd’hui<br>
+et faites partie du plus grand salon du camionnage au<br>
+Canada de 2021.</mj-text>
+
+        <mj-divider border-width="1px"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0px">
+      <mj-column padding-left="0px" width="70%">
+        <mj-image href="https://www.expocam.ca/fr/espace-disponible-pour-les-stands/" src="https://www.expocam.ca/wp-content/uploads/2021/07/floorplan.jpg"></mj-image>
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section padding-top="0px" padding-bottom="0px">
+      <mj-column>
+        <mj-divider border-width="1px"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" font-size="18px" line-height="26px" font-weight="300" padding-top="0px">Cliquez ci-dessous pour voir le plan d’étage<br>
+avec les espaces encore disponibles</mj-text>
+
+        <mj-button href="https://www.expocam.ca/fr/espace-disponible-pour-les-stands/" border-radius="0px" background-color="#f36f21" font-size="18px" font-weight="700" padding-top="20px">PLAN D’ÉTAGE</mj-button>
+
+        <mj-text align="center" color="#005aab" font-size="24px" font-weight="700" padding-top="40px" line-height="32px">VOUS AVEZ DES QUESTIONS ?<br>
+CONTACTEZ-MOI DÈS AUJOURD’HUI.</mj-text>
+
+        <mj-text align="center" color="#000" font-size="20px" font-weight="700" padding-top="10px" line-height="24px">Thierry Quagliata<br>
+          <span style="font-weight:300;">
+            Directeur du salon<br>
+            416.510.5235<br>
+            <a href="mailto:thierry@newcom.ca" style="text-decoration:none;color:#000">thierry@newcom.ca</a>
+          </span>
+        </mj-text>
+
+        <mj-text align="center" color="#005aab" font-size="22px" font-weight="700" padding-top="40px" padding-bottom="20px"><a href="https://www.expocam.ca/fr/" style="text-decoration:none;color:#005aab;">expocam.ca</a></mj-text>
+
+        <mj-text>
+          <table align="center">
+            <tr align="center">
+              <td width="40px"><a href="https://twitter.com/expocam2021"><img style="width:30px;" src="https://www.expocam.ca/wp-content/uploads/2021/07/twitter.jpg"></img></a></td>
+              <td width="40px"><a href="https://www.instagram.com/expocammtl/"><img style="width:30px;" src="https://www.expocam.ca/wp-content/uploads/2021/07/ig.jpg"></img></a></td>
+              <td width="40px"><a href="https://www.facebook.com/ExpoCam"><img style="width:30px;" src="https://www.expocam.ca/wp-content/uploads/2021/07/fb.jpg"></img></a></td>
+              <td width="40px"><a href="https://www.linkedin.com/in/newcom-media-quebec-expocam-0508b1126/"><img style="width:30px;" src="https://www.expocam.ca/wp-content/uploads/2021/07/linkedin.jpg"></img></a></td>
+            </tr>
+          </table>
+        </mj-text>
+
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text padding-top="0px" font-size="20px" align="center" font-weight="300">Un évènement essentiel du camionnage à ne pas manquer!</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-image src="https://www.expocam.ca/wp-content/uploads/2021/07/footer-1.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>

@@ -1,0 +1,167 @@
+<mjml>
+  <mj-body background-color="#ffffff">
+   
+    
+    <mj-section background-color="#ffffff" padding="0px">
+      <mj-column background-color="#ffffff" padding-bottom="20px">
+        <mj-image padding="0px" src="https://uat-phoenix.investmentexecutive.com/wp-content/uploads/sites/3/2021/06/DAC-IE-June-E-Direct-Header.png"></mj-image>
+		  
+      </mj-column>
+    </mj-section>
+    
+  <mj-section background-color="#ffffff" padding="0px" background-color="#fff">
+      <mj-column >
+    			<mj-table padding="0px" cellspacing="20px" >
+        		<tr padding="0px">
+            	 <td bgcolor="#e45637" style="padding: 12px 18px 12px 18px; border-radius:3px" align="center"><a href="http://litmus.com" target="_blank" style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; font-weight: normal; color: #ffffff; text-decoration: none; display: inline-block;">Agenda</a></td>
+              
+         			 <td bgcolor="#000000" style="padding: 12px 18px 12px 18px; border-radius:3px" align="center"><a href="http://litmus.com" target="_blank" style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; font-weight: normal; color: #ffffff; text-decoration: none; display: inline-block;">Speakers</a></td>
+              
+               <td bgcolor="#72c267" style="padding: 12px 18px 12px 18px; border-radius:3px" align="center"><a href="http://litmus.com" target="_blank" style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; font-weight: normal; color: #ffffff; text-decoration: none; display: inline-block;">Enrol</a></td>
+            
+            </tr>
+        	</mj-table>
+    	</mj-column>
+    </mj-section>
+    
+     <mj-section background-color="#ffffff">
+    	<mj-column padding="0px">
+        <mj-text padding="0px" font-size="16px" line-height="22px" font-weight="500" align="center">	
+          The thought leadership is outstanding at Virtual DAC 2021, 		October 17-19.<br><br>
+          Program Director Evelyn Jacks is highly enthused:<br>
+          "It's never a small feat, but this year we are thrilled to offer the richest program ever to help advisors help their clients rediscover their financial stride."<br><br>
+          Featuring eight senior executives, two best-selling authors, leading scholars and top wealth advisors.<br><br>
+          <span style="color:#f91b10;font-size:18px">Meet the Speakers:</span>
+          </mj-text>
+       </mj-column>
+    </mj-section>
+    
+     <mj-section padding="0px" background-color="#ffffff">
+          <mj-column width="33%">
+       			<mj-image src="https://uat-phoenix.investmentexecutive.com/wp-content/uploads/sites/3/2021/06/paulbates.jpg"></mj-image>
+            
+            <mj-text line-height="16px" padding="0px" align="center" font-weight="500"><span style="color:#07395e;">Dr. Paul Bates</span><br>Why We Need to Do More:<br>The Notion of Ethos</mj-text>
+       
+       		</mj-column>
+       		<mj-column width="33%">
+       <mj-image src="https://uat-phoenix.investmentexecutive.com/wp-content/uploads/sites/3/2021/06/frankryan.jpg"></mj-image>
+       
+            <mj-text line-height="16px" padding="0px" align="center" font-weight="500"><span style="color:#07395e;">Frank Ryan</span><br>Master of Ceremonies<br>Welcome</mj-text>
+       		</mj-column>
+       		<mj-column width="33%">
+       <mj-image src="https://uat-phoenix.investmentexecutive.com/wp-content/uploads/sites/3/2021/06/evelynjacks.jpg"></mj-image>
+       
+            <mj-text line-height="16px" padding="0px" align="center" font-weight="500"><span style="color:#07395e;">Evelyn Jacks</span><br>Practice Management:<br>The Greatest Recovery on Earth</mj-text>
+       		</mj-column>
+     </mj-section>
+            
+          <mj-section padding="0px" background-color="#ffffff">
+          <mj-column width="33%">
+       			<mj-image src="https://uat-phoenix.investmentexecutive.com/wp-content/uploads/sites/3/2021/06/jackmintz.jpg"></mj-image>
+            
+            <mj-text line-height="16px" padding="0px" align="center" font-weight="500"><span style="color:#07395e;">Dr. Jack Mintz</span><br>Investment Planning:<br>What If Conventional Wisdom is Wrong?</mj-text>
+       
+       		</mj-column>
+       		<mj-column width="33%">
+       <mj-image src="https://uat-phoenix.investmentexecutive.com/wp-content/uploads/sites/3/2021/06/christinevan.jpg"></mj-image>
+       
+            <mj-text line-height="16px" padding="0px" align="center" font-weight="500"><span style="color:#07395e;">Christine Van Cauwenberghe</span><br>Intergenerational Wealth:<br>Planning With Trusts</mj-text>
+       		</mj-column>
+       		<mj-column width="33%">
+       <mj-image src="https://uat-phoenix.investmentexecutive.com/wp-content/uploads/sites/3/2021/06/deansmith.jpg"></mj-image>
+       
+            <mj-text line-height="16px" padding="0px" align="center" font-weight="500"><span style="color:#07395e;">Dr. Dean Smith</span><br>Global Families:<br>Beware the Multi-Million Dollar Tax Traps</mj-text>
+       		</mj-column>
+     </mj-section>
+            
+     <mj-section padding="0px" background-color="#ffffff">
+          <mj-column width="33%">
+       			<mj-image src="https://uat-phoenix.investmentexecutive.com/wp-content/uploads/sites/3/2021/06/darrellkeezer.jpg"></mj-image>
+            
+            <mj-text line-height="16px" padding="0px" align="center" font-weight="500"><span style="color:#07395e;">Darrell Keezer</span><br>Social Media Strategies for Leaders</mj-text>
+       
+       		</mj-column>
+       		<mj-column width="33%">
+       <mj-image src="https://uat-phoenix.investmentexecutive.com/wp-content/uploads/sites/3/2021/06/tobymahabir.jpg"></mj-image>
+       
+            <mj-text line-height="16px" padding="0px" align="center" font-weight="500"><span style="color:#07395e;">Toby Mahabir</span><br>How Much is Enough?<br>Host: Denim & Diamonds<br>Awards Gala</mj-text>
+       		</mj-column>
+       		<mj-column width="33%">
+       <mj-image src="https://uat-phoenix.investmentexecutive.com/wp-content/uploads/sites/3/2021/06/joeglionna.jpg"></mj-image>
+       
+            <mj-text line-height="16px" padding="0px" align="center" font-weight="500"><span style="color:#07395e;">Joe Glionna</span><br>Starting Points:<br>Lessons Learned and How to Build On Them</mj-text>
+       		</mj-column>
+     </mj-section>
+            
+          <mj-section padding="0px" background-color="#ffffff">
+          <mj-column width="33%">
+       			<mj-image src="https://uat-phoenix.investmentexecutive.com/wp-content/uploads/sites/3/2021/06/somsief.jpg"></mj-image>
+            
+            <mj-text line-height="16px" padding="0px" align="center" font-weight="500"><span style="color:#07395e;">Som Sief</span><br>Digital Finance and Its Implications</mj-text>
+       
+       		</mj-column>
+       		<mj-column width="33%">
+       <mj-image src="https://uat-phoenix.investmentexecutive.com/wp-content/uploads/sites/3/2021/06/kiranthakkar.jpg"></mj-image>
+       
+            <mj-text line-height="16px" padding="0px" align="center" font-weight="500"><span style="color:#07395e;">Kiran Thakkar</span><br>Privacy, Security, and The Small Business Owners</mj-text>
+       		</mj-column>
+       		<mj-column width="33%">
+       <mj-image src="https://uat-phoenix.investmentexecutive.com/wp-content/uploads/sites/3/2021/06/chrislogan.jpg"></mj-image>
+       
+            <mj-text padding="0px" align="center" font-weight="500" line-height="16px"><span style="color:#07395e;">Chris Logan</span><br>Ask the Experts Panel:<br>Ethical Dilemmas</mj-text>
+       		</mj-column>
+     
+              
+        </mj-section >
+                 <mj-section padding="0px" background-color="#ffffff">
+          <mj-column width="33%">
+       			<mj-image src="https://uat-phoenix.investmentexecutive.com/wp-content/uploads/sites/3/2021/06/lorilee.jpg"></mj-image>
+            
+            <mj-text line-height="16px" padding="0px" align="center" font-weight="500"><span style="color:#07395e;">Lori Lee</span><br>Financial Risk Management:<br>Re-Building Financial Health</mj-text>
+       
+       		</mj-column>
+       		<mj-column width="33%">
+       <mj-image src="https://uat-phoenix.investmentexecutive.com/wp-content/uploads/sites/3/2021/06/brianshaw.jpg"></mj-image>
+       
+            <mj-text padding="0px" align="center" font-weight="500" line-height="16px"><span style="color:#07395e;">Dr. Brian Shaw</span><br>Managing Mental Health<br>Taking Care of Our Human Resources</mj-text>
+       		</mj-column>
+       		<mj-column width="33%">
+       <mj-image src="https://uat-phoenix.investmentexecutive.com/wp-content/uploads/sites/3/2021/06/kimmoody.jpg"></mj-image>
+       
+            <mj-text line-height="16px" padding="0px" align="center" font-weight="500"><span style="color:#07395e;">Kim Moody</span><br>Wealth Planning:<br>Are Wealth Taxes on The Horizon?</mj-text>
+       		</mj-column>
+     </mj-section>
+            
+       </mj-section >
+       <mj-section background-color="#ffffff" padding="0px" padding-bottom="30px">
+          <mj-column vertical-align="middle" width="33%">
+       			<mj-image src="https://uat-phoenix.investmentexecutive.com/wp-content/uploads/sites/3/2021/06/jordychilcott.jpg"></mj-image>
+            
+           <mj-text line-height="16px" padding="0px" align="center" font-weight="500"><span style="color:#07395e;" >Jordy Chilcott</span><br>Executive Suite - Dare to Dream Big: Why The Future is Bright for Advisors in a New Economy</mj-text>
+       
+       		</mj-column>
+      
+            
+       		<mj-column vertical-align="middle" width="66%">
+            
+            <mj-text vertical-align="middle" padding="0px" font-weight="400"><span style="color:#f91b10;font-weight:500;" line-height="16px">EVERYTHING IS INCLUDED:</span><br><br>STELLAR EDUCATION, UP TO 30 CE CREDITS, AND ALL THE LIBATIONS TO MAKE THIS YOUR BEST CONFERENCE EVER!</mj-text>
+              
+       		</mj-column>
+
+     </mj-section>       
+    
+      <mj-section padding="0px" background-color="#ffffff">
+        <mj-column padding="0px">
+          <mj-text color="#f91b10" align="center" font-weight="500" font-size="18px" padding="0px" padding-bottom="30px" align="left">Join Us in Thanking This Year's Sponsor's!</mj-text>
+          <mj-image padding="0px" padding-bottom="20px" src="https://uat-phoenix.investmentexecutive.com/wp-content/uploads/sites/3/2021/06/E-DIRECT-Sponsors-DAC-2021.png"></mj-image>
+          <mj-image padding="0px" padding-bottom="20px" src="https://uat-phoenix.investmentexecutive.com/wp-content/uploads/sites/3/2021/06/logo.jpg"></mj-image>
+          
+         <mj-text color="#07395e" align="center" font-weight="500" font-size="18px" padding="0px" padding-bottom="30px" align="left">Let's Connect: 1.866.953.4769 &#183; <a href="http://www.knowledgebureau.com/" style="text-decoration:none;color:#07395e;">www.knowledgebureau.com</a></mj-text>
+          
+          
+        </mj-column>
+    </mj-section>   
+          
+          
+  </mj-body>
+</mjml>
