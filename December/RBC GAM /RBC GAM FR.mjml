@@ -1,0 +1,174 @@
+<mjml>
+  <mj-head>
+    <mj-title>Comment les thèmes ESG majeurs influencent-ils les investisseurs dans un monde post-COVID ?</mj-title>
+    <mj-preview>En savoir plus.</mj-preview>
+
+  </mj-head>
+  <mj-body width="640px">
+
+
+    <mj-section>
+      <mj-column>
+        <!-- HEADER IMAGE -->
+        <mj-image href="https://www.advisor.ca/feature/partner-content-from-rbc-global-asset-management/" padding="0px" src="https://www.conseiller.ca/wp-content/uploads/sites/4/2021/12/rbc-header-fr.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <!-- ARTICLE 1 STARTS -->
+    <mj-section padding-top="0px" padding-bottom="0px">
+      <mj-column padding-top="0px" padding-bottom="0px">
+        <mj-text font-size="18px" font-weight="bold">Établir des liens : biodiversité et changement climatique</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0px" padding-bottom="0px">
+      <mj-column width="40%" padding-top="0px" padding-bottom="0px">
+        <mj-image align="left" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/12/image1.png"></mj-image>
+      </mj-column>
+      <mj-column width="60%" padding-top="0px">
+        <mj-text padding-left="0px" font-size="12px" line-height="20px">Comprendre le lien entre la biodiversité et l’atténuation du
+changement climatique est essentiel à la réussite des entreprises.
+Découvrez l’importance de la biodiversité et son incidence sur le
+changement climatique, les entreprises et les profits.</mj-text>
+        <mj-button href="https://www.advisor.ca/partner-content_/partner-reports/making-connections-biodiversity-and-climate-change/" background-color="#0051a5" padding-left="0px" align="left" inner-padding="5px 15px" font-size="16px" border-radius="0px">En savoir plus</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-divider padding="0px" border-color="#96c1ed" border-width="2px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- ARTICLE 1 ENDS -->
+
+    <!-- ARTICLE 2 STARTS -->
+    <mj-section padding-top="0px" padding-bottom="0px">
+      <mj-column padding-top="0px" padding-bottom="0px">
+        <mj-text font-size="18px" font-weight="bold">Zéro émission nette de gaz à effet de serre : changement d’attitude des investisseurs</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0px" padding-bottom="0px">
+      <mj-column width="40%" padding-top="0px" padding-bottom="0px">
+        <mj-image align="left" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/12/image2.png"></mj-image>
+      </mj-column>
+      <mj-column width="60%" padding-top="0px">
+        <mj-text padding-left="0px" font-size="12px" line-height="20px">RBC GMA explique comment les gestionnaires d’actifs peuvent
+appuyer les cibles climatiques et réduire les risques</mj-text>
+        <mj-button href="https://www.advisor.ca/partner-content_/partner-reports/net-zero-greenhouse-gas-emissions-changing-investor-attitudes/" background-color="#0051a5" padding-left="0px" align="left" inner-padding="5px 15px" font-size="16px" border-radius="0px">En savoir plus</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-divider padding="0px" border-color="#96c1ed" border-width="2px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- ARTICLE 2 ENDS -->
+
+    <!-- ARTICLE 3 STARTS -->
+    <mj-section padding-top="0px" padding-bottom="0px">
+      <mj-column padding-top="0px" padding-bottom="0px">
+        <mj-text font-size="18px" font-weight="bold">Changements climatiques : Gérance active et désinvestissement</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0px" padding-bottom="0px">
+      <mj-column width="40%" padding-top="0px" padding-bottom="0px">
+        <mj-image align="left" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/12/image3.png"></mj-image>
+      </mj-column>
+      <mj-column width="60%" padding-top="0px">
+        <mj-text padding-left="0px" font-size="12px" line-height="20px">Dans cet article, nous vous expliquons en quoi consiste la gérance
+active et de quelle façon elle peut répondre aux préoccupations
+concernant les changements climatiques. Nous y comparons aussi
+le rôle de la gérance active et du désinvestissement dans l’atteinte
+des objectifs en matière de changements climatiques.</mj-text>
+        <mj-button href="https://www.advisor.ca/partner-content_/partner-reports/climate-change-active-stewardship-vs-divestment/" background-color="#0051a5" padding-left="0px" align="left" inner-padding="5px 15px" font-size="16px" border-radius="0px">En savoir plus</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-divider padding="0px" border-color="#96c1ed" border-width="2px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- ARTICLE 3 ENDS -->
+
+    <!-- ARTICLE 4 STARTS -->
+    <mj-section padding-top="0px" padding-bottom="0px">
+      <mj-column padding-top="0px" padding-bottom="0px">
+        <mj-text font-size="18px" font-weight="bold">Guide de l’investisseur sur la carboneutralité</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0px" padding-bottom="0px">
+      <mj-column width="40%" padding-top="0px" padding-bottom="0px">
+        <mj-image align="left" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/12/image4.png"></mj-image>
+      </mj-column>
+      <mj-column width="60%" padding-top="0px">
+        <mj-text padding-left="0px" font-size="12px" line-height="20px">Le présent document se penche sur ce qui a motivé les
+engagements de la dernière année et sur l’intégration d’objectifs et
+d’autres facteurs liés au climat dans le processus de placement de
+RBC Gestion mondiale d’actifs (RBC GMA).</mj-text>
+        <mj-button href="https://www.advisor.ca/partner-content_/partner-reports/an-investors-guide-to-net-zero-emissions/" background-color="#0051a5" padding-left="0px" align="left" inner-padding="5px 15px" font-size="16px" border-radius="0px">En savoir plus</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-divider padding="0px" border-color="#96c1ed" border-width="2px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- ARTICLE 4 ENDS -->
+
+    <!-- ARTICLE 5 STARTS -->
+    <mj-section padding-top="0px" padding-bottom="0px">
+      <mj-column padding-top="0px" padding-bottom="0px">
+        <mj-text font-size="18px" font-weight="bold">L’avenir des marchés émergents : les infrastructures vertes</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0px" padding-bottom="0px">
+      <mj-column width="40%" padding-top="0px" padding-bottom="0px">
+        <mj-image align="left" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/12/image5.png"></mj-image>
+      </mj-column>
+      <mj-column width="60%" padding-top="0px">
+        <mj-text padding-left="0px" font-size="12px" line-height="20px">Le présent rapport présente brièvement les principaux facteurs qui
+favoriseront à notre avis la croissance des infrastructures vertes et
+analyse les meilleures façons d’en tirer profit.</mj-text>
+        <mj-button href="https://www.advisor.ca/partner-content_/partner-reports/the-future-of-emerging-markets-green-infrastructure/" background-color="#0051a5" padding-left="0px" align="left" inner-padding="5px 15px" font-size="16px" border-radius="0px">En savoir plus</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-divider padding="0px" border-color="#96c1ed" border-width="2px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- ARTICLE 5 ENDS -->
+
+    <!-- ARTICLE 6 STARTS -->
+    <mj-section padding-top="0px" padding-bottom="0px">
+      <mj-column padding-top="0px" padding-bottom="0px">
+        <mj-text font-size="18px" font-weight="bold">Les répercussions de la pandémie sur l’ESG</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0px" padding-bottom="0px">
+      <mj-column width="40%" padding-top="0px" padding-bottom="0px">
+        <mj-image align="left" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/12/image6.png"></mj-image>
+      </mj-column>
+      <mj-column width="60%" padding-top="0px">
+        <mj-text padding-left="0px" font-size="12px" line-height="20px">Nos équipes, qui sont réparties dans une foule de villes d’Amérique
+du Nord, d’Europe et d’Asie, présentent une variété de points de vue
+concernant les défis - et les occasions - qui attendent les
+investisseurs aujourd’hui.</mj-text>
+        <mj-button href="https://www.advisor.ca/partner-content_/partner-reports/qa-pandemic-impact-on-esg/" background-color="#0051a5" padding-left="0px" align="left" inner-padding="5px 15px" font-size="16px" border-radius="0px">En savoir plus</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-divider padding="0px" border-color="#96c1ed" border-width="2px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- ARTICLE 6 ENDS -->
+
+    <mj-section background-color="#f5f5f5" padding-top="0px" padding-bottom="0px">
+      <mj-column background-color="#f5f5f5">
+        <mj-text font-size="10px" line-height="14px" color="#3a3b3c">® / <sup>MC</sup> Marque(s) de commerce de Banque Royale du Canada, utilisée(s) sous licence.<br>© RBC Gestion mondiale d’actifs Inc. 2021
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+  </mj-body>
+</mjml>
