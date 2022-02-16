@@ -1,9 +1,0 @@
-@font-face {
-    font-family: 'ManulifeJHSansOptimized';
-    src: url('fonts/ManulifeJHSansOptimized.eot');
-    src: url('fonts/ManulifeJHSansOptimized.eot') format('embedded-opentype'),
-         url('fonts/ManulifeJHSansOptimized.woff2') format('woff2'),
-         url('fonts/ManulifeJHSansOptimized.woff') format('woff'),
-         url('fonts/ManulifeJHSansOptimized.ttf') format('truetype'),
-         url('fonts/ManulifeJHSansOptimized.svg#ManulifeJHSansOptimized') format('svg');
-}

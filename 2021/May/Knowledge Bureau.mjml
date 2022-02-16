@@ -1,0 +1,125 @@
+<mjml>
+  <mj-body>
+    
+    <mj-section padding="0px">
+			<mj-column padding="0px" width="50%" >
+		  <mj-text container-background-color="#000" color="#fff" font-weight="400" font-size="26px" align="center"><a href="#" style="text-decoration:none;color:#fff">DAC ACUITY 2021</a></mj-text>  
+      </mj-column>
+      
+			<mj-column padding="0px"width="50%" background-color="#000">
+		  <mj-text line-height="26px" color="#fff" font-weight="400" font-size="14px" align="center"><a href="#" style="text-decoration:none;color:#72c267">Virtual Conference • October 17-19</a></mj-text>  
+      </mj-column>
+
+      </mj-column>
+    </mj-section>
+    
+    <mj-section padding="0px">
+      <mj-column padding-bottom="20px">
+        <mj-image padding="0px" src="https://uat-phoenix.investmentexecutive.com/wp-content/uploads/sites/3/2021/05/hero.jpg"></mj-image>
+		  <mj-text container-background-color="#000" color="#fff" font-weight="400" font-size="20px" align="center"><a href="#" style="text-decoration:none;color:#fff">RE-DISCOVERY: <span style="color:#cbb77b">FROM FRAGILITY TO STABILITY</span></a></mj-text>  
+      </mj-column>
+    </mj-section>
+    
+  <mj-section  padding="0px" background-color="#fff">
+      <mj-column>
+    			<mj-table padding="0px" cellspacing="20px" >
+        		<tr padding="0px">
+            	 <td bgcolor="#e45637" style="padding: 12px 18px 12px 18px; border-radius:3px" align="center"><a href="http://litmus.com" target="_blank" style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; font-weight: normal; color: #ffffff; text-decoration: none; display: inline-block;">Agenda</a></td>
+              
+         			 <td bgcolor="#000000" style="padding: 12px 18px 12px 18px; border-radius:3px" align="center"><a href="http://litmus.com" target="_blank" style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; font-weight: normal; color: #ffffff; text-decoration: none; display: inline-block;">Speakers</a></td>
+              
+               <td bgcolor="#72c267" style="padding: 12px 18px 12px 18px; border-radius:3px" align="center"><a href="http://litmus.com" target="_blank" style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; font-weight: normal; color: #ffffff; text-decoration: none; display: inline-block;">Enrol</a></td>
+            
+            </tr>
+        	</mj-table>
+    	</mj-column>
+    </mj-section>
+    
+     <mj-section>
+    	<mj-column padding="0px">
+        <mj-text padding="0px" font-size="16px" font-weight="500" align="center">Join us for critical content focused on today’s essential financial topics,<br> and some of the best online networking opportunities available,<br> at Canada’s most innovative virtual conference.</mj-text>
+       </mj-column>
+    </mj-section>
+    
+     <mj-section padding="0px">
+    	<mj-column padding-bottom="20px">
+      	<mj-text color="#e45637" font-weight="450" font-size="16px" align="left" padding="0px">THE CONTENT IS PHENOMENAL! OUR 18 KEYNOTE SPEAKERS INCLUDE INDUSTRY THOUGHT LEADERS:</mj-text>
+      </mj-column>
+    </mj-section>
+          
+    <mj-section padding="0px">
+    	<mj-column padding="0px" width="25%">
+      	<mj-text line-height=1.25em align="left" padding="0px">
+        	<ul>
+          	<li>Frank Arnold</li>
+            <li>Dr.Jack Mintz</li>
+            <li>Christine Van Cauwenberghie</li>
+            <li>Dr. Dean Smith</li>
+          </ul>
+        </mj-text>
+      </mj-column>
+      <mj-column padding="0px" width="25%">
+      	<mj-text line-height=1.25em align="left" padding="0px">
+        	<ul>
+          	<li>Manmeet Bhatia</li>
+            <li>Darel Keezer</li>
+            <li>Tony Mahabir</li>
+            <li>Som Sief</li>
+          </ul>
+        </mj-text>
+      </mj-column>
+      <mj-column padding="0px" width="25%">
+      	<mj-text line-height=1.25em align="left" padding="0px">
+        	<ul>
+          	<li>Chris Logan</li>
+            <li>Richard Austin</li>
+            <li>Lori Lee</li>
+            <li>Kim Moody</li>
+          </ul>
+        </mj-text>
+      </mj-column>
+      <mj-column padding="0px" width="25%">
+      	<mj-text line-height=1.25em align="left" padding="0px">
+        	<ul>
+          	<li>Evelyn Jacks</li>
+            <li>And More!</li>
+          </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section padding="0px">
+    	<mj-column padding-bottom="20px">
+      	<mj-text color="#e45637" font-size="14px" align="left" padding="0px">Until June 30, take advantage of early-bird tuition fees for this three-day virtual event with everything included!</mj-text>
+      </mj-column>
+    </mj-section>
+          
+    <mj-section padding="0px">
+      <mj-column padding="0px">
+      	<mj-text line-height=1.25em align="left" padding="0px">
+        	<ul>
+          	<li>CE/CPD Accreditation: pre-approved with Advocis, IROC, Insurance Councils and Knowledge Bureau</li>
+            <li>Comprehensive online Knowledge Journals, pre-learning and poling. Plus, galvanizing interactive sessions.</li>
+            <li>Outstanding and really fun virtual networking events: 3 Welcome receptions, Grad Ceremony, Night at the Improv, Denim & Diamonds Gala, Martini-Vent, and various foodie extravaganzas are just some of the highlights</li>
+          <li>DAC-in-the-box: the goodies you need to fully engage, all delivered to your front door! Includes wine, food and treats!</li>
+          </ul>
+        </mj-text>
+      </mj-column>       
+    </mj-section>
+          
+    <mj-section padding="0px">
+    	<mj-column padding-bottom="20px">
+      	<mj-text color="#e45637" font-weight="450" font-size="16px" padding="0px" align="left">Enrol by June 30: Save $600 on Regular Tuition Fees</mj-text>
+      </mj-column>
+    </mj-section>       
+    
+      <mj-section padding="0px">
+        <mj-column padding="0px">
+          <mj-text  font-weight="450" font-size="16px" padding="0px" align="left">A Sincere Thank You to This Year's Sponsors:</mj-text>
+          <mj-image padding="0px" src="https://uat-phoenix.investmentexecutive.com/wp-content/uploads/sites/3/2021/05/sponsors-1.jpg"></mj-image>
+        </mj-column>
+    </mj-section>   
+          
+          
+  </mj-body>
+</mjml>

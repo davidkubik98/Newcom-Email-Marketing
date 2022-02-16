@@ -1,0 +1,158 @@
+<mjml>
+  <mj-head>
+    <mj-title>SureCure</mj-title>
+    <mj-attributes>
+      <mj-all></mj-all>
+    </mj-attributes>
+    <mj-style>
+      @media only screen and (max-width:480px){
+
+      additional mobile css goes here
+      
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      inline css goes here
+    </mj-style>
+
+  </mj-head>
+
+  <mj-body width="640px">
+    <mj-section padding-bottom="0px">
+      <mj-column background-color="#f2f2f2">
+
+       <mj-image href="https://www.surecurealigners.com/fordoctorslp.html" alt="SureCure - Clear Orthodontic Aligner" padding="0" src="https://media.oralhealthgroup.com/uploads/2021/06/header.jpg"></mj-image>
+
+          
+      </mj-column>
+    </mj-section>
+      
+   <mj-section padding-top="0px" padding-bottom="0px" background-color="#f2f2f2">
+              <mj-column background-color="#f2f2f2" width="20%">
+
+      </mj-column>
+      <mj-column background-color="#f2f2f2" width="80%" >
+				
+        <mj-text  padding-top="25px" color="#31256d" font-weight="500" font-size="26px">
+          <em>Beautiful smiles for your patients.<br>
+          Increased profit for your practice.</em>
+        </mj-text>
+        
+      
+      </mj-column>
+
+    </mj-section>  
+      
+      
+    <mj-section padding-top="0px" padding-bottom="0px" background-color="#f2f2f2">
+      <mj-column background-color="#f2f2f2" width="20%">
+      	<mj-image width="80px" src="https://media.oralhealthgroup.com/uploads/2021/06/check.jpg"></mj-image>
+      
+      </mj-column>
+      <mj-column background-color="#f2f2f2" width="80%">
+        <mj-text line-height="18px"><span style="font-size:16px;font-weight:500;color:#31256d;"><em>Exceptional Outcomes</em></span><br>
+          
+          SureCure<sup>TM</sup> clear aligners are made from Zendura FLX<sup>TM</sup>, the highest-calibre biocompatible material in the world. SureCure aligners have an elastomeric middle layer that generates lower forces on initial insertion, yet have elastic recovery to provide greater tooth-moving forces over time than standard thermo-plastics.</mj-text>
+    	</mj-column >
+    </mj-section>  
+      
+        <mj-section padding-top="0px" padding-bottom="0px" background-color="#f2f2f2">
+      <mj-column background-color="#f2f2f2" width="20%">
+      	<mj-image width="80px" src="https://media.oralhealthgroup.com/uploads/2021/06/chart.jpg"></mj-image>
+      
+      </mj-column>
+      <mj-column background-color="#f2f2f2" width="80%">
+        <mj-text line-height="18px"><span style="font-size:16px;font-weight:500;color:#31256d;"><em>Increased Profitability</em></span><br>
+          
+          Save 40% or more relative to the leading brand.</mj-text>
+    	</mj-column>
+    </mj-section>  
+          
+     
+              <mj-section padding-top="0px" padding-bottom="0px" background-color="#f2f2f2">
+      <mj-column background-color="#f2f2f2" width="20%">
+      	<mj-image width="80px" src="https://media.oralhealthgroup.com/uploads/2021/06/timer.jpg"></mj-image>
+      
+      </mj-column>
+      <mj-column background-color="#f2f2f2" width="80%">
+        <mj-text line-height="18px"><span style="font-size:16px;font-weight:500;color:#31256d;"><em>Class Leading Ease of Use</em></span><br>
+          
+          We accept all scans. At SureCure, we work with files created by any dental scanner or your PVS impressions. We remove barriers, so that you can work with your preferred tools, and do your best work.</mj-text>
+    	</mj-column>
+    </mj-section>  
+                
+                    <mj-section padding-top="0px" padding-bottom="0px" background-color="#f2f2f2">
+      <mj-column background-color="#f2f2f2" width="20%">
+      	<mj-image width="80px" src="https://media.oralhealthgroup.com/uploads/2021/06/computer.jpg"></mj-image>
+      
+      </mj-column>
+      <mj-column background-color="#f2f2f2" width="80%">
+        <mj-text line-height="18px"><span style="font-size:16px;font-weight:500;color:#31256d;"><em>Efficient User-Friendly Software</em></span><br>
+          
+          SureCure's proprietary SureView<sup>TM</sup> software is simple, intuitive, and streamlined, maximizing your efficiency in treatment planning.</mj-text>
+    	</mj-column>
+    </mj-section>  
+                      
+                          <mj-section padding-top="0px" padding-bottom="0px" background-color="#f2f2f2">
+      <mj-column background-color="#f2f2f2" width="20%">
+      	<mj-image width="80px" src="https://media.oralhealthgroup.com/uploads/2021/06/mic.jpg"></mj-image>
+      
+      </mj-column>
+      <mj-column background-color="#f2f2f2" width="80%">
+        <mj-text line-height="18px"><span style="font-size:16px;font-weight:500;color:#31256d;"><em>Professional Customer Support</em></span><br>
+          
+          SureCure provides expert customer support from dental professionals. Our Ortho Assist program provides support from an expert SureCure Orthodontist.</mj-text>
+    	</mj-column>
+    </mj-section>  
+                            
+      <mj-section padding-top="0px" padding-bottom="0px" background-color="#f2f2f2">
+              <mj-column background-color="#f2f2f2" width="20%">
+
+      
+      </mj-column>
+      <mj-column background-color="#f2f2f2" width="80%" >
+				
+        <mj-text font-size="14px" font-weight="500" color="#31256d" line-height="18px">Be sure with SureCure. For cases simple to complex, SureCure delivers exceptional outcomes and incredible value.</mj-text>
+        
+      
+      </mj-column>
+
+    </mj-section>  
+      
+                                            <mj-section padding-top="0px" padding-bottom="0px" background-color="#f2f2f2">
+      <mj-column background-color="#f2f2f2" width="20%">
+      	<mj-image width="80px" src="https://media.oralhealthgroup.com/uploads/2021/06/flag.jpg"></mj-image>
+      
+      </mj-column>
+      <mj-column background-color="#f2f2f2" width="80%">
+        <mj-text line-height="18px"><br>
+          
+          <em>Proudly designed and manufactured in Canada.</em></mj-text>
+    	</mj-column>
+    </mj-section>         
+                                              
+                                             <mj-section padding-top="0px" padding-bottom="0px">
+      <mj-column  width="40%">
+      	<mj-image src="https://media.oralhealthgroup.com/uploads/2021/06/aligner.jpg"></mj-image>
+      
+      </mj-column>
+      <mj-column width="60%">
+        <mj-text line-height="18px"><br><span style="font-size:18px;font-weight:500;color:#31256d;">Save $200 on your first SureCure Case</span><br></mj-text>
+          <mj-image href="https://www.surecurealigners.com/fordoctorslp.html" width="150px"src="https://media.oralhealthgroup.com/uploads/2021/06/book.jpg" alt="Book a Demo"></mj-image>
+    	</mj-column>
+    </mj-section>        
+        
+        
+    <mj-section>
+        <mj-column>
+              <mj-image href="https://www.surecurealigners.com/fordoctorslp.html" padding="0" src="https://media.oralhealthgroup.com/uploads/2021/06/footer.jpg" alt="SureCure Orthodontic Aligners is located at 8400 Lawson Road, Milton Ontario, L9T 0J8. Reach us by phone at 1-844-977-7253 or by email at info@surecurealigners.com. Visit our website at www.surecurealigners.com"></mj-image>
+      
+        </mj-column>
+    </mj-section>
+      
+      
+      
+      
+     
+  </mj-body>
+</mjml>

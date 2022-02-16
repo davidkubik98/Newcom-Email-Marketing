@@ -1,0 +1,79 @@
+<mjml>
+  <mj-head>
+    <mj-title>Addenda Capital</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Verdana"></mj-all>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff" width="640px">
+    
+    
+    <mj-section padding="0px">
+      <mj-column padding="0px">
+
+        <mj-image padding="0px" src="https://www.finance-investissement.com/wp-content/uploads/sites/2/2021/05/Biker-Add_eDir_Fra.jpg"></mj-image>
+
+        <mj-text color="#0f6db6" font-size="24px" font-weight="600" align="left">Addenda Capital launches
+two new climate transition funds</mj-text>
+        
+        <mj-text line-height="1.5em">Addenda Capital is proud to take the next step in supporting the climate transition. We are pleased
+to introduce our two new investment funds designed to encourage public companies that are making
+true and tangible efforts to reduce greenhouse gas (GHG) emissions in pursuit of a resilient, netzero emissions society by 2050 — while also generating compelling financial returns.<br><br>
+          Among the first of their kind in the Canadian market, these sustainable investment solutions are
+the Addenda Climate Transition Canadian Equity Pooled Fund and the Addenda Climate Transition
+International Equity Pooled Fund.<br><br>
+Building on a solid track record of engagement with companies on climate change, we believe this
+path is a constructive, inclusive approach to drive the shift for a lower carbon economy.  </mj-text>
+        <mj-text line-height="1.5em"><b>How will our approach make a difference?</b>
+        	<ul>
+            <li>Companies are chosen based on clear steps they intend to take to reduce their emissions</li>
+            <li>Sustained engagement with management helps companies in achieving specific goals.</li>
+            <li>Selection criteria and carbon footprint limit will be strengthened regularly over the years.</li>
+    
+          </ul>
+        These robust strategies meet the need for investing in cleaner and impact solutions to spur the climate
+transition we need. Join us in making the right choice for a better future.
+
+        </mj-text>
+        
+        
+      </mj-column>
+    </mj-section>
+    
+    <mj-section padding-top="10px">
+      <mj-column padding="0px">
+				<mj-text font-weight="500" padding-bottom="0px"><b>To learn more:</b></mj-text>
+
+        <mj-button font-weight="500" align="left" background-color="#0f6db6" href="https://addendacapital.com/fr-ca/Investissement-durable/Solutions-durables-et-dimpact" padding-bottom="0px"><b>Please visit our website</b></mj-button>
+
+        <mj-text line-height="1.5em" padding-bottom="0px">
+        
+        <b>Contact our team</b><br>
+        <b style="color:#0f6db6">Michel Jalbert</b><br>
+        <em>Executive Vice-President, Business Development and Client Partnerships</em><br>
+          <a href="mailto:m.jalbert@addendacapital.com" style="text-decoration:none;color:#000">m.jalbert@addendacapital.com</a><br>
+         514 298-8657
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+    
+    <mj-section padding-top="10px" padding-left="25px" padding-right="25px">
+      <mj-column background-color="#e7e7e8" >
+
+       	<mj-text line-height="1.25em" padding-top="20px" padding-bottom="20px"font-size="10px"><b>About Addenda Capital.</b> Addenda is a privately-owned investment management firm with more than $35 billion in assets under management. Recognized
+as a leader in sustainable investing, the firm invests for a better future and offers a broad range of strategies, which can be customized to create value for
+a clientele that includes both institutional investors and high net worth individuals. Addenda’s investment processes integrate environmental, social and
+governance issues in order to deliver higher-quality portfolios and promote sustainable financial markets and proactive stewardship.
+Headquartered in Montréal (Québec), Canada, Addenda also has offices in Toronto, Guelph and Regina. It is co-owned by Co-operators Financial Services,
+a subsidiary of Canadian insurance co-operative The Co-operators Group Limited, and by Employees. Addenda is a Sustaining Member of the Responsible
+Investment Association (RIA), an Investor Member of the Green Bond Principles and a signatory of both the United Nations’ Principles for Responsible
+Investment (UN PRI) and the Montréal Carbon Pledge.</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    
+    
+    
+  </mj-body>
+</mjml>

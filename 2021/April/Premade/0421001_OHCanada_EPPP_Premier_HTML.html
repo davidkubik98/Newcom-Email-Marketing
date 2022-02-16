@@ -1,0 +1,538 @@
+
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.1//EN' 'http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd'><html xmlns='http://www.w3.org/1999/xhtml'>
+<html prefix="og: http://ogp.me/ns/fb#">
+<head><style type='text/css'>
+span.preheader { display:none !important; visibility:hidden;line-height:0; opacity:0; font-size:0.1px; color:white; height:0; width:0; }
+</style>
+
+  <!--this is the head-->
+  <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1"> <!-- Forcing initial-scale shouldn't be necessary -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"> <!-- Use the latest (edge) version of IE rendering engine -->
+    <meta name="x-apple-disable-message-reformatting" />  <!-- Disable auto-scale in iOS 10 Mail entirely -->
+    
+    <title></title> <!-- The title tag shows in email notifications, like Android 4.4. -->
+    <!-- Web Font / @font-face : BEGIN -->
+    <!-- NOTE: If web fonts are not required, lines 10 - 27 can be safely removed. -->
+    <!-- Desktop Outlook chokes on web font references and defaults to Times New Roman, so we force a safe fallback font. -->
+    <!-- All other clients get the webfont reference; some will render the font and others will silently fail to the fallbacks. More on that here: http://stylecampaign.com/blog/2015/02/webfont-support-in-email/ -->
+    <!--[if !mso]><!-->
+    <!-- insert web font reference, eg: <link href='https://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'> -->
+    <!--<![endif]-->
+    <!-- Web Font / @font-face : END -->
+    <!-- CSS Reset -->
+    <style>
+        /* What it does: Remove spaces around the email design added by some email clients. */
+        /* Beware: It can remove the padding / margin and add a background color to the compose a reply window. */
+        html,
+        body {
+            margin: 0 auto !important;
+            padding: 0 !important;
+            height: 100% !important;
+            width: 100% !important;
+            line-height: 1.4 !important;
+        }
+
+        /* What it does: Stops email clients resizing small text. */
+        * {
+            -ms-text-size-adjust: 100%;
+            -webkit-text-size-adjust: 100%;
+        }
+
+        /* What it does: Centers email on Android 4.4 */
+        div[style*="margin: 16px 0"] {
+            margin: 0 !important;
+        }
+
+        /* What it does: Stops Outlook from adding extra spacing to tables. */
+        table,
+        td {
+            mso-table-lspace: 0pt !important;
+            mso-table-rspace: 0pt !important;
+        }
+
+        /* What it does: Fixes webkit padding issue. Fix for Yahoo mail table alignment bug. Applies table-layout to the first 2 tables then removes for anything nested deeper. */
+        table {
+            border-spacing: 0 !important;
+            border-collapse: collapse !important;
+            table-layout: fixed !important;
+            margin: 0 auto !important;
+        }
+
+            table table table {
+                table-layout: auto;
+            }
+
+        /* What it does: Uses a better rendering method when resizing images in IE. */
+        img {
+            -ms-interpolation-mode: bicubic;
+        }
+
+        /* What it does: A work-around for iOS meddling in triggered links. */
+        *[x-apple-data-detectors] {
+            color: inherit !important;
+            text-decoration: none !important;
+        }
+
+        /* What it does: A work-around for Gmail meddling in triggered links. */
+        .x-gmail-data-detectors,
+        .x-gmail-data-detectors *,
+        .aBn {
+            border-bottom: 0 !important;
+            cursor: default !important;
+        }
+
+        /* What it does: Prevents Gmail from displaying an download button on large, non-linked images. */
+        .a6S {
+            display: none !important;
+            opacity: 0.01 !important;
+        }
+        /* If the above doesn't work, add a .g-img class to any image in question. */
+        img.g-img + div {
+            display: none !important;
+        }
+
+        /* What it does: Prevents underlining the button text in Windows 10 */
+        .button-link {
+            text-decoration: none !important;
+        }
+        .button-text{text-align: center!important;}
+        /* What it does: Removes right gutter in Gmail iOS app: https://github.com/TedGoas/Cerberus/issues/89  */
+        /* Create one of these media queries for each additional viewport size you'd like to fix */
+        /* Thanks to Eric Lepetit @ericlepetitsf) for help troubleshooting */
+        @media only screen and (min-device-width: 375px) and (max-device-width: 413px) { /* iPhone 6 and 6+ */
+            .email-container {
+                min-width: 375px !important;
+            }
+        }
+
+    </style>
+
+    <!-- Progressive Enhancements -->
+    
+      <style id="media-query-style-element">
+      /* Media Queries */
+
+      @media  screen yahoo and (min-width: 768px){
+         
+      .email-container img.cd-image.image-9ef87491feb0 {
+          width: 67.85714285714286%;
+          height: auto !important;
+        }
+        
+      .email-container img.cd-image.image-5f8626c2b456 {
+          width: 93.33333333333333%;
+          height: auto !important;
+        }
+        
+      .email-container img.cd-image.image-b4e8bdaba9d4 {
+          width: 23%;
+          height: auto !important;
+        }
+        
+      }
+
+      @media screen and (max-width: 768px) {
+          
+      .email-container img.cd-image.image-9ef87491feb0 {
+          width: 67.85714285714286%;
+          height: auto !important;
+        }
+        
+      .email-container img.cd-image.image-5f8626c2b456 {
+          width: 93.33333333333333%;
+          height: auto !important;
+        }
+        
+      .email-container img.cd-image.image-b4e8bdaba9d4 {
+          width: 23%;
+          height: auto !important;
+        }
+        
+
+          .email-container img.no-img-edit {
+            width: 100% !important;
+            height: auto !important;
+          }
+          table, td{
+            width: 100% !important;
+          }
+          div{
+            width: 100% !important;
+            min-width:100%!important;
+          }
+        .social-block-container{
+            padding-left: 0 !important;
+            padding-right: 0 !important;
+          }
+          /* What it does: Forces elements to resize to the full width of their container. Useful for resizing images beyond their max-width. */
+        .fluid {
+            width: 100% !important;
+            max-width: 100% !important;
+            height: auto !important;
+            margin-left: auto !important;
+            margin-right: auto !important;
+          }
+
+          /* What it does: Forces table cells into full-width rows. */
+        .stack-column,
+        .stack-column-center {
+            display: block;
+            width: 100% !important;
+            max-width: 100% !important;
+            direction: ltr !important;
+          }
+
+          /* What it does: Generic utility class for centering. Useful for images, buttons, and nested tables. */
+        .center-on-narrow {
+            text-align: center !important;
+            margin-left: auto !important;
+            margin-right: auto !important;
+            float: none !important;
+          }
+
+          table.center-on-narrow {
+            display: inline-block !important;
+          }
+        .button-text{ max-width:100%!important; box-sizing: border-box!important;}
+      }
+      </style>
+
+    <!-- What it does: Makes background images in 72ppi Outlook render at correct size. -->
+    <!--[if gte mso 9]>
+    <xml>
+      <o:OfficeDocumentSettings>
+        <o:AllowPNG/>
+        <o:PixelsPerInch>96</o:PixelsPerInch>
+     </o:OfficeDocumentSettings>
+    </xml>
+    <![endif]-->
+    
+    
+    
+    <!--Replace with relevant script for different preview behavior -->
+    
+</head>
+<body> <!--  --> <span class='preheader' style='display: none !important; visibility: line-height:0; hidden; opacity: 0; font-size:0.1px; color: white; height: 0; width: 0;'>                                                                                                                                               </span>
+<!--this is the body-->
+  <center style="width: 100%;">
+
+                      <div dir="ltr" style="max-width: 100%; margin: auto; direction: ltr;" class="email-container">
+                      <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="center" width="100%" style="width: 100%; border-width: 1px; border-style: none; border-radius: 0px; background-origin: border-box; background-color: #ebebeb; border-collapse: separate!important;" class="email-container">
+                        <tbody>
+                         <tr>
+                           <td style="width: 100%;">
+                            <!--[if mso]>
+                            <table role="presentation" border="0" cellspacing="0" cellpadding="0" align="center" width="601" style="border-width: 1px; border-style: none; width: 601px; max-width: 601px;  border-collapse: separate!important;" class="email-page-container">
+                           <![endif]-->
+                            <!--[if !mso]><!-- -->
+                             <table role="presentation" cellspacing="0" cellpadding="0" border="0"  align="center" width="602" style="border-width: 1px; border-style: none; width: 602px; max-width: 602px;  border-collapse: separate!important;" class="email-page-container">
+                            <!--<![endif]-->
+                                  <tbody>
+                                      <tr class="section-block">
+                        <td align="center" height="100%" valign="top" width="100%" style=" ">
+                            <!-- Email Section : BEGIN -->
+                            <!--[if mso]>
+                            <table role="presentation"  border="0" cellspacing="0" cellpadding="0" align="center" width="600">
+                              <tr>
+                                <td align="center" valign="top" width="600">
+                           <![endif]-->
+                            <table id="31" role="presentation"  border="0" cellpadding="0" cellspacing="0" align="center" width="100%" style="max-width:600px;">
+                                <tbody>
+                                    <tr>
+                                        <td valign="top" width="100%" style="padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; background-color: #ebebeb;; font-size: 0;">
+                                         <!--[if mso]>
+                                        <table role="presentation"  border="0" cellspacing="0" cellpadding="0" align="center" width="600px" style="table-layout:fixed; border-collapse: collapse; mso-table-lspace:0; mso-table-rspace:0;" cellpadding="0" cellspacing="0" >
+                                        <tr>
+                                        <![endif]-->
+                                        <!--[if mso]><td align="left" valign="top" width="600px"><![endif]--><div style="overflow: visible!important; display: inline-block; width:600px; max-width:600px; min-width:600px; vertical-align:top;" class="stack-column">
+                                    <table role="presentation"  cellspacing="0" cellpadding="0" border="0" width="100%">
+                                        <tbody>
+                                            <tr>
+                                                <td style="padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;">
+                                                    <table role="presentation"  cellspacing="0" cellpadding="0" border="0" width="600px" style="table-layout: fixed; width: 600px;" >
+                                                        <tbody>
+                                                            <tr>
+                          <td width="560" class="text-block-container" style="box-sizing: border-box;white-space: normal;font-family:Arial,Helvetica,sans-serif;font-size:12px;line-height:1.4;color:#000; word-wrap: break-word !important; white-space: normal;  padding-top: 30px; padding-bottom: 10px; padding-left: 20px; padding-right: 20px;"><p style="text-align:center;font-family:Arial;font-size:12px;color:#000000;letter-spacing:0px;line-height:normal;margin:0;word-wrap:break-word !important;font-weight:normal;font-style:normal;text-decoration: none">Click <a cd-link-manager-tab="6" href="https://www.cfmediaview.com/ViewMessage.aspx?org=Newcom&msg={msgid}" target="_blank" style="color: #0c00ff; text-decoration: underline;">here</a> if you are having trouble viewing this message.</p>
+</td>
+                     </tr>
+                                                         </tbody>
+                                                     </table>
+                                                 </td>
+                                             </tr>
+                                        </tbody>
+                                    </table>
+                              </div><!--[if mso]></td><![endif]-->
+                                        <!--[if mso]>
+                                        </tr>
+                                        </table>
+                                        <![endif]-->
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                          <!--[if mso]>
+                            </td>
+                           </tr>
+                          </table>
+                          <![endif]-->
+                          <!-- Email Section : END -->
+                        </td>
+                    </tr><tr class="section-block">
+                        <td align="center" height="100%" valign="top" width="100%" style=" ">
+                            <!-- Email Section : BEGIN -->
+                            <!--[if mso]>
+                            <table role="presentation"  border="0" cellspacing="0" cellpadding="0" align="center" width="600">
+                              <tr>
+                                <td align="center" valign="top" width="600">
+                           <![endif]-->
+                            <table id="32" role="presentation"  border="0" cellpadding="0" cellspacing="0" align="center" width="100%" style="max-width:600px;">
+                                <tbody>
+                                    <tr>
+                                        <td valign="top" width="100%" style="padding-top: 20px; padding-bottom: 0px; padding-left: 20px; padding-right: 20px; background-color: #ffffff;; font-size: 0;">
+                                         <!--[if mso]>
+                                        <table role="presentation"  border="0" cellspacing="0" cellpadding="0" align="center" width="600px" style="table-layout:fixed; border-collapse: collapse; mso-table-lspace:0; mso-table-rspace:0;" cellpadding="0" cellspacing="0" >
+                                        <tr>
+                                        <![endif]-->
+                                        <!--[if mso]><td align="left" valign="top" width="560px"><![endif]--><div style="overflow: visible!important; display: inline-block; width:560px; max-width:560px; min-width:560px; vertical-align:top;" class="stack-column">
+                                    <table role="presentation"  cellspacing="0" cellpadding="0" border="0" width="100%">
+                                        <tbody>
+                                            <tr>
+                                                <td style="padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;">
+                                                    <table role="presentation"  cellspacing="0" cellpadding="0" border="0" width="560px" style="table-layout: fixed; width: 560px;" >
+                                                        <tbody>
+                                                            <!--[if mso]>
+                              <tr>
+                                <td width="560" class="stack-column-center image-block-container" style="vertical-align: top; text-align: center;  background-color: #c8102e; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;">
+                                     <a href="https://www.premierdentalco.com" name="{%22UrlIdOffset%22%3A1}" title="https://www.premierdentalco.com" target="_blank"   cdlinkrefidmso="20" ><img class="center-on-narrow cd-image" height="auto" width="67.85714285714286%" style="vertical-align: middle;" src="https://file-us.clickdimensions.com/premusacom-astlr/files/premier_logo_r_with_tag_r_white_lp.png"  alt="Premier Dental" title="Premier Dental"  /></a>
+                                </td>
+                              </tr>
+                           <![endif]-->
+                          <!--[if !mso]><!-- --><tr>
+                          <td width="560" class="stack-column-center image-block-container" style="vertical-align: top; box-sizing: border-box; text-align: center;  background-color: #c8102e; padding-left: 0%; padding-right: 0%; padding-top: 0%; padding-bottom: 0%;">
+                             <a href="https://www.premierdentalco.com" undefined title="https://www.premierdentalco.com" target="_blank"   cdlinkrefid="20" ><img class="center-on-narrow cd-image image-9ef87491feb0 " height="auto" width="67.85714285714286%" style="vertical-align: middle;" src="https://file-us.clickdimensions.com/premusacom-astlr/files/premier_logo_r_with_tag_r_white_lp.png"  alt="Premier Dental" title="Premier Dental"  /></a>
+                          </td>
+                     </tr><!--<![endif]--><!--[if mso]>
+                              <tr>
+                                <td width="560" class="stack-column-center image-block-container" style="vertical-align: top; text-align: center;   padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;">
+                                     <a href="https://www.premierdentalco.com/enamel-pro-lp/?utm_source=ohc&utm_medium=email&utm_campaign=0421001&utm_term=eppp&utm_content=0421001" name="{%22UrlIdOffset%22%3A1}" title="https://www.premierdentalco.com/enamel-pro-lp/?utm_source=ohc&utm_medium=email&utm_campaign=0421001&utm_term=eppp&utm_content=0421001" target="_blank"   cdlinkrefidmso="21" ><img class="center-on-narrow cd-image" height="373" width="560" style="vertical-align: middle;" src="https://file-us.clickdimensions.com/premusacom-astlr/files/enamel-pro_email-image_2021.jpg"  /></a>
+                                </td>
+                              </tr>
+                           <![endif]-->
+                          <!--[if !mso]><!-- --><tr>
+                          <td width="560" class="stack-column-center image-block-container" style="vertical-align: top; box-sizing: border-box; text-align: center;   padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;">
+                             <a href="https://www.premierdentalco.com/enamel-pro-lp/?utm_source=ohc&utm_medium=email&utm_campaign=0421001&utm_term=eppp&utm_content=0421001" undefined title="https://www.premierdentalco.com/enamel-pro-lp/?utm_source=ohc&utm_medium=email&utm_campaign=0421001&utm_term=eppp&utm_content=0421001" target="_blank"   cdlinkrefid="21" ><img class="center-on-narrow cd-image image-5f8626c2b456 no-img-edit" height="373" width="560" style="vertical-align: middle;" src="https://file-us.clickdimensions.com/premusacom-astlr/files/enamel-pro_email-image_2021.jpg"  /></a>
+                          </td>
+                     </tr><!--<![endif]--><tr>
+                          <td width="520" class="text-block-container" style="box-sizing: border-box;white-space: normal;font-family:Arial,Helvetica,sans-serif;font-size:12px;line-height:1.4;color:#000; word-wrap: break-word !important; white-space: normal;  padding-top: 20px; padding-bottom: 20px; padding-left: 20px; padding-right: 20px;"><h6 style="font-family:Arial;font-size:12px;color:#000000;letter-spacing:0px;line-height:2;text-align:center;margin:0;word-wrap:break-word !important;font-weight:normal;font-style:normal;text-decoration: none;"><span style="font-size:14px"><strong>Intense polish and shine </strong></span><span style="font-size:14px"><em>for lustrous, whiter, brighter teeth</em></span></h6>
+
+<h6 style="font-family:Arial;font-size:12px;color:#000000;letter-spacing:0px;line-height:2;text-align:center;margin:0;word-wrap:break-word !important;font-weight:normal;font-style:normal;text-decoration: none;"><span style="font-size:14px"><strong>Innovative ACP technology </strong></span><span style="font-size:14px"><em>delivers 31% more fluoride uptake*</em></span></h6>
+
+<h6 style="font-family:Arial;font-size:12px;color:#000000;letter-spacing:0px;line-height:2;text-align:center;margin:0;word-wrap:break-word !important;font-weight:normal;font-style:normal;text-decoration: none;"><span style="font-size:14px"><strong>Unique swirls and great taste </strong></span><span style="font-size:14px"><em>for happy patients</em></span></h6>
+</td>
+                     </tr>
+                                                         </tbody>
+                                                     </table>
+                                                 </td>
+                                             </tr>
+                                        </tbody>
+                                    </table>
+                              </div><!--[if mso]></td><![endif]-->
+                                        <!--[if mso]>
+                                        </tr>
+                                        </table>
+                                        <![endif]-->
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                          <!--[if mso]>
+                            </td>
+                           </tr>
+                          </table>
+                          <![endif]-->
+                          <!-- Email Section : END -->
+                        </td>
+                    </tr><tr class="section-block">
+                        <td align="center" height="100%" valign="top" width="100%" style=" ">
+                            <!-- Email Section : BEGIN -->
+                            <!--[if mso]>
+                            <table role="presentation"  border="0" cellspacing="0" cellpadding="0" align="center" width="600">
+                              <tr>
+                                <td align="center" valign="top" width="600">
+                           <![endif]-->
+                            <table id="33" role="presentation"  border="0" cellpadding="0" cellspacing="0" align="center" width="100%" style="max-width:600px;">
+                                <tbody>
+                                    <tr>
+                                        <td valign="top" width="100%" style="padding-top: 5px; padding-bottom: 5px; padding-left: 20px; padding-right: 20px; background-color: #ffffff;; font-size: 0;">
+                                         <!--[if mso]>
+                                        <table role="presentation"  border="0" cellspacing="0" cellpadding="0" align="center" width="600px" style="table-layout:fixed; border-collapse: collapse; mso-table-lspace:0; mso-table-rspace:0;" cellpadding="0" cellspacing="0" >
+                                        <tr>
+                                        <![endif]-->
+                                        <!--[if mso]><td align="left" valign="top" width="560px"><![endif]--><div style="overflow: visible!important; display: inline-block; width:560px; max-width:560px; min-width:560px; vertical-align:top;" class="stack-column">
+                                    <table role="presentation"  cellspacing="0" cellpadding="0" border="0" width="100%">
+                                        <tbody>
+                                            <tr>
+                                                <td style="padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;">
+                                                    <table role="presentation"  cellspacing="0" cellpadding="0" border="0" width="560px" style="table-layout: fixed; width: 560px;" >
+                                                        <tbody>
+                                                            <tr>
+                          <td width="520" class="button-block-container"
+                          style="box-sizing: border-box;white-space: normal;font-family:Arial,Helvetica,sans-serif;font-size:12px;line-height:1.4;color:#000; word-wrap: break-word !important; white-space: normal;
+                           padding-top: 5px; padding-bottom: 5px; padding-left: 20px; padding-right: 20px; text-align: center;">
+                             <!--[if mso]><table role="presentation" cellspacing="0" cellpadding="0" border="0" >
+                                                        <tr>
+                                                            <td valign="top" style="padding: 13px; color:
+                                                             font-weight: normal; word-wrap: break-word !important;
+                                                             word-wrap: break-word !important; white-space: normal; box-sizing: content-box; text-align: center;
+                                                             background-color: #c8102e;
+                                                             border:1px solid #ffffff;border-radius:10px;
+                                                             max-width: 492px;">
+                                                               <p align="center" style="font-family: Arial; color: #ffffff; text-align:center; font-size:20px;"><a class="button-link" href="https://www.premierdentalco.com/enamel-pro-lp/?utm_source=ohc&utm_medium=email&utm_campaign=0421001&utm_term=eppp&utm_content=0421001" title="https://www.premierdentalco.com/enamel-pro-lp/?utm_source=ohc&utm_medium=email&utm_campaign=0421001&utm_term=eppp&utm_content=0421001" target="_blank"
+                     name="{%22UrlIdOffset%22%3A1}"  cdlinkrefidmso="24"  style="text-decoration: none; color:#fff; font-family: Arial;
+                     font-weight: normal; display: inline-block;">Get Free Sample</a></p>
+                                                            </td>
+                                                        </tr></table><![endif]-->
+   <!--[if !mso]><!-- -->
+
+   <a class="button-link" style="display: block;" href="https://www.premierdentalco.com/enamel-pro-lp/?utm_source=ohc&utm_medium=email&utm_campaign=0421001&utm_term=eppp&utm_content=0421001" title="https://www.premierdentalco.com/enamel-pro-lp/?utm_source=ohc&utm_medium=email&utm_campaign=0421001&utm_term=eppp&utm_content=0421001" target="_blank"  cdlinkrefid="24" >
+     <span class="button-text" style="display: inline-block; vertical-align: middle; padding: 13px; font-size: 20px;
+      color: #ffffff; word-wrap: break-word !important; white-space: normal; box-sizing: content-box; text-align: center;
+                             background-color: #c8102e;
+                             border:1px solid #ffffff;border-radius:10px;
+                             max-width: 492px;">Get Free Sample</span>
+   </a>
+<!--<![endif]-->
+                          </td>
+                     </tr><tr>
+                          <td width="520" class="text-block-container" style="box-sizing: border-box;white-space: normal;font-family:Arial,Helvetica,sans-serif;font-size:12px;line-height:1.4;color:#000; word-wrap: break-word !important; white-space: normal;  padding-top: 3px; padding-bottom: 3px; padding-left: 20px; padding-right: 20px;"><p style="font-family:Arial;font-size:12px;color:#000000;letter-spacing:0px;line-height:normal;text-align:left;margin:0;word-wrap:break-word !important;font-weight:normal;font-style:normal;text-decoration: none"><span style="font-size:10px">0421001</span></p>
+
+<p style="font-family:Arial;font-size:12px;color:#000000;letter-spacing:0px;line-height:normal;text-align:left;margin:0;word-wrap:break-word !important;font-weight:normal;font-style:normal;text-decoration: none"><span style="font-size:10px">*A Dental Products Testing study on fluoride shows that Enamel Pro provides 31% greater fluoride uptake into the enamel than prophy pastes without ACP technology.</span></p>
+</td>
+                     </tr>
+                                                         </tbody>
+                                                     </table>
+                                                 </td>
+                                             </tr>
+                                        </tbody>
+                                    </table>
+                              </div><!--[if mso]></td><![endif]-->
+                                        <!--[if mso]>
+                                        </tr>
+                                        </table>
+                                        <![endif]-->
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                          <!--[if mso]>
+                            </td>
+                           </tr>
+                          </table>
+                          <![endif]-->
+                          <!-- Email Section : END -->
+                        </td>
+                    </tr><tr class="section-block">
+                        <td align="center" height="100%" valign="top" width="100%" style=" ">
+                            <!-- Email Section : BEGIN -->
+                            <!--[if mso]>
+                            <table role="presentation"  border="0" cellspacing="0" cellpadding="0" align="center" width="600">
+                              <tr>
+                                <td align="center" valign="top" width="600">
+                           <![endif]-->
+                            <table id="34" role="presentation"  border="0" cellpadding="0" cellspacing="0" align="center" width="100%" style="max-width:600px;">
+                                <tbody>
+                                    <tr>
+                                        <td valign="top" width="100%" style="padding-top: 5px; padding-bottom: 5px; padding-left: 20px; padding-right: 20px; background-color: #d9d9d6;; font-size: 0;">
+                                         <!--[if mso]>
+                                        <table role="presentation"  border="0" cellspacing="0" cellpadding="0" align="center" width="600px" style="table-layout:fixed; border-collapse: collapse; mso-table-lspace:0; mso-table-rspace:0;" cellpadding="0" cellspacing="0" >
+                                        <tr>
+                                        <![endif]-->
+                                        <!--[if mso]><td align="left" valign="top" width="138px"><![endif]--><div style="overflow: visible!important; display: inline-block; width:138px; max-width:138px; min-width:138px; vertical-align:top;" class="stack-column">
+                                    <table role="presentation"  cellspacing="0" cellpadding="0" border="0" width="100%">
+                                        <tbody>
+                                            <tr>
+                                                <td style="padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;">
+                                                    <table role="presentation"  cellspacing="0" cellpadding="0" border="0" width="138px" style="table-layout: fixed; width: 138px;" >
+                                                        <tbody>
+                                                            <!--[if mso]>
+                              <tr>
+                                <td width="138" class="stack-column-center image-block-container" style="vertical-align: top; text-align: center;   padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;">
+                                     <a href="https://www.premierdentalco.com/promise/" name="{%22UrlIdOffset%22%3A1}" title="https://www.premierdentalco.com/promise/" target="_blank"   cdlinkrefidmso="27" ><img class="center-on-narrow cd-image" height="138" width="138" style="vertical-align: middle;" src="https://file-us.clickdimensions.com/premusacom-astlr/files/premier-promise_new-web_black-01.png"  alt="Premier Promise" title="Premier Promise"  /></a>
+                                </td>
+                              </tr>
+                           <![endif]-->
+                          <!--[if !mso]><!-- --><tr>
+                          <td width="138" class="stack-column-center image-block-container" style="vertical-align: top; box-sizing: border-box; text-align: center;   padding-left: 0%; padding-right: 0%; padding-top: 0%; padding-bottom: 0%;">
+                             <a href="https://www.premierdentalco.com/promise/" undefined title="https://www.premierdentalco.com/promise/" target="_blank"   cdlinkrefid="27" ><img class="center-on-narrow cd-image image-b4e8bdaba9d4 " height="138" width="138" style="vertical-align: middle;" src="https://file-us.clickdimensions.com/premusacom-astlr/files/premier-promise_new-web_black-01.png"  alt="Premier Promise" title="Premier Promise"  /></a>
+                          </td>
+                     </tr><!--<![endif]-->
+                                                         </tbody>
+                                                     </table>
+                                                 </td>
+                                             </tr>
+                                        </tbody>
+                                    </table>
+                              </div><!--[if mso]></td><![endif]--><!--[if mso]><td align="left" valign="top" width="5px"><![endif]--><div style="overflow: visible!important; display: inline-block; width:5px; max-width:5px; min-width:5px; vertical-align:top;" class="stack-column">
+                                    <table role="presentation"  cellspacing="0" cellpadding="0" border="0" width="100%">
+                                        <tbody>
+                                            <tr>
+                                                <td style="padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;">
+                                                    <table role="presentation"  cellspacing="0" cellpadding="0" border="0" width="5px" style="table-layout: fixed; width: 5px;" >
+                                                        <tbody>
+                                                            
+                                                         </tbody>
+                                                     </table>
+                                                 </td>
+                                             </tr>
+                                        </tbody>
+                                    </table>
+                              </div><!--[if mso]></td><![endif]--><!--[if mso]><td align="left" valign="top" width="414px"><![endif]--><div style="overflow: visible!important; display: inline-block; width:414px; max-width:414px; min-width:414px; vertical-align:top;" class="stack-column">
+                                    <table role="presentation"  cellspacing="0" cellpadding="0" border="0" width="100%">
+                                        <tbody>
+                                            <tr>
+                                                <td style="padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;">
+                                                    <table role="presentation"  cellspacing="0" cellpadding="0" border="0" width="414px" style="table-layout: fixed; width: 414px;" >
+                                                        <tbody>
+                                                            <tr>
+                          <td width="374" class="text-block-container" style="box-sizing: border-box;white-space: normal;font-family:Arial,Helvetica,sans-serif;font-size:12px;line-height:1.4;color:#000; word-wrap: break-word !important; white-space: normal;  padding-top: 28px; padding-bottom: 10px; padding-left: 20px; padding-right: 20px;"><p style="font-family:Arial;font-size:12px;color:#000000;letter-spacing:0px;line-height:normal;text-align:left;margin:0;word-wrap:break-word !important;font-weight:normal;font-style:normal;text-decoration: none"><span style="font-size:10px">©2021 Premier Dental | All Rights Reserved</span></p>
+
+<p style="font-family:Arial;font-size:12px;color:#000000;letter-spacing:0px;line-height:normal;text-align:left;margin:0;word-wrap:break-word !important;font-weight:normal;font-style:normal;text-decoration: none"><span style="font-size:10px">Premier Dental | 1710 Romano Drive | Plymouth Meeting, PA 19462 USA</span></p>
+
+<p style="font-family:Arial;font-size:12px;color:#000000;letter-spacing:0px;line-height:normal;text-align:left;margin:0;word-wrap:break-word !important;font-weight:normal;font-style:normal;text-decoration: none"><span style="font-size:10px"><a cd-link-manager-tab="1" href="http://www.premierdentalco.com" target="_blank" style="color: #0c00ff; text-decoration: underline;">premierdentalco.com</a>  |  </span><span style="font-size:10px"><a cd-link-manager-tab="1" href="https://www.premierdentalco.com/2018_perspectives_subs/" target="_blank" style="color: #0c00ff; text-decoration: underline;">subscribe to Premier Perspectives</a><span style="color:#c8102e">  |  </span><a cd-link-manager-tab="1" href="https://www.premierdentalco.com/terms-of-use/" target="_blank" style="color: #0c00ff; text-decoration: underline;">terms of use</a>  |  <a cd-link-manager-tab="1" href="https://www.premierdentalco.com/privacy-policy/" target="_blank" style="color: #0c00ff; text-decoration: underline;">privacy</a></span></p>
+</td>
+                     </tr>
+                                                         </tbody>
+                                                     </table>
+                                                 </td>
+                                             </tr>
+                                        </tbody>
+                                    </table>
+                              </div><!--[if mso]></td><![endif]-->
+                                        <!--[if mso]>
+                                        </tr>
+                                        </table>
+                                        <![endif]-->
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                          <!--[if mso]>
+                            </td>
+                           </tr>
+                          </table>
+                          <![endif]-->
+                          <!-- Email Section : END -->
+                        </td>
+                    </tr>
+                                  </tbody>
+                             </table>
+                          </td>
+                         </tr>
+                        </tbody>
+                       </table>
+                      </div>
+                     </center>
+</body>
+</html>
+    </html>

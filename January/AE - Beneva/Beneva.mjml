@@ -1,0 +1,60 @@
+<mjml>
+  <mj-head>
+    <mj-title>Think outside the box this RRSP season</mj-title>
+    <mj-preview>Read two new articles from Beneva</mj-preview>
+  </mj-head>
+  <mj-body width="640px">
+    <mj-section padding-bottom="0px">
+      <mj-column>
+
+ 				<mj-image alt="Beneva Expert Advice - How will this RRSP season be different? Welcome to a new series from Beneva that looks at how concerns about market returns and inflation are increasing interest in insurance risk-managed solutions like segregated funds that offer guarantees at a reasonable price." src="https://www.advisor.ca/wp-content/uploads/sites/5/2022/02/Beneva-Header-Updated.jpg"></mj-image>
+        
+        <mj-divider border-width="2px" border-color="#8f8f8f"></mj-divider>
+        
+        <mj-text font-family="Arial Black" font-size="18px" color="#666666">After two difficult years, investors want guarantees</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section padding-top="0px">
+      <mj-column width="60%">
+      	<mj-image href="https://www.advisor.ca/partner-content_/expert-advice_/how-will-this-rrsp-season-be-different/" src="https://www.advisor.ca/wp-content/uploads/sites/5/2022/02/beneva-article-1.jpg"></mj-image>
+      </mj-column>
+      <mj-column width="40%" vertical-align="top">
+      		<mj-text padding-bottom="90px" font-family="Arial" padding-left="0px" font-size="13px" line-height="16px" letter-spacing="-0.26px">Investors of all ages are looking to put a floor on potential market losses. Here’s why many are turning to insurance risk-managed solutions like segregated funds.</mj-text>
+        <mj-image padding-left="0px" src="https://www.advisor.ca/wp-content/uploads/sites/5/2022/02/learn-more.jpg" href="https://www.advisor.ca/partner-content_/expert-advice_/how-will-this-rrsp-season-be-different/"></mj-image>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section padding-top="0px" padding-bottom="0px">
+      <mj-column>
+      <mj-divider border-width="2px" border-color="#8f8f8f"></mj-divider>
+<mj-text font-family="Arial Black" font-size="18px" color="#666666" font-weight="550">With inflation on the rise, investors care more about price</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section padding-top="0px" padding-bottom="0px">
+      <mj-column width="60%">
+      	<mj-image href="https://www.advisor.ca/partner-content_/expert-advice_/why-does-investment-cost-matter-so-much-this-rrsp-season/" src="https://www.advisor.ca/wp-content/uploads/sites/5/2022/02/beneva-article-2.jpg"></mj-image>
+      </mj-column>
+      <mj-column width="40%" vertical-align="top">
+      		<mj-text padding-left="0px" padding-bottom="90px" font-size="13px" line-height="16px" letter-spacing="-0.26px">Now cost-conscious investors can benefit from insurance risk-managed solutions like segregated funds that offer guarantees at a reasonable price.</mj-text>
+        <mj-image padding-left="0px" src="https://www.advisor.ca/wp-content/uploads/sites/5/2022/02/learn-more.jpg" href="https://www.advisor.ca/partner-content_/expert-advice_/why-does-investment-cost-matter-so-much-this-rrsp-season/"></mj-image>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section padding-top="0px" padding-bottom="0px">
+      <mj-column>
+      <mj-divider border-width="2px" border-color="#8f8f8f"></mj-divider>
+      <mj-spacer height="20px"></mj-spacer>
+      <mj-image width="200px" src="https://www.advisor.ca/wp-content/uploads/sites/5/2022/02/beneva-logo.png"></mj-image>
+      <mj-spacer height="10px"></mj-spacer>
+      </mj-column>
+    </mj-section>
+    
+   	<mj-section>
+      <mj-column>
+        <mj-text container-background-color="#E8E8E8" font-size="8px" font-family="Helvetica" line-height="10px" padding-top="20px" padding-bottom="20px">Beneva designates La Capitale Civil Service Insurer Inc. as an insurer.​© 2022 Beneva. All rights reserved.​™<br>The Beneva name and logo are registered trademarks used under licence.<br><br>Expert advice is a space made available for businesses who wish to publish content for financial professionals. Advisor’s Edge journalists are not involved in writing these articles</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

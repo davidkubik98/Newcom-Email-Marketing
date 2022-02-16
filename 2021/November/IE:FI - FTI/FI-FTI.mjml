@@ -1,0 +1,48 @@
+<mjml>
+
+  <mj-head>
+    <mj-title> FTI </mj-title>
+    <mj-attributes>
+      <mj-all font-family="Sans Serif,Arial"></mj-all>
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff" width="640px">
+    <mj-section>
+      <mj-column>
+
+        <mj-image alt="Le savoir d'entreprise" align="left" width="175px" src="https://www.finance-investissement.com/wp-content/uploads/sites/2/2021/11/brand-knowledge-fr-fti.jpg"></mj-image>
+
+        <mj-text font-size="18px" color="#4e9d2d" font-weight="bold">La croissance de l’ESG, et ce que cela signifie pour les investisseurs</mj-text>
+
+        <mj-text font-size="28px" color="#005598" font-weight="bold" line-height="36px">Comprenez-vous l’incidence
+          d’une orientation ESG sur les
+          investissements ?</mj-text>
+
+        <mj-image href="https://www.finance-investissement.com/le-savoir-dentreprise_/franklin-templeton/comprendre-la-montee-des-facteurs-esg/" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/11/main-image-fti.jpg"></mj-image>
+
+        <mj-text font-size="18px" line-height="24px">La prise en considération des facteurs environnementaux,
+          sociaux et de gouvernance (ESG) est devenue une force
+          dominante de l’industrie de l’investissement. On dénombre
+          actuellement 84 FNB axés sur les facteurs ESG au
+          Canada, dont 34 ont été lancés en 2021 seulement. La
+          durabilité et les rendements positifs ne s’excluent pas
+          mutuellement. En réalité, les performances des deux sont
+          liées.<br><br>
+          <span style="color:#4e9d2d;font-weight:bold;">Découvrez ce que Franklin Templeton pense de la
+            croissance de ce segment de marché, les solutions
+            FNB, et pourquoi tous les investissements seront un
+            jour des investissements ESG.</span>
+        </mj-text>
+
+        <mj-image href="https://www.finance-investissement.com/le-savoir-dentreprise_/franklin-templeton/comprendre-la-montee-des-facteurs-esg/" align="center" alt="Cliquez ici" width="110px" src="https://www.finance-investissement.com/wp-content/uploads/sites/2/2021/11/click-here-fr-fti.jpg"></mj-image>
+
+        <mj-divider padding-top="20px" padding-bottom="30px" border-color="#000" border-width="2px"></mj-divider>
+
+
+        <mj-image align="center" alt="Franklin Templeton" width="300px" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/11/Franklin-Templeton-Logo.jpg"></mj-image>
+
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

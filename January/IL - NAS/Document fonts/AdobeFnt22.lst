@@ -1,0 +1,195 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/timnorton/Desktop/IL_NAS_EBLAST Folder/Document fonts/AdobeFnt22.lst
+FileLength:4466
+FileModTime:664305930
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-BoldMT
+FamilyName:Arial
+StyleName:Bold
+MenuName:Arial
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Arial Bold
+WritingScript:Roman
+OutlineFileName:/Users/timnorton/Desktop/IL_NAS_EBLAST Folder/Document fonts/Arial Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:750984
+FileModTime:664305930
+NameArray:0,Mac,4,Arial Bold
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArialNarrow-Bold
+FamilyName:Arial Narrow
+StyleName:Bold
+MenuName:Arial Narrow
+StyleBits:2
+WeightClass:700
+WidthClass:3
+AngleClass:0
+FullName:Arial Narrow Bold
+WritingScript:Roman
+OutlineFileName:/Users/timnorton/Desktop/IL_NAS_EBLAST Folder/Document fonts/Arial Narrow Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:184420
+FileModTime:664305930
+NameArray:0,Mac,4,Arial Narrow Bold
+NameArray:0,Win,1,Arial Narrow
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArialNarrow-Italic
+FamilyName:Arial Narrow
+StyleName:Italic
+MenuName:Arial Narrow
+StyleBits:1
+WeightClass:400
+WidthClass:3
+AngleClass:1
+FullName:Arial Narrow Italic
+WritingScript:Roman
+OutlineFileName:/Users/timnorton/Desktop/IL_NAS_EBLAST Folder/Document fonts/Arial Narrow Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:184944
+FileModTime:664305930
+NameArray:0,Mac,4,Arial Narrow Italic
+NameArray:0,Win,1,Arial Narrow
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArialNarrow
+FamilyName:Arial Narrow
+StyleName:Regular
+MenuName:Arial Narrow
+StyleBits:0
+WeightClass:400
+WidthClass:3
+AngleClass:0
+FullName:Arial Narrow
+WritingScript:Roman
+OutlineFileName:/Users/timnorton/Desktop/IL_NAS_EBLAST Folder/Document fonts/Arial Narrow.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:179492
+FileModTime:664305930
+NameArray:0,Mac,4,Arial Narrow
+NameArray:0,Win,1,Arial Narrow
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-BdCn
+FamilyName:Helvetica Neue LT Std
+StyleName:77 Bold Condensed
+MenuName:HelveticaNeueLT Std Cn
+StyleBits:2
+WeightClass:700
+WidthClass:3
+AngleClass:0
+FullName:Helvetica Neue LT Std 77 Bold Condensed
+WritingScript:Roman
+OutlineFileName:/Users/timnorton/Desktop/IL_NAS_EBLAST Folder/Document fonts/HelveticaNeueLTStd-BdCn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:30148
+FileModTime:389900080
+DesignSize:120
+NameArray:0,Mac,18,HelveticaNeueLT Std Bold Cn
+NameArray:0,Mac,4,Helvetica Neue LT Std 77 Bold Condensed
+NameArray:0,Win,1,HelveticaNeueLT Std Cn
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Cn
+FamilyName:Helvetica Neue LT Std
+StyleName:57 Condensed
+MenuName:HelveticaNeueLT Std Cn
+StyleBits:0
+WeightClass:400
+WidthClass:3
+AngleClass:0
+FullName:Helvetica Neue LT Std 57 Condensed
+WritingScript:Roman
+OutlineFileName:/Users/timnorton/Desktop/IL_NAS_EBLAST Folder/Document fonts/HelveticaNeueLTStd-Cn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:29504
+FileModTime:209920108
+DesignSize:120
+NameArray:0,Mac,18,HelveticaNeueLT Std Cn
+NameArray:0,Mac,4,Helvetica Neue LT Std 57 Condensed
+NameArray:0,Win,1,HelveticaNeueLT Std Cn
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Md
+FamilyName:Helvetica Neue LT Std
+StyleName:65 Medium
+MenuName:HelveticaNeueLT Std Med
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue LT Std 65 Medium
+WritingScript:Roman
+OutlineFileName:/Users/timnorton/Desktop/IL_NAS_EBLAST Folder/Document fonts/HelveticaNeueLTStd-Md.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:29148
+FileModTime:209920110
+DesignSize:120
+NameArray:0,Mac,18,HelveticaNeueLT Std Med
+NameArray:0,Mac,4,Helvetica Neue LT Std 65 Medium
+NameArray:0,Win,1,HelveticaNeueLT Std Med
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/timnorton/Desktop/IL_NAS_EBLAST Folder/Document fonts/TimesLTMM
+FileLength:208494
+FileModTime:604649685
+%EndFont
+
