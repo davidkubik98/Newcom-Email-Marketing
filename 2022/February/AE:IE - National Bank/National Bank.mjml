@@ -1,0 +1,62 @@
+<mjml>
+  <mj-head>
+    <mj-title>National Bank Financial - Wealth Management offers advisors a chance to grow their businesses</mj-title>
+  	<mj-preview>NBFWM provides broad services and security for clients</mj-preview>
+  </mj-head>
+  <mj-body>
+    <mj-section padding-bottom="0px">
+      <mj-column>
+
+        <mj-image padding-right="0px" align="right" width="200px" src="https://www.advisor.ca/wp-content/uploads/sites/5/2022/02/NBFWM_2D_RGB.png"></mj-image>
+        <mj-image padding-bottom="0px" padding-left="0px" padding-right="0px" src="https://www.advisor.ca/wp-content/uploads/sites/5/2022/02/NB_HEADER.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#F8F6F1" padding-top="0px" padding-bottom="10px">
+      <mj-column width="60%" padding-top="20px">
+      	<mj-image href="https://www.advisor.ca/microsite/industry-insights/what-makes-national-bank-financial-wealth-management-a-key-player/" src="https://www.advisor.ca/wp-content/uploads/sites/5/2022/02/NB-Article-1-eBlast.png"></mj-image>
+      </mj-column>
+      <mj-column padding-top="20px" width="40%" vertical-align="top">
+        	<mj-text font-size="16px" line-height="20px" padding-left="0px"><img style="width:10px;"src="https://www.advisor.ca/wp-content/uploads/sites/5/2022/02/triangle.png"></img> What makes National Bank <span class="mobileAdjust">&nbsp;&nbsp;&nbsp;&nbsp;</span>Financial – Wealth <span class="mobileAdjust">&nbsp;&nbsp;&nbsp;&nbsp;</span>Management a key player?</mj-text>
+      		<mj-text color="#666666" padding-bottom="0px" font-family="Arial" padding-left="15px" font-size="12px" line-height="16px" letter-spacing="-0.26px">Investors of all ages are looking to put a floor on potential market losses. Here’s why many are turning to insurance risk-managed solutions like segregated funds.</mj-text>
+        <mj-image align="left" width="120px" padding-left="15px" src="https://www.advisor.ca/wp-content/uploads/sites/5/2022/02/learn-more-button%402x.png" href="https://www.advisor.ca/microsite/industry-insights/what-makes-national-bank-financial-wealth-management-a-key-player/"></mj-image>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section background-color="#F8F6F1" padding-top="0px" padding-bottom="0px">
+      <mj-column>
+        <mj-divider border-color="#444444" border-width="1px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    
+        <mj-section background-color="#F8F6F1" padding-top="0px">
+      <mj-column width="60%" padding-top="10px">
+      	<mj-image href="https://www.advisor.ca/microsite/industry-insights/why-national-bank-financial-wealth-management-stands-out-from-other-broker-ages/" src="https://www.advisor.ca/wp-content/uploads/sites/5/2022/02/NB-Article-2-eBlast.png"></mj-image>
+      </mj-column>
+      <mj-column padding-top="10px" width="40%" vertical-align="top">
+        	<mj-text font-size="16px" line-height="20px" padding-left="0px"><img style="width:10px;"src="https://www.advisor.ca/wp-content/uploads/sites/5/2022/02/triangle.png"></img> Why National Bank <span class="mobileAdjust">&nbsp;&nbsp;&nbsp;&nbsp;</span>Financial – Wealth <span class="mobileAdjust">&nbsp;&nbsp;&nbsp;&nbsp;</span>Management stands out <span class="mobileAdjust">&nbsp;&nbsp;&nbsp;&nbsp;</span>from other brokerages</mj-text>
+      		<mj-text color="#666666" padding-bottom="15px" font-family="Arial" padding-left="15px" font-size="12px" line-height="16px" letter-spacing="-0.26px">The infrastructure of a bank, but with a boutique feel, NBFWM offers broad services and security for clients.</mj-text>
+        <mj-image align="left" width="120px" padding-left="15px" src="https://www.advisor.ca/wp-content/uploads/sites/5/2022/02/learn-more-button%402x.png" href="https://www.advisor.ca/microsite/industry-insights/why-national-bank-financial-wealth-management-stands-out-from-other-broker-ages/"></mj-image>
+      </mj-column>
+    </mj-section>
+    
+   	<mj-section background-color="#444444">
+      <mj-column width="20%">
+        <mj-image align="left" width="64px" src="https://www.advisor.ca/wp-content/uploads/sites/5/2022/02/money-protect.png"></mj-image>
+      </mj-column>
+ 			<mj-column width="80%">
+        <mj-text padding-left="10px" align="left" color="#F1EDE3" font-family="Arial" font-weight="300" line-height="16px">National Bank Financial – Wealth Management is one of Canada’s largest securities brokerage firms and a solid financial partner for Canadian families. Our mission is to protect our clients’ wealth from generation to generation. Clients and their families can rely on our experienced wealth management professionals for sound, personalized advice that meets their changing needs and helps them achieve their goals.</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  </mj-body>
+</mjml>

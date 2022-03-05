@@ -1,0 +1,68 @@
+<mjml>
+  <mj-head>
+     <mj-font name="Bodoni"
+       href="https://fonts.googleapis.com/css?family=Bodoni+Moda&display=swap" />
+   </mj-head>
+  <mj-body>
+    <mj-section>
+      <mj-column>
+
+        <mj-image padding-left="0px"  padding-right="0px" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2022/03/dethomasheader.jpg"></mj-image>
+        
+        <mj-text font-family="Bodoni" align="center" color="#191e4e" font-size="60px" line-height="65px">Looking for
+independence?</mj-text>
+
+        <mj-text font-family="Bodoni" align="center" color="#191e4e" font-size="60px" line-height="65px">
+Our focus is
+empowering
+our Advisors.</mj-text>       
+        
+                <mj-spacer height="10px"></mj-spacer>
+
+        <mj-divider border-width="1px" ></mj-divider>
+                <mj-spacer height="10px"></mj-spacer>
+
+       
+        <mj-text align="center" color="#191e4e" font-weight="600" font-size="60px" line-height="65px">JOIN OUR FIRM</mj-text>
+        
+        <mj-text align="center" color="#191e4e" font-weight="300" font-size="24px" line-height="30px">of <b>Independent Financial Advisors</b> who
+believe quality and value is better than quantity.
+Our firm has 22 advisor entrepreneurs across
+Canada and over $1.7B in client assets.</mj-text>
+
+        <mj-spacer height="20px"></mj-spacer>
+        
+        <mj-divider border-width="1px"></mj-divider>
+        <mj-spacer height="20px"></mj-spacer>
+
+        
+                <mj-text align="center" color="#191e4e" font-weight="300" font-size="24px" line-height="30px"><b>We work along side our advisors as partners,
+providing support and tools to grow their business.</b><br><br>
+                  • Flat Fee Advisor Model<br>
+• Leading technology and digital processing solutions<br>
+• Holistic Wealth Management focus<br>
+• Best-in class compliance support
+and access to custom portfolio solutions
+</mj-text>
+          <mj-spacer height="20px"></mj-spacer>
+
+        
+                  <mj-divider border-width="1px"></mj-divider>
+       
+                          <mj-spacer height="20px"></mj-spacer>
+
+                  <mj-text align="center" color="#191e4e" font-weight="300" font-size="20px" line-height="28px"><b>De Thomas Wealth Management</b><br>
+9033 Leslie Street Unit 1<br>
+Richmond Hill, ON L4B 4K3<br>
+Visit our website at <a href="https://www.dethomaswealthmanagement.com/" style="color:#191e4e;text-decoration:none;">www.dethomaswealth.com</a>
+</mj-text>
+
+
+        <mj-image width="500px" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2022/03/dethomaslogo.png"></mj-image>
+                    
+     <mj-text align="center" container-background-color="#191e4e" font-size="40px" line-height="60px"><a href="https://www.dethomaswealthmanagement.com/" style="color:#ffffff;text-decoration:none;">www.dethomaswealth.com</a></mj-text>  
+
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

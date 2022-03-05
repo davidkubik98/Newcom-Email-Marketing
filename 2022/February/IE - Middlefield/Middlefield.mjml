@@ -1,0 +1,113 @@
+<mjml>
+  <mj-head>
+    <mj-title>Middlefield</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#fff" width="640px">
+
+    <mj-section padding="0px">
+      <mj-column padding="0px">
+         <mj-image padding="0px" title="Middlefield Group - TSX MSRE.UN (Reserved)" alt="Middlefield Group - TSX MSRE.UN (Reserved)" href="https://www.middlefield.com/" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2022/02/middlefield-logo-header.jpg"></mj-image>
+        <mj-image padding="0px" alt="Invest in green properties with our Sustainable Real Estate Dividend Fund" title="Invest in green properties with our Sustainable Real Estate Dividend Fund" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2022/02/middlefield-header.jpg"></mj-image>
+        <mj-text padding-top="20px" padding-bottom="20px" color="#163a67" align="center" font-size="22px" font-weight="600" line-height="32px">Middlefield Group is pleased to introduce the IPO of our
+          <i style="color:#22b24c;">Sustainable Real Estate</i> Dividend Fund
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px" background-color="#092f57">
+      <mj-column padding="0px">
+
+        <mj-text padding-top="18px" color="#fff" align="center" font-size="20px" font-weight="600" line-height="30px"><i>Investing in Real Estate Companies that are Prioritizing ESG Initiatives</i></mj-text>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0px" padding-bottom="5px" background-color="#092f57" direction="rtl">
+      <mj-column vertical-align="middle" padding="0px" width="70%">
+        <mj-text color="#fff" align="center" font-size="12px" font-weight="600">EXCHANGE OFFER AND CASH OPTION - FEBRUARY 24, 2022</mj-text>
+      </mj-column>
+      <mj-column vertical-align="middle" padding="0px" width="30%">
+        <mj-image title="Click to Learn More" alt="Click to Learn More"  align="center" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2022/02/cta-middlefield.jpg" href="https://www.middlefield.com/"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image width="175px" height="auto" title="Building Efficiency 15-25%" alt="Building Efficiency 15-25%" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2022/02/building-efficiency-middlefield.jpg"></mj-image>
+      </mj-column>
+            <mj-column>
+        <mj-image title="Sustainable REITs 50-70%" alt="Sustainable REITs 50-70%" width="175px" height="auto" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2022/02/sustainable-reits-middlefield.jpg"></mj-image>
+      </mj-column>
+            <mj-column>
+        <mj-image title="Sustainable Building Materials 15-25%" alt="Sustainable Building Materials 15-25%" width="175px" height="auto" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2022/02/sustainable-building-materials-middlefield.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+    
+   	<mj-section padding-bottom="0px" padding-top="0px">
+      <mj-column>
+        <mj-text align="center" color="#092f57" align="center" font-size="20px" line-height="26px">Real estate equities are a proven portfolio diversifier and a great way to dampen the effects of inflation. Learn why now is a great time to own sustainable real estate:</mj-text>
+        
+        <mj-image href="https://www.middlefield.com/" title="Watch Video (2 minutes)" alt="Watch Video (2 minutes)" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2022/02/watch-video-cta-middlefield.jpg" width="175px"></mj-image>
+        
+        <mj-text color="#092f57" align="center" font-size="20px" font-weight="600" line-height="32px">Managed by Award-Winning Real Estate Investment Team
+        </mj-text>
+        
+        <mj-image title="Fundgrade A+ achieved for the year 2021. Refinitiv Lipper Fund Awards 2021 Winner Canada" alt="Fundgrade A+ achieved for the year 2021. Refinitiv Lipper Fund Awards 2021 Winner Canada" padding-left="0" padding-right="0px" padding-bottom="0px" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2022/02/middlefield-footer.jpg"></mj-image>
+       
+      
+      </mj-column>
+    </mj-section>
+    
+    <mj-section background-color="#092f57" padding-top="0px" padding-bottom="0px">
+      <mj-column>
+       <mj-spacer height="15px"></mj-spacer>
+
+        <mj-text align="left" padding-bottom="0px" color="#ffffff" font-size="14px"><b>Expert ESG Advisor</b></mj-text>
+        <mj-text align="left" color="#ffffff" font-size="12px" line-height="20px">Mr. Erlichman is the Chair, ESG at Middlefield. Steve is one of the foremost experts on governance and ESG in Canada and was the Executive Director of the Canadian Coalition for Good Governance. Steve sits on the board of Canada’s Responsible Investment Association (RIA), of which Middlefield is a member and works closely with Middlefield’s portfolio management team on ESG matters.</mj-text>
+                <mj-spacer height="15px"></mj-spacer>
+
+      </mj-column>
+    </mj-section>
+    
+        <mj-section background-color="#0073ff" padding-top="0px" padding-bottom="0px">
+      <mj-column>
+        <mj-spacer height="10px"></mj-spacer>
+        <mj-text align="center" color="#ffffff" font-size="18px" line-height="28px" font-weight="600"><i>Integrates Environmental, Social & Governance considerations to complement fundamental analysis in selecting investments that have sustainable competitive advantages</i></mj-text>
+        <mj-spacer height="10px"></mj-spacer>
+      </mj-column>
+    </mj-section>
+
+
+		<mj-section padding-bottom="0px" direction="rtl" background-color="#d9d9d9">
+            <mj-column background-color="#d9d9d9" padding-left="40px" padding-bottom="0px" width="50%">
+        <mj-text background-color="#d9d9d9" align="left" color="#3A3B3C" font-size="14px" line-height="20px" font-weight="bold">
+<span style="color:#093254;text-decoration:underline;font-size:18px;line-height:26px;"><center>Advisor:</center></span>
+Middlefield Capital Corporation<br>
+          First Canadian Place<br>
+          58th Floor, P.O. Box 192<br>
+          Toronto, Canada M5X 1A6<br>
+
+        
+        </mj-text>
+      </mj-column> 
+      <mj-column background-color="#d9d9d9" padding-bottom="0px" width="50%">
+        <mj-text background-color="#d9d9d9" align="center" font-size="16px" line-height="24px" font-weight="bold">
+          <a href="https://www.middlefield.com/" style="color:#092f57;">www.middlefield.com</a><br>
+        </mj-text>
+				<mj-image alt="Middlefield Funds - Your partner in income and growth since 1979" title="Middlefield Funds - Your partner in income and growth since 1979" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/12/MiddlefieldFunds_since1979_bluecs6.png" width="250px"></mj-image>      
+      </mj-column> 
+
+    </mj-section>
+    <mj-section background-color="#d9d9d9" padding-top="0px">
+      <mj-column background-color="#d9d9d9" padding-top="0px">
+      	<mj-text background-color="#d9d9d9" font-size="9px" line-height="14px" padding-top="20px">A preliminary prospectus containing important information relating to these securities has been filed with securities commissions or similar authorities in each of the provinces of Canada. The preliminary prospectus is still subject to completion or amendment. Copies of the preliminary prospectus may be obtained from any of the agents named above using the contact information for such agent. There will not be any sale or any acceptance of an offer to buy the securities until a receipt for the final prospectus has been issued.
+</mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>

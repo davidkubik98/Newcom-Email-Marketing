@@ -1,0 +1,882 @@
+<!DOCTYPE html>
+<html xml:lang="en" lang="en" style="color-scheme:light dark;supported-color-schemes:light dark;"
+    xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"
+    xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word">
+
+<head>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Open+Sans:wght@300;400;500;600;700&family=Poppins:wght@100;200;300;400&display=swap"
+        rel="stylesheet">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap');
+    </style>
+
+    <style type="text/css">
+        a:hover {
+            text-decoration: none !important
+        }
+
+        .link:hover {
+            text-decoration: none !important
+        }
+
+        .avoid-wrap {
+            display: inline-block;
+        }
+
+        span.green-line {
+            display: inline-block;
+            background-color: #76b150;
+            padding: 1px 0 2px 0;
+            width: 36px;
+            border: 0 none;
+            border-color: #76b150;
+            vertical-align: baseline;
+            Margin-bottom: 4px;
+            Margin-right: 4px;
+        }
+
+        h1,
+        p {
+            Margin: 0;
+        }
+
+        .container {
+            border: 0 none;
+            border-color: #ffffff;
+        }
+
+        .hide-mobile {
+            display: inherit;
+        }
+
+        .hide-desktop {
+            display: none;
+        }
+
+        .hide-mobile600 {
+            display: inherit;
+        }
+
+        .hide-desktop600 {
+            display: none;
+        }
+
+        .fadeimg:hover {
+            transition: 0.3s !important;
+            opacity: 0.5 !important
+        }
+
+        .cta:hover {
+            transition: 0.5s !important;
+            box-shadow: none !important
+        }
+
+        .cta:hover span.text {
+            transition: 0.5s !important;
+            color: #262524 !important
+        }
+
+        .cta-border:hover {
+            border-bottom: 3px solid transparent !important
+        }
+
+        .btn-red:hover {
+            background-color: #F78F7D !important;
+            background-image: none !important
+        }
+
+        .btn-blue:hover {
+            background-color: #B5CFE3 !important;
+            background-image: none !important
+        }
+
+        .btn-green:hover {
+            background-color: #8BD09C !important;
+            background-image: none !important
+        }
+
+        .btn-purple:hover {
+            background-color: #CCB6D4 !important;
+            background-image: none !important
+        }
+
+        .btn-teal:hover {
+            background-color: #6EAFA7 !important;
+            background-image: none !important
+        }
+
+        .btn-orange:hover {
+            background-color: #EBAB66 !important
+        }
+
+        .btn-yellow:hover {
+            background-color: #FBECBC !important
+        }
+
+        .btn-tangerine:hover {
+            background-color: #FACE8F !important
+        }
+
+        u+.body .cta:hover .gmail-screen {
+            background: transparent;
+            mix-blend-mode: normal
+        }
+
+        u+.body .cta:hover .gmail-difference {
+            background: transparent;
+            mix-blend-mode: normal
+        }
+
+        a[x-apple-data-detectors] {
+            color: inherit !important;
+            text-decoration: none !important;
+            font-size: inherit !important;
+            font-family: inherit !important;
+            font-weight: inherit !important;
+            line-height: inherit !important;
+        }
+    </style>
+
+    <style type="text/css">
+        /* Separate media queries just in case... */
+        @media screen and (max-width: 600px) {
+            .wMobile {
+                width: 95% !important;
+            }
+
+            .wInner {
+                width: 85% !important;
+            }
+
+            .wFull {
+                width: 100% !important;
+            }
+
+            .desktop {
+                width: 0 !important;
+                display: none !important;
+            }
+
+            .mobile {
+                display: block !important;
+            }
+
+            .mob-inline {
+                display: inline-block !important;
+            }
+
+            .subhead {
+                font-size: 24px !important;
+                line-height: 34px !important;
+            }
+
+            .tPad-0 {
+                padding-top: 0 !important;
+            }
+
+            .rPad-0 {
+                padding-right: 0 !important;
+            }
+
+            .bPad-0 {
+                padding-bottom: 0 !important;
+            }
+
+            .lPad-0 {
+                padding-left: 0 !important;
+            }
+
+            .tPad-30 {
+                padding-top: 30px !important;
+            }
+
+            .hAuto {
+                height: auto !important;
+            }
+        }
+        @media screen and (max-width: 600px) {
+            .pad_30_15 {
+                padding: 30px 15px !important;
+            }
+        }
+
+        @media (prefers-color-scheme: dark) {
+
+            /* Shows Dark Mode-Only Content, Like Images */
+            .dark-img {
+                display: block !important;
+                width: auto !important;
+                overflow: visible !important;
+                float: none !important;
+                max-height: inherit !important;
+                max-width: inherit !important;
+                line-height: auto !important;
+                Margin-top: 0px !important;
+                visibility: inherit !important;
+            }
+
+            /* Hides Light Mode-Only Content, Like Images */
+            .light-img {
+                display: none;
+                display: none !important;
+            }
+
+            /* Custom Dark Mode Background Color */
+            .darkmode {
+                background-color: #262524 !important;
+                background: #262524 !important;
+            }
+
+            .darkmode2,
+            .callout {
+                background-color: #0E0E0E !important;
+                background: #0E0E0E !important;
+            }
+
+            /* Custom Dark Mode Font Colors */
+            h1,
+            h2,
+            h3,
+            p,
+            span,
+            a,
+            .plainTxt li {
+                color: #FDFDFD !important;
+            }
+
+            /* Custom Dark Mode Text Link Color */
+            .link {
+                color: #7EABCE !important;
+            }
+
+            .footer .link {
+                color: #FDFDFD !important;
+            }
+
+            .cta-border {
+                color: #7EABCE !important;
+                border-bottom: 3px solid #7EABCE !important;
+            }
+
+            .cta-border span {
+                color: #7EABCE !important;
+            }
+
+            .btn-orange span,
+            .btn-yellow span,
+            .btn-tangerine span {
+                color: initial !important;
+            }
+        }
+
+        /* Copy dark mode styles for android support */
+        /* Shows Dark Mode-Only Content, Like Images */
+        /* Hides Light Mode-Only Content, Like Images */
+        /* Custom Dark Mode Background Color */
+        /* Custom Dark Mode Font Colors */
+        /* Custom Dark Mode Text Link Color */
+    </style>
+
+
+    <style type="text/css">
+        /* Custom */
+        .my-btn {
+            display: inline-block;
+        }
+
+
+        img.speaker-img {
+            display: block;
+        }
+
+        h5 {
+            Margin: 1.3em 0 0.6em 0;
+        }
+
+
+        @media screen and (max-width: 600px) {
+            .container {
+                border: 0 none;
+            }
+
+
+            .my-btn {
+                /*
+                display: block;
+                */
+            }
+
+            .hide-mobile600 {
+                display: none;
+            }
+
+            .hide-desktop600 {
+                display: inherit;
+            }
+
+        }
+
+        @media screen and (max-width: 460px) {
+            .header1 {
+                background-size: contain;
+                background-position: top left !important;
+            }
+  
+
+            .header1_td {
+                padding: 300px 0 40px 0 !important;
+            }
+
+            .avoid-wrap {
+                display: inline;
+            }
+
+            .hide-mobile {
+                display: none;
+            }
+
+            .hide-desktop {
+                display: inherit;
+            }
+            .mobile-padding{
+                padding-right: 15px!important;
+                padding-left: 25px!important;
+            }
+
+        }
+    </style>
+    <style type="text/css">
+        @font-face {
+            font-family: 'Bebas';
+            font-style: normal;
+            font-weight: 400;
+            src: local('Bebas'), local('Bebas-Regular'),
+                url('https://ddc.dodc.ca/eblast10/fonts/Bebas-Regular.woff') format('woff'),
+                url('https://ddc.dodc.ca/eblast10/fonts/Bebas-Regular.ttf') format('truetype');
+        }
+    </style>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="format-detection" content="telephone=no, date=no, address=no, email=no">
+    <meta name="x-apple-disable-message-reformatting">
+    <meta name="color-scheme" content="only">
+
+    <title>MFDA and IIROC Advisors Share Their Growth Stories</title>
+
+    <!--[if mso]>
+	<noscript>
+		<xml>
+			<o:OfficeDocumentSettings>
+				<o:AllowPNG />
+				<o:PixelsPerInch>96</o:PixelsPerInch>
+			</o:OfficeDocumentSettings>
+		</xml>
+	</noscript>
+	<![endif]-->
+
+     <!--[if mso 16]>
+        <style> 
+        @media screen and (max-width: 460px) {
+            .headerimg {
+                background-size: contain!important;
+                background-position:center top!important;
+            }
+        }
+        </style>
+    <![endif]-->
+
+
+</head>
+
+<body id="body" class="darkmode body" bgcolor="#ffffff"
+    style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;-webkit-font-smoothing:antialiased;word-spacing:normal;height:100% !important;Margin:0 auto !important;padding:0 !important;width:100% !important;background-color:#ffffff; mso-line-height-rule: exactly;">
+    <div role="article" aria-roledescription="email" aria-label="Coding DODC" xml:lang="en" lang="en">
+
+        <table class="darkmode" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0" role="presentation"
+            style="mso-table-lspace:0pt;mso-table-rspace:0pt;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;border-collapse:collapse !important;width:100%;background-color: #ffffff;">
+            <tr>
+                
+                <td align="center" valign="top"
+                    style="mso-table-lspace:0pt;mso-table-rspace:0pt;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;border-collapse:collapse !important;padding:0px;">
+
+                    <!--[if (gte mso 9)|(IE)]>
+				<table width="760" align="center" cellpadding="0" cellspacing="0" border="0">
+					<tr>
+						<td>
+				<![endif]-->
+
+                    <table width="100%" class="container" cellpadding="0" cellspacing="0" border="0" role="presentation"
+                        style="mso-table-lspace:0pt;mso-table-rspace:0pt;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;border-collapse:collapse !important; width: 100%; max-width:760px;">
+                        <tr>
+                    
+                            <td align="center" valign="top" width="100%" height="381" class="headerimg" background="https://ipcc.ca/documents/23852/531463/header1.jpg"
+                                style="background-position:center top;background-size: cover; min-height: 381px; background-repeat:no-repeat;background-image:url(https://ipcc.ca/documents/23852/531463/header1.jpg);padding: 0 15px 0 15px;">
+                                <!--[if gte mso 9]>
+                            <v:rect xmlns_v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:570pt; height: 286pt; background-color:#003900;">
+                            <v:fill type="frame" src="https://ipcc.ca/documents/23852/531463/header1.jpg" color="#003900" />
+                            <v:textbox style="mso-fit-shape-to-text:true" inset="0,0,0,0">
+                            <![endif]-->
+
+                                <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"
+                                    style="max-width: 760px;">
+                                    <tr>
+                                        <td align="right" valign="top"
+                                            style="text-align: left; vertical-align: top; padding: 300px 0 40px 9%; font-family: 'Open Sans', sans-serif; font-size: 30px; font-weight: 300; color:#FFFFFF;">
+                                            A stronger, more profitable business.
+                                        </td>
+                                    </tr>
+                                </table>
+
+                                <!--[if gte mso 9]>
+                            </v:textbox>
+                            </v:rect>
+                            <![endif]-->
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td class="darkmode2 mobile-padding" bgcolor="#ffffff" align="center" valign="top"
+                                style="mso-table-lspace:0pt;mso-table-rspace:0pt;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;border-collapse:collapse !important;padding:0px; background-color: #ffffff; padding-top: 10px;">
+
+                                <!--[if (gte mso 9)|(IE)]>
+				<table width="640" align="center" cellpadding="0" cellspacing="0" border="0">
+					<tr>
+						<td>
+				<![endif]-->
+
+                                <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"
+                                    style="max-width: 640px;">
+                                    <tr>
+                                        <td align="left" valign="top">
+                                            <br>
+                                            <p
+                                                style="font-family: 'Open Sans', sans-serif; font-size: 20px; line-height: 27px; font-weight: 400; color: #000000;">
+                                                We empower entrepreneurial Advisors to thrive on their own terms.</p><br>
+                                            <p
+                                                style="font-family: 'Open Sans', sans-serif; font-size: 20px; line-height: 27px; font-weight: 400; color: #000000;">
+                                                It&#8217;s
+                                                not about the tools and features we offer. Instead, it&#8217;s about the
+                                                choices you enjoy and the problems we help you solve.</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align="center" valign="top" width="80%"
+                                            style="padding-top: 12px; padding-bottom: 5px; width: 80%;">
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0"
+                                                width="100%" style="max-width: 500px; font-family: 'Open Sans', sans-serif; font-size: 22px; line-height: 45px;">
+                                                <tr>
+                                                    <td align="left" valign="top" width="36"
+                                                        style="text-align: left; vertical-align: center;">
+                                                        <span><img
+                                                            width="28"
+                                                            style="max-width:28px;width:100%;vertical-align:middle;"
+                                                            src="https://ipcc.ca/documents/23852/531463/checkmark.png"
+                                                            alt="checkmark"></span>
+
+                                                    </td>
+                                                    <td align="left" valign="top"
+                                                        style="text-align: left; vertical-align: top;mso-table-lspace:10pt;mso-table-rspace:0pt;">
+                                                            <p
+                                                                style="Margin-bottom:10px;color:#016432;font-weight:bold;">Looking
+                                                                to do business your way?</p>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="left" valign="top" width="36"
+                                                        style="text-align: left; vertical-align: middle;">
+                                                        <span><img
+                                                            width="28"
+                                                            style="max-width:28px;width:100%;vertical-align:middle;"
+                                                            src="https://ipcc.ca/documents/23852/531463/checkmark.png"
+                                                            alt="checkmark"></span>
+
+                                                    </td>
+                                                    <td align="left" valign="top"
+                                                        style="text-align: left; vertical-align: top;mso-table-lspace:10pt;mso-table-rspace:0pt;">
+                                                            <p
+                                                                style="color:#016432;font-weight:bold;line-height:25px;">Want to retain your <br>
+                                                                entrepreneurial freedom?</p>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="darkmode2" bgcolor="#ffffff" align="center" valign="top"
+                                            style="mso-table-lspace:0pt;mso-table-rspace:0pt;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;border-collapse:collapse !important;padding: 5px 0 0 0; background-color: #FFFFFF;">
+                                            <!--[if (gte mso 9)|(IE)]>
+                                            <table width="640" align="center" cellpadding="0" cellspacing="0" border="0">
+                                                <tr>
+                                                    <td>
+                                            <![endif]-->
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0"
+                                                width="100%" style="max-width: 640px;">
+                                                <tr>
+                                                    <td align="center" valign="top" width="100%" style="padding: 0;"
+                                                        class="mobile-padding darkmode2">
+                                                        <a target="_blank" href="https://ebook.ipcdigital.ca/join-ipc/?utm_campaign=2022-advisor-recruiting-march&utm_source=investment-executive&utm_medium=emailutm_content=animated-image">
+                                                            <img src="https://www.ipcc.ca/documents/23852/531463/Computeranimation.gif"
+                                                                alt="Yan Mecca">
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                            </table>
+
+                                            <!--[if (gte mso 9)|(IE)]>
+                                            </td>
+                                            </tr>
+                                            </table>
+                                            <![endif]-->
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align="left" valign="top" >
+                                            <p
+                                                style="font-family: 'Open Sans', sans-serif; font-size: 20px; line-height: 27px; font-weight: normal; color: #000000;">
+                                                Whether you are an <span style="color:#016432;font-weight:600;">IIROC or
+                                                    MFDA Advisor</span>, or an <span
+                                                    style="color:#016432;font-weight:600;">ICPM</span>, we will
+                                                strategically partner with you to do business your way. </p> <p style="padding-top:10px;font-family: 'Open Sans', sans-serif; font-size: 20px; line-height: 27px; font-weight: normal; color: #000000;">Embrace freedom
+                                                and flexibility with access to:</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align="left" valign="top">
+                                            <ul class="plainTxt"
+                                                style="font-family: 'Open Sans', sans-serif; font-size: 20px; line-height: 27px; font-weight: normal; color: #000000; padding-bottom: 6px;">
+                                                <li>Leading technology solutions</li>
+                                                <li>Best-in-class marketing and compliance support</li>
+                                                <li>Top independent money managers globally</li>
+                                                <li>Turnkey portfolios or expert support for custom <br> designed
+                                                    portfolios
+                                                </li>
+                                                <ul>
+                                        </td>
+                                    </tr>
+                                </table>
+                                <!--[if (gte mso 9)|(IE)]>
+							</td>
+							</tr>
+							</table>
+							<![endif]-->
+                            </td>
+                        </tr>
+
+
+                        
+                        <tr>
+                            <td bgcolor="#ffffff" align="center" valign="top"
+                                style="mso-table-lspace:0pt;mso-table-rspace:0pt;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;border-collapse:collapse !important;padding:0px; background-color: #ffffff;">
+                                <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"
+                                    style="max-width: 100%;">
+                                    <tr>
+                                        <td align="center" valign="top" width="100%" height="100"
+                                            background="https://thehub.ipcc.ca/documents/23852/0/btn2.jpg"
+                                            style="background-size: cover; padding: 0;"
+                                            class="mobile-padding">
+                                            <!--[if gte mso 9]>
+							<v:rect xmlns_v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:600pt; height: 75pt; background-color:#003900;color:#000000;">
+								<v:fill type="frame" src="https://ipcc.ca/documents/23852/0/btn2.jpg" color="#003900" />
+								<v:textbox style="mso-fit-shape-to-text:true" inset="0,0,0,0">
+							<![endif]-->
+
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0"
+                                                width="100%" style="max-width: 640px;">
+                                                <tr>
+                                                    <td align="left" valign="middle"
+                                                        style="text-align: left; vertical-align: middle; padding: 10px 0 0 0;">
+                                                        <a target="_blank" href="https://ebook.ipcdigital.ca/join-ipc/?utm_campaign=2022-advisor-recruiting-march&utm_source=investment-executive&utm_medium=emailutm_content=byw-button"
+                                                                style="text-decoration: none !important; color: #ffffff !important;">
+                                                            <p style="font-family: 'Open Sans', sans-serif; font-weight: 300; font-size: 26px; line-height: 28px; color: #ffffff;">
+                                                                START DOING BUSINESS YOUR WAY. 
+                                                            </p>
+                                                        </a>
+                                                    </td>
+                                                    <td align="left" valign="top" width="15%"
+                                                        style="width: 15%; text-align: left; vertical-align: top; padding: 25px 0 0 0;">
+                                                        <a target="_blank" href="https://ebook.ipcdigital.ca/join-ipc/?utm_campaign=2022-advisor-recruiting-march&utm_source=investment-executive&utm_medium=emailutm_content=byw-button"><img
+                                                                src="https://thehub.ipcc.ca/documents/23852/0/arrow.png"
+                                                                alt="Register" width="54" height="54"></a>
+                                                    </td>
+                                                </tr>
+                                            </table>
+
+                                            <!--[if gte mso 9]>
+							</v:textbox>
+							</v:rect>
+							<![endif]-->
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td class="darkmode2" bgcolor="#f5f5f5" align="center" valign="top"
+                                style="mso-table-lspace:0pt;mso-table-rspace:0pt;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;border-collapse:collapse !important;padding:0px; background-color: #f5f5f5; padding-top: 30px;padding-bottom: 30px;">
+
+                                <!--[if (gte mso 9)|(IE)]>
+                                <table width="640" align="center" cellpadding="0" cellspacing="0" border="0">
+                                    <tr>
+                                        <td>
+                                <![endif]-->
+
+                                <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"
+                                    style="max-width: 640px;">
+                                    <tr>
+                                        <td align="center" class="darkmode2" valign="top"
+                                            style="font-family: 'Open Sans', sans-serif; font-size: 25px; line-height: 35px; font-weight: normal; color: #016432;">
+                                            <span class="avoid-wrap"> We invite you to speak with us in
+                                                confidence.</span><br>
+                                            <span class="avoid-wrap">Email <a style="color: #016432; font-weight: bold;"
+                                                    href="mailto:marylou.martinez@ipcc.ca">marylou.martinez@ipcc.ca,</a></span><br>
+                                            <span class="avoid-wrap">and we&#8217;ll schedule a time for a chat.</span>
+                                        </td>
+                                    </tr>
+                                </table>
+                                <!--[if (gte mso 9)|(IE)]>
+                                </td>
+                                </tr>
+                                </table>
+                                <![endif]-->
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="darkmode2" bgcolor="#ffffff" align="center" valign="top"
+                                style="mso-table-lspace:0pt;mso-table-rspace:0pt;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;border-collapse:collapse !important;padding:0px; background-color: #ffffff; padding-top: 30px; padding-bottom: 30px;">
+
+                                <!--[if (gte mso 9)|(IE)]>
+                                <table width="640" align="center" cellpadding="0" cellspacing="0" border="0">
+                                    <tr>
+                                        <td>
+                                <![endif]-->
+
+                                <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"
+                                    style="max-width: 640px;">
+                                    <tr>
+                                        <td align="left" class="darkmode2">                                             
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0"
+                                                width="100%" style="max-width: 640px; font-family: 'Open Sans', sans-serif; font-size: 22px; line-height: 30px;">
+                                                 <tr>
+                                                    <td align="center">
+                                                    <!--[if mso]>
+                                                  <center>
+                                                    <table>
+                                                      <tr>
+                                                        <td width="640">
+                                                  <![endif]-->
+                                                            <table width="640"  border="0" cellpadding="0" cellspacing="0"
+                                                                style="width: 100%; max-width: 640px; Margin: 0 auto;">
+                                                                <tbody>
+                                                                  <tr>
+                                                                    <td align="left" valign="top"
+                                                                    style="font-family: 'Open Sans', sans-serif; font-size: 20px; line-height: 27px; font-weight: normal; color: #000000; padding-bottom: 6px; text-align: left; vertical-align: top;mso-table-lspace:0pt;mso-table-rspace:0pt;">
+                                                                            <p>Sincerely,</p>  
+                                                                    </td>
+                                                                  </tr>
+                                                                    <tr>
+                                                                        <td><a href="https://www.ipcc.ca" target="_blank"><img width="100"
+                                                                                    src="https://ipcc.ca/documents/23852/531463/JohnN_signature-01.jpg" alt="IPC"
+                                                                                    style="display: block;"></a></td>
+
+                                                                    </tr>
+                                                                      <tr>
+                                                                        <td align="left" valign="top"
+                                                                            style="font-family: 'Open Sans', sans-serif; font-size: 20px; line-height: 27px; font-weight: normal; color: #000000; padding-bottom: 6px; text-align: left; vertical-align: top;mso-table-lspace:0pt;mso-table-rspace:0pt;">
+                                                                              <p>John Novachis</p>
+                                                                         	 <p>EVP, Corporate Growth & Development</p>
+                                                                              <p>Investment Planning Counsel</p>
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                            <!--[if mso]>
+                                                  </td></tr></table>
+                                                  </center>
+                                                  <![endif]-->
+                                                        </td>
+                                                </tr>
+                                            </table>
+                                            
+                                        </td>
+                                    </tr>
+                                </table>
+                                <!--[if (gte mso 9)|(IE)]>
+                                </td>
+                                </tr>
+                                </table>
+                                <![endif]-->
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td class="" bgcolor="#ffffff" align="center" valign="top"
+                                style="mso-table-lspace:0pt;mso-table-rspace:0pt;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;border-collapse:collapse !important;padding:0px; background-color: #ffffff;">
+                                <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"
+                                    style="max-width: 100%;">
+                                    <tr>
+                                        <td align="center" valign="top" width="100%" height="100"
+                                            background="https://thehub.ipcc.ca/documents/23852/0/btn2.jpg"
+                                            style="background-size: cover; padding: 0;"
+                                            class="mobile-padding">
+                                            <!--[if gte mso 9]>
+							<v:rect xmlns_v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:600pt; height: 75pt; background-color:#003900;color:#000000;">
+								<v:fill type="frame" src="https://ipcc.ca/documents/23852/0/btn2.jpg" color="#003900" />
+								<v:textbox style="mso-fit-shape-to-text:true" inset="0,0,0,0">
+							<![endif]-->
+
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0"
+                                                width="100%" style="max-width: 640px;">
+                                                <tr>
+                                                    <td align="left" valign="center"
+                                                        style="text-align: left; vertical-align: center; padding: 0;">
+                                                        <p
+                                                            style="font-family: 'Open Sans', sans-serif; font-weight: 300; font-size: 26px; line-height: 28px; color: #ffffff;">
+                                                            DISCOVER MORE AT <a target="_blank" href="https://www.ipcc.ca/advisors?utm_campaign=2022-advisor-recruiting-march&utm_source=investment-executive&utm_medium=emailutm_content=discover-button"
+                                                                style="text-decoration: none !important; color: #ffffff !important; font-weight: bold;"><u
+                                                                    style="padding-bottom: 0; border-bottom:3px solid #ffffff; text-decoration: none !important; color: #ffffff !important;">
+                                                                    <font color="#ffffff">IPCC.CA/ADVISORS</font>
+                                                                </u></a>
+                                                        </p>
+                                                    </td>
+                                                    <td align="left" valign="top" width="15%"
+                                                        style="width: 15%; text-align: left; vertical-align: top; padding: 25px 0 0 0;">
+                                                        <a target="_blank" href="https://www.ipcc.ca/advisors?utm_campaign=2022-advisor-recruiting-march&utm_source=investment-executive&utm_medium=emailutm_content=discover-button"><img
+                                                                src="https://thehub.ipcc.ca/documents/23852/0/arrow.png"
+                                                                alt="Register" width="54" height="54"></a>
+                                                    </td>
+                                                </tr>
+                                            </table>
+
+                                            <!--[if gte mso 9]>
+							</v:textbox>
+							</v:rect>
+							<![endif]-->
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+
+
+                        <tr>
+                            <td class="darkmode2" bgcolor="#ffffff" align="center" valign="top"
+                                style="mso-table-lspace:0pt;mso-table-rspace:0pt;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;border-collapse:collapse !important;padding: 5px 0 0 0; background-color: #FFFFFF;">
+                            </td>
+                        </tr>
+
+                        <tr bgcolor="#4c4c4c" style="background-color: #4c4c4c">
+                            <td colspan="3" bgcolor="#4c4c4c" style="background-color: #4c4c4c" align="center">
+                                <!--[if mso]>
+											<center>
+												<table>
+													<tr>
+														<td width="640">
+											<![endif]-->
+                                <table width="640" bgcolor="#4c4c4c" border="0" cellpadding="0" cellspacing="0"
+                                    style="background-color: #4c4c4c; width: 100%; max-width: 640px; Margin: 0 auto;">
+                                    <tbody>
+                                        <tr bgcolor="#4c4c4c" style="background-color: #4c4c4c">
+                                            <td><a href="https://www.ipcc.ca/?utm_campaign=2022-advisor-recruiting-march&utm_source=investment-executive&utm_medium=emailutm_content=ipc-logo" target="_blank"><img
+                                                        src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2022/02/logo_brown-1.jpg" alt="IPC"
+                                                        style="display: block;"></a></td>
+                                            <td align="right" style="text-align: right;">
+                                                <a target="_blank" href="https://www.linkedin.com/company/investment-planning-counsel/posts"
+                                                    style="Margin: 0 0 auto 0;"><img
+                                                        src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2022/02/LN_btn-1.jpg" alt="LinkedIN IPC"
+                                                        style="display: inline-block;"></a>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <!--[if mso]>
+											</td></tr></table>
+											</center>
+											<![endif]-->
+                            </td>
+                        </tr>
+                        
+<!-- begin footer -->
+<tr>
+    <td align="center" valign="top">
+        <table class="wrapper darkmode4" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="width:100%">
+            <tr>
+                <td align="left" height="15" style="line-height: 15px; height:15px;">&nbsp;</td>
+            </tr>
+            <tr>
+                <td class="darkmode4" width="100%" valign="middle" align="center" style="padding:0px 15px 10px 15px;font-size:11px; font-family: Arial, Helvetica, sans-serif;">
+                    <font class="darkmode4" face="Arial, Helvetica, sans-serif" style="line-height: 1.3em;">
+                        <p>
+
+                        This message was sent to <strong><a href="mailto:[email]"
+                style="text-decoration:none;">[email]</a></strong> by
+                        <strong>Investment Executive</strong>&nbsp;on behalf of <br>
+                        <br>
+                        <strong>Investment Planning Counsel</strong><br> 5015 Spectrum Way, Suite 200<br /> Mississauga, Ontario L4W 0E4<br /> Toll-Free:
+                        <br /> 1-866-664-2880
+                        <br /> Web: <a class="darkmode4" href="https://www.ipcc.ca/">www.ipcc.ca</a>
+</p>
+
+                        <br>
+                        <hr style="width: 300px; background-color: #cccccc!important; height: 1px;">
+                        </strong>
+                    </font>
+                </td>
+            </tr>
+            <tr>
+                <td align="center" style="font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#000000; padding-bottom:15px;">
+                    <table cellpadding="0" cellspacing="0" border="0" align="center" width="100%">
+                        <tr>
+                            <td align="left">&nbsp;</td>
+                            <td align="center" width="100" style="width: 100px;  padding-bottom: 10px;">
+                                <table cellpadding="0" cellspacing="0" border="0" align="center" width="100" style="width: 100px;">
+                                    <tr>
+                                        <td align="center" width="50" style="width: 50px;" valign="top">
+                                            <a href="https://www.facebook.com/InvestmentExecutive" target="_blank" style="text-decoration:none; width: 30px;" rel="noopener external"><img src="https://www.finance-investissement.com/wp-content/uploads/sites/2/2020/04/facebook_50x50.png" alt="Facebook" border="0" width="30" style="width:30px; " /></a>
+                                        </td>
+                                        <td align="center" width="50" style="width: 50px;" valign="top">
+                                            <a href="https://www.linkedin.com/company/investment-executive/?name=linkedin" target="_blank" style="text-decoration:none; width: 30px;" rel="noopener external"><img src="https://www.finance-investissement.com/wp-content/uploads/sites/2/2020/04/linkedIn_50x50.png" alt="Linkedin" border="0" width="30" style="width:30px; " /></a>
+                                        </td>
+                                        <td align="center" valign="top" width="50" style="width: 50px;">
+                                            <a href="https://twitter.com/IE_Canada?name=twitter" target="_blank" style="text-decoration:none; width: 30px;" rel="noopener external"><img src="https://www.finance-investissement.com/wp-content/uploads/sites/2/2020/04/twitter-logo_50x50.png" alt="Twitter" border="0" width="30" style="width:30px;" /></a><br></td>
+                                    </tr>
+                                </table>
+                            </td>
+                            <td align="right">&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td class="darkmode4" align="center" colspan="3" width="100%" style="width:350px; line-height:1.5em;font-family:Arial, Helvetica, sans-serif; font-size:11px;">
+                                <font class="darkmode4" style="line-height:1.5em;font-family:Arial, Helvetica, sans-serif; font-size:11px;color:#000000"> <a href="https://www.investmentexecutive.com/my-account/" OFSYS_Link="S,28157564,1" rel="noopener external" style="color: #000000; " target="_blank">Manage subscription</a> | <a href="https://www.cfmediaview.com/preferences/Newcom/pref.aspx?u={emailhash}&b=IE3"
+                                        style="text-decoration:underline; color:#000000;">Unsubscribe </a><br> <span style="color:#000000">&copy; 2022 Newcom Media Inc.&nbsp;All Rights Reserved.<br> 5353 Dundas St. West, Suite 400 | Toronto | ON | M9B 6H8<br/></span>                                                            <span style="color:#000000">Support:</span> <a href="../service@newcom.ca" style="text-decoration:underline; color:#000000;">service@newcom.ca</a>
+                                    <br>
+                                    <a class="darkmode4" href="https://www.newcom.ca/privacy-policy/?fpid=799707&m32_fp_id=S8cFdG&ctx=newsletter&m32_fp_ctx=DI_MASTER_Relational" OFSYS_Link="S,28157565,1" target="_blank" style="text-decoration:underline; color:#000000;" rel="noopener external">Privacy Policy</a>                                                            | <a href="https://www.newcom.ca/terms-of-use/" OFSYS_Link="S,28157566,1" rel="noopener external" style="color: #000000;" target="_blank">Terms and Conditions</a> <br>
+                                </font>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>
+
+
+<!-- end footer -->
+
+                    </table>
+                    <!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]-->
+                </td>
+            </tr>
+        </table>
+    </div>
+</body>
+
+</html>

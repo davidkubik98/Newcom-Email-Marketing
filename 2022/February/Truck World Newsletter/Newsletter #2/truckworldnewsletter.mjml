@@ -1,0 +1,113 @@
+<mjml>
+  <mj-head>
+    <mj-title>Truck World Newsletter</mj-title>
+    <mj-preview></mj-preview>
+  </mj-head>
+  <mj-body>
+    <mj-section>
+      <mj-column>
+
+        <mj-image padding-bottom="0px" padding-left="0px" padding-right="0px" href="https://www.truckworld.ca/" src="https://www.truckworld.ca/wp-content/uploads/2022/02/TW22-Header.jpg"></mj-image>
+
+        <mj-text font-size="13px" padding-top="5px" padding-bottom="5px" font-family="Arial" font-weight="500" container-background-color="#cd171f" color="#ffffff">Newsletter #1</mj-text>
+
+        <mj-spacer height="15px"></mj-spacer>
+
+        <mj-text font-size="14px" line-height="20px"><b>This year at Truck World, you will have the opportunity to:</b>
+          <ul>
+            <li>Meet <b style="color:#cd171f">350+</b> industry top suppliers</li>
+            <li>Discover <b style="color:#cd171f">50+</b> new exhibitors</li>
+            <li>Contact <b style="color:#cd171f">50+</b> potential employers</li>
+            <li>Check out new products and innovations, available for the Canadian market</li>
+            <li>Participate in the ”Knowledge Stop”, information sessions on the show floor</li>
+          </ul>
+
+          <b>If you are not already registered</b> or if you want to invite a colleague or business
+          partner to Truck World, it’s easy! <a href="https://myconexsys.com/EventRegistration/Website?regId=1151&eCode=TRUCK22&DiscountCode=TW22" style="color:#cd171f;text-decoration:none;font-weight:bold;">CLICK HERE</a> to register online for free with code:
+          <a href="https://myconexsys.com/EventRegistration/Website?regId=1151&eCode=TRUCK22&DiscountCode=TW22" style="color:#cd171f;text-decoration:none;font-weight:bold;">TW22</a>
+
+        </mj-text>
+        <mj-divider border-width="1px"></mj-divider>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="50%" border-right="1px solid #000">
+        <mj-image width="225px" src="https://www.truckworld.ca/wp-content/uploads/2022/02/TW22-floorplan.jpg"></mj-image>
+        <mj-text align="center"><b>See who you'll meet</b></mj-text>
+        <mj-text align="center" padding-top="0px" line-height="18px">Check out the 2022 list of exhibitors through
+          our online interactive floor plan</mj-text>
+        <mj-button href="https://homebase.map-dynamics.com/truckworld2022/marketplace" inner-padding="10px" align="center" background-color="#cd171f" border-radius="10px">LIST OF EXHIBITORS</mj-button>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image width="225px" src="https://www.truckworld.ca/wp-content/uploads/2022/02/highwaystaroftheyear.jpg"></mj-image>
+        <mj-text align="center"><b>Not to be missed</b></mj-text>
+        <mj-text align="center" padding-top="0px" line-height="18px">The 2021 Highway Star of the Year
+          will announced on the show floor,
+          Saturday, April 23</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="50%" border-right="1px solid #000">
+        <mj-image width="150px" src="https://www.truckworld.ca/wp-content/uploads/2022/02/software-telematics-tw22.jpg"></mj-image>
+        <mj-text align="center"><b>Software & Telematics Solutions</b></mj-text>
+        <mj-text align="center" padding-top="0px" line-height="18px">Are you looking for software and / or
+telematics solutions to optimize your
+company’s efficiency? Meet with these
+companies offering solutions in the industry.</mj-text>
+        <mj-button href="https://www.truckworld.ca/computer-telematics/" align="center" inner-padding="10px" background-color="#cd171f" border-radius="10px">VIEW A LIST OF COMPANIES</mj-button>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image width="185px" src="https://www.truckworld.ca/wp-content/uploads/2022/02/invite-colleagues-tw22.jpg"></mj-image>
+        <mj-text align="center" line-height="18px"><b>Invite a colleague or<br>
+            business partner</b></mj-text>
+        <mj-button href="https://myconexsys.com/EventRegistration/Website?regId=1151&eCode=TRUCK22&DiscountCode=TW22" font-size="13px" inner-padding="5px" align="center" background-color="#cd171f" border-radius="10px" line-height="18px">CLICK HERE TO REGISTER<br>
+          AT NO CHARGE</mj-button>
+
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section>
+      <mj-column>
+        <mj-divider border-width="1px"></mj-divider>
+				<mj-spacer height="20px"></mj-spacer>
+        <mj-image href="https://www.youtube.com/watch?v=cxnceT57nXI&list=PL-mH9080HHo1cla72KwvnlW8_kGN5jnXo&index=3&t=7s" width="215px" align="center" src="https://www.truckworld.ca/wp-content/uploads/2022/02/video-tw22.jpg"></mj-image>
+        <mj-text padding-top="0px" align="center" font-weight="300">View the 2022 Truck World promo video</mj-text>
+				<mj-spacer height="20px"></mj-spacer>
+        <mj-divider border-width="1px"></mj-divider>
+        
+        <mj-text  padding-top="30px" align="center" font-size="24px" color="#d71921" font-weight="bold" line-height="42px"><a href="https://www.truckworld.ca/" style="color:#d71921;text-decoration:none;">truckworld.ca</a></mj-text>
+          <mj-text align="center" padding-top="0px" padding-bottom="40px">
+            <table align="center">
+              <tr>
+                <td><a href="https://www.linkedin.com/in/truckworldshow/" style="text-decoration:none;"><img src="https://www.trucknews.com/wp-content/uploads/2021/11/linkedin.png"></img></a></td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td> <a href="https://twitter.com/truckworldshow" style="text-decoration:none;"><img src="https://www.trucknews.com/wp-content/uploads/2021/11/twitter.png"></img></a></td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td><a href="https://www.facebook.com/truckworldshow/" style="text-decoration:none;"><img src="https://www.trucknews.com/wp-content/uploads/2021/11/facebook.png"></img></a></td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td><a href="https://www.instagram.com/truckworldshow/" style="text-decoration:none;"><img src="https://www.trucknews.com/wp-content/uploads/2021/11/instagram.png"></img></a></td>
+              
+              </tr>
+            
+            </table>
+          </mj-text>
+            
+          <mj-text align="center" font-size="24px" font-weight="bold" padding-top="20px" padding-bottom="20px" container-background-color="#e6e6e6">#truckworldshow</mj-text>
+            
+           <mj-image src="https://www.trucknews.com/wp-content/uploads/2021/11/truckworld-sponsors.png"></mj-image>
+            
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
