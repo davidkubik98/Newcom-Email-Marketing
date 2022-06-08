@@ -1,0 +1,141 @@
+<mjml>
+  <!-- https://mjml.io/try-it-live/9hxRcqovk -->
+  <mj-head>
+    <mj-title>Soundbites - Powered by Canada Life</mj-title>
+    <mj-preview></mj-preview>
+    <mj-attributes>
+      <mj-all font-family="Verdana"></mj-all>
+    </mj-attributes>
+  </mj-head>
+  <mj-body width="650px">
+    <mj-section padding-bottom="10px">
+      <mj-column width="650px">
+
+        <mj-image padding="0px" href="https://www.investmentexecutive.com/soundbites/" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2022/05/NEW_HEADER.png"></mj-image>
+        <mj-text padding-bottom="0px" align="center" font-weight="bold" font-size="16px" line-height="20px" >A podcast featuring weekly insights on market trends and investment strategies</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column padding="0px" width="55%">
+        <mj-image padding="0px" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2022/05/main-article.png"></mj-image>
+      </mj-column>
+      <mj-column background-color="#F5F5F5" width="45%" padding="0px">
+        <mj-text color="#272727" font-weight="600" font-size="18px" line-height="18px" background-color="#F5F5F5">Chris Koltek on the role of alternatives in a well-diversified portfolio
+        </mj-text>
+        <mj-text color="#272727" padding-top="0px" font-size="11px" line-height="14px" background-color="#F5F5F5">
+          Diversification, inflation protection, yield enhancement, and downside protection are attractive benefits in the economic conditions we find ourselves in, says the portfolio specialist with Portfolio Solutions Group. But he offers cautions about liquidity risks of alternatives and the importance of due diligence when handling complex investments.
+        </mj-text>
+       <mj-divider border-width="1px" border-color="#707070"></mj-divider>
+        <mj-text padding-top="0px">
+          <table>
+            <tr>
+              <td height="25"><a href="https://www.investmentexecutive.com/soundbites/"><img src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2022/04/share_button%402x-1.png" style="height:25px" height="25" /></a></td>
+              <td width="100%">&nbsp;</td>
+
+              <td height="25"><a href="https://www.investmentexecutive.com/soundbites/equities/economic-conditions-creating-strong-opportunities-for-alternatives"><img src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2022/04/listen_now_button_edirect%402x.png" style="height:25px" height="25" /></a></td>
+
+            </tr>
+          </table>
+
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0px" padding-bottom="0px">
+      <mj-column>
+        <mj-text font-size="18px" color="#777777" align="center" padding-bottom="0px">MORE EPISODES</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- MORE EPISODES START HERE -->
+    <mj-section>
+      <!-- FIRST ARTICLE BEGINS -->
+      <mj-column width="48%" background-color="#F5F5F5">
+        <mj-image padding-top="0px" padding-right="0px" padding-left="0px" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2022/05/article-2.png"></mj-image>
+        <mj-text font-size="14px" color="#272727" line-height="18px" font-weight="600" letter-spacing="-0.28px">Shah Khan on where we are in the economic cycle</mj-text>
+        <mj-text padding-top="0px" font-size="11px" line-height="14px">The Mackenzie portfolio manager explains why the Covid recession was unlike others in recent memory, why it looks like we’re
+          at the end of the economic cycle, and what he’s looking for in companies to invest in.</mj-text>
+       <mj-divider border-width="1px" border-color="#707070"></mj-divider>
+        <mj-text padding-top="0px">
+          <table>
+              <td height="25"><a href="https://www.investmentexecutive.com/soundbites/"><img src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2022/04/share_button%402x-1.png" style="height:25px" height="25" /></a></td>
+              <td width="100%">&nbsp;</td>
+
+              <td height="25"><a href="https://www.investmentexecutive.com/soundbites/equities/economic-conditions-creating-strong-opportunities-for-alternatives"><img src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2022/04/listen_now_button_edirect%402x.png" style="height:25px" height="25" /></a></td>
+          </table>
+
+        </mj-text>
+      </mj-column>
+      <!-- FIRST ARTICLE ENDS -->
+      
+      <!-- MIDDLE SPACING BEGINS -->
+      <mj-column width="2%">
+        <mj-text>&nbsp;</mj-text>
+      </mj-column>
+      <!-- MIDDLE SPACING ENDS -->
+
+      <!-- SECOND ARTICLE BEGINS -->
+      <mj-column width="48%" background-color="#F5F5F5">
+        <mj-image padding-top="0px" padding-right="0px" padding-left="0px" src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2022/05/article-3.png"></mj-image>
+        <mj-text font-size="14px" color="#272727" line-height="18px" font-weight="600" letter-spacing="-0.28px">Ross Cameron on why emerging markets look good after Covid</mj-text>
+        <mj-text padding-top="0px" font-size="11px" line-height="14px">How orthodox monetary policies through the pandemic have put emerging markets ahead of the curve. The Northcape Capital portfolio manager discusses valuations, hidden gems, and value traps.</mj-text>
+        <mj-divider border-width="1px" border-color="#707070"></mj-divider>
+        <mj-text padding-top="0px">
+          <table>
+              <td height="25"><a href="https://www.investmentexecutive.com/soundbites/"><img src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2022/04/share_button%402x-1.png" style="height:25px" height="25" /></a></td>
+              <td width="100%">&nbsp;</td>
+
+              <td height="25"><a href="https://www.investmentexecutive.com/soundbites/equities/economic-conditions-creating-strong-opportunities-for-alternatives"><img src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2022/04/listen_now_button_edirect%402x.png" style="height:25px" height="25" /></a></td>
+          </table>
+
+        </mj-text>
+      </mj-column>
+    	<!-- SECOND ARTICLE ENDS -->
+    </mj-section>
+    <!-- MORE EPISODES END -->
+    
+    <!-- SHARE / MORE EPISODES BUTTONS BEGIN -->
+    <mj-section>
+      <mj-column>
+        <mj-text align="center">
+          <table align="center">
+            <tr>
+              <td><a href="https://www.facebook.com/InvestmentExecutive/" style="text-decoration:none;"><img src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2022/04/share_button%402x-1.png"  width="140"></img></a></td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td> <a href="https://www.linkedin.com/company/investment-executive/" style="text-decoration:none;"><img src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2022/04/more_episodes_button%402x.png" width="140"></img></a></td>
+            </tr>
+          </table>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- SHARE / MORE EPISODES BUTTONS END -->
+
+    <!-- SOCIAL ICONS BEGIN -->
+    <mj-section>
+      <mj-column background-color="#eeeeee">
+        <mj-text align="center">
+          <table align="center">
+            <tr>
+              <td><a href="https://www.facebook.com/InvestmentExecutive/" style="text-decoration:none;"><img src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2022/04/facebook%402x.png" style="width:40px;margin-top:-40px" width="40"></img></a></td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td> <a href="https://www.linkedin.com/company/investment-executive/" style="text-decoration:none;"><img src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2022/04/Group-83%402x.png" style="width:40px;margin-top:-40px" width="40"></img></a></td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td><a href="https://twitter.com/IE_Canada" style="text-decoration:none;"><img src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2022/04/twitter%402x.png" style="width:40px;margin-top:-40px" width="40"></img></a></td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td><a href="https://www.investmentexecutive.com/rss-feeds/" style="text-decoration:none;"><img src="https://www.investmentexecutive.com/wp-content/uploads/sites/3/2022/04/website%402x.png" style="width:40px;margin-top:-40px" width="40"></img></a></td>
+            </tr>
+          </table>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- SOCIAL ICONS END -->
+  </mj-body>
+</mjml>
